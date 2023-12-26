@@ -1,15 +1,9 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
+.banner-principal__row .banner-principal__img
+  animation: float1 3.5s ease-in-out infinite alternate
+  position: relative
+  width: 470px
+  @media screen and ( max-width: $bp-max-lg )
+    width: 400px
 
 @keyframes float1
   0%
@@ -17,3 +11,178 @@
 
   100%
     transform: translateY(0px)
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto  
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #EA526F
+      span 
+        color: white
+        font-weight: 700
+        font-size: small
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#EA526F
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 10px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 10px
+        vertical-align: middle
+      
+    
+  
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px
+
+.m-top      
+  margin-top: -5px !important   
+
+.BorTit
+  border-left: 5px solid $color-acento-contenido
+  padding: 6px 0px 6px 10px  
+
+.bg-1
+  background-color: $color-acento-contenido !important
+  color: white !important
+  text-align: center !important
+
+.hr
+  border: 1px solid #AFAFAF !important
+
+.bg-2
+  background-color:#F5EEEA60
+
+.bg-2_1 
+  background-color:#FCE5E9
+
+.border-bg-2
+  border: 5px solid white
+
+.border-bg-3 
+  border: 2px solid #FCE5E9
+
+.border-white
+  border: 2px solid white  
+
+.bg-3
+  background-color: #F5EEEA60
+  border-radius: 10px
+
+.bg-4
+  background-color: #FFE8DE6E 
+
+.text-color-list
+  color: $color-sistema-texto !important
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected
+  color: white !important  
+
+.tabs-a.color-acento-contenido .tabs-a__tab:hover  
+  color: white !important    
+
+.cajon.color-acento-botones
+  background-color:  #D2E1F1 !important
+
+.bg-card-1
+  background-color: #FFE8DE !important
+  border: 6px solid white
+
+.bg-card-2
+  background-color: #FCE5E9 !important
+  border: 6px solid white
+
+.bg-card-3
+  background-color: #CCECED !important
+  border: 6px solid white
+
+.bg-card-4
+  background-color: #0076A45E !important
+  border: 6px solid white
+
+.bg-white
+  background-color: white !important
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: white !important  
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #F6F6F6 !important  
+
+.bloque-texto-a.color-acento-contenido::before
+  background-color: #FCE5E9 !important 
+
+.bloque-texto-d.color-acento-contenido::before  
+  background-color: #FCE5E9 !important 
+
+.bloque-texto-d i:last-of-type 
+    margin-left: 15px !important
+    vertical-align: text-top !important
+
+.bloque-texto-d i 
+    font-size: 2.5em !important
+    color: #ff4a69 !important
+
+.bloque-texto-d__texto * 
+    display: inline !important    
+
+.bloque-texto-d__autor, .bloque-texto-e__autor 
+    text-align: center !important
+    position: relative !important    
+
+.bloque-texto-d 
+    border-top: 1px solid white !important    
+
+.row-img-color
+  background-color: #FCE5E9 !important 
+  border-left: 15px solid White
+  border-right: 15px solid white
+
+.text-just
+  display: flex
+  align-items: center 
+
+.tab-bold
+  font-weight: bold
+  
+.br-tabble
+  border-right: 1px solid #AFAFAF  !important
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active  
+  font-weight: bold  !important
+
+.img-border-y  
+  border-top: 7px solid white !important
+  border-bottom: 1rem solid white !important  
