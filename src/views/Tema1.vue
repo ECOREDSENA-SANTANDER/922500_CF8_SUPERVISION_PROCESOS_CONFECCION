@@ -102,7 +102,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Proceso de diseño y desarrollo del producto]. En el anexo 2, ubicado en el material complementario podrá consultar la normatividad que regula el proceso de diseño y desarrollo del producto.  
+            p #[b Proceso de diseño y desarrollo del producto]. En el anexo 2, ubicado en el material complementario podrá consultar la normatividad que regula el proceso de diseño y desarrollo del producto.
 
 </template>
 
