@@ -12,6 +12,50 @@
   100%
     transform: translateY(0px)
 
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 0
+    left: -10%
+    max-width: 300px
+    @media screen and (max-width: $bp-max-lg)
+      max-width: 75px
+      top: 68%
+
+  &-2
+    animation: float2 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 5%
+    left: 70%
+    max-width: 180px
+    @media screen and (max-width: $bp-max-lg)
+      max-width: 75px
+      right: 10%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 53%
+    left: -20%
+    width: 310px
+    @media screen and (max-width: $bp-max-lg)
+      max-width: 75px
+      top: 68%
+  
+  &-4
+    animation: float2 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: -12%
+    max-width: 300px
+    @media screen and (max-width: $bp-max-lg)
+      max-width: 75px
+      top: 68%
+
+
+
+
+
 .img-a 
   display: block
   margin: auto
@@ -70,9 +114,6 @@
 .m-top      
   margin-top: -5px !important   
 
-.BorTit
-  border-left: 5px solid $color-acento-contenido
-  padding: 6px 0px 6px 10px  
 
 .bg-1
   background-color: $color-acento-contenido !important
@@ -80,10 +121,11 @@
   text-align: center !important
 
 .hr
-  border: 1px solid #AFAFAF !important
+  border: 0.5px solid #AFAFAF !important
 
 .bg-2
-  background-color:#F5EEEA60
+  background-color: #D2D7E3
+  border-radius: 15px
 
 .bg-2_1 
   background-color:#FCE5E9
@@ -98,11 +140,14 @@
   border: 2px solid white  
 
 .bg-3
-  background-color: #F5EEEA60
-  border-radius: 10px
+  background-color: #FEE7DD
+  height: 473px
+
+.bg34
+  background-color: #fff 
 
 .bg-4
-  background-color: #FFE8DE6E 
+  background-color: #DBFAFA
 
 .text-color-list
   color: $color-sistema-texto !important
@@ -117,21 +162,21 @@
   background-color:  #D2E1F1 !important
 
 .bg-card-1
-  background-color: #FFE8DE !important
+  background-color: #FFE6DB !important
   border: 6px solid white
 
 .bg-card-2
-  background-color: #FCE5E9 !important
+  background-color: #F5E6E9 !important
   border: 6px solid white
 
 .bg-card-3
-  background-color: #CCECED !important
+  background-color: #CDFAFB!important
   border: 6px solid white
 
 .bg-card-4
-  background-color: #0076A45E !important
+  background-color: #DCE3F9 !important
   border: 6px solid white
-
+  
 .bg-white
   background-color: white !important
 
@@ -175,8 +220,13 @@
   align-items: center 
 
 .tab-bold
-  font-weight: bold
-  
+  font-weight: 900
+  color: #9F0925
+
+.tab-bolde
+  font-weight: 900
+  color: #0E0103
+
 .br-tabble
   border-right: 1px solid #AFAFAF  !important
 
@@ -186,3 +236,400 @@
 .img-border-y  
   border-top: 7px solid white !important
   border-bottom: 1rem solid white !important  
+
+///import css-variables from 
+
+.cajon
+  background-color: #F5E6E9
+
+
+
+.cajon.color-acento-contenido
+  background-color: #FFE8DE
+
+.cajon.color-acento-contenido:before 
+    background-color: #FF8A5B;
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number,
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+  background-color: #FBE7DF !important
+  border-radius: 10px;
+
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #F0F0F0 !important
+  border-radius: 10px;
+
+.fondo21
+  background-color: #0CE6EA
+  border-radius: 10px
+
+.titulo-sexto.color-acento-contenido 
+    border-left: 10px solid #9F0925;
+    padding: 3px 0px 3px 10px;
+
+.BorTit
+    border-left: 10px solid #9F0925;
+    padding: 3px 0px 3px 10px;
+
+.bg-1 
+    background-color: #FF6E33 !important;
+    color:  #070504 !important;
+    text-align: center !important;
+
+
+.fondo-grac
+  background: url('../assets/ilustraciones/rec.svg')
+  background-size: 100% 90%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondo-gray
+  background: url('../assets/ilustraciones/rect.svg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondo-gr
+  background: url('../assets/ilustraciones/rect.svg')
+  background-size: 100% 150%
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.titulo-segundo:after 
+    content: '';
+    display: block;
+    height: 4px;
+    width: 140px;
+    border-left: solid 50px;
+    border-left-color: #c00a0a;
+    background-color: #e8e8e8;
+
+
+.tabs-a.color-acento-contenido .tabs-a__tab:hover, .tabs-a.color-acento-contenido .tabs-a__tab:active, .tabs-a.color-acento-contenido .tabs-a__tab:focus 
+    background-color: #1448D3;
+    
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected:before 
+    background-color: #1448D3;
+    color: #fff;
+
+.tarjeta.color-acento-conte--borde
+    background-color: #CDFAFB;
+    border-radius: 10px
+
+.bg1 
+  background-image: url('../assets/ilustraciones/esli.png');
+
+.bg99
+  background-image: url('../assets/ilustraciones/pasos.jpg');
+  border-radius: 15px 15px 15px 15px
+  background-repeat: no-repeat
+  height: 500px
+.slyder-a__tipo-a .slyder-a__btn--atrs 
+    transform: translateY(-50%) rotate(90deg);
+    left: 15px;
+
+.slyder-a__tipo-a .slyder-a__btn--sigt, .slyder-a__tipo-a .slyder-a__btn--atrs 
+    position: absolute;
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    top: 90% !important;
+    background-color: #1448D3;
+    border: 0px;
+
+.slyder-a__tipo-a 
+    position: absolute;
+    inset: 0;
+
+.slyder-a__tipo-a .slyder-a__bullets 
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+
+.slyder-a__bullets 
+    bottom: 25px !important;
+
+.slyder-a__bullets 
+    display: flex;
+    z-index: 10000;
+
+
+.fas.fa-car-side:before 
+    content: "\f553"
+    color: #FF6E33
+
+.per
+  font-size: 1em
+
+
+.slyder-a__bullets__item--active 
+    background-color: #FF6E33;
+    border-color: #FF6E33;
+    opacity: 1;
+
+
+.tarjeta 
+    border-radius: 20px;
+    .p-5 
+      padding: 1rem !important;
+
+.tabs-c.color-acento-contenidoff .tabs-c__tab--active:before 
+    border-top-color: #1448D3;
+
+.tabs-c.color-acento-contenidoff .tabs-c__tab--active 
+    border-bottom-color: #1448D3 !important;
+
+    border-bottom: 6px solid !important;
+
+.fondo-pabg
+  background: url('../assets/ilustraciones/gloo.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.bg-img-blue
+  border-radius: 8px
+  padding: 11px
+  background-color: #1448D3
+
+.cajontt.color-acento-contenido
+  background-color: #0CE6EA
+
+.anexo 
+    display: block;
+    background-color: #f3f9ff;
+    position: relative;
+    margin-left: 16px;
+    padding: 20px;
+    padding-left: 50px;
+    white-space: normal;
+    text-align: left;
+    border-radius: 10px;
+
+.or
+  color: #9F0925
+
+.fondo-pabg4
+  background: url('../assets/ilustraciones/tarre.svg')
+  background-size: 100% 135%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  border-radius: 20px
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+
+.tarje
+  background-color: #F5E6E9
+  border-radius: 12px
+
+.bg-img-blue
+  border-radius: 25px
+  padding: 11px
+  background-color: #9B1F36
+
+.clase2
+  max-width: 60px
+  left: 40px 
+  position: absolute 
+
+.bloque-texto-d i 
+    font-size: 1.5em !important;
+    color: #9F0925;
+
+
+.bg13
+  background-color: #FFECDC
+  border-radius: 10px 
+
+.fa-angle-left:before 
+    content: "\f104";
+    color:#fff
+
+.fa-angle-right:before 
+    content: "\f105";
+    color:#fff
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+    min-width: 50px;
+    max-width: 50px;
+    min-height: 50px;
+    max-height: 50px;
+    flex: auto;
+    border-radius: 50%;
+    border: 2px solid #cccccc;
+    background-color: #1448D3;
+    position: relative;
+    cursor: pointer;
+    transition: border-color 0.2s ease-in-out;
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot:after 
+    content: '';
+    display: block;
+    width: 9px;
+    height: 9px;
+    background-color: #1448D3;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+.linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before 
+    content: '';
+    display: block;
+    width: 50%;
+    height: 3px;
+    background-color: #cccccc;
+
+.linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:before, .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:after 
+    background-color: #1448D3;
+
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before 
+    background-color: #1448D3;
+
+.linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot 
+    border-color: #1448D3;
+
+
+.linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot 
+    border-color: #1448D3;
+    position: relative;
+
+.rojo
+  color:#9F0925 
+
+.bg999
+  background-image: url('../assets/ilustraciones/pasos.jpg');
+  border-radius: 15px 15px 15px 15px
+  background-repeat: no-repeat
+  height: 600px
+
+.color 
+  color: #9F0925 
+
+.tabla-b.color-acento-contenido .tabla-b__header, .color-acento-contenido.tabla-c .tabla-b__header 
+    background-color: #FF6E33;
+
+.tabla-b.color-acento-contenido .tabla-b__header *, .color-acento-contenido.tabla-c .tabla-b__header * 
+    color: #0b0b0b;
+
+
+.cajoo
+  background-color: #FEE7DD
+
+.lista-ul--color.ets
+  line-height: 1.2;
+
+
+.lista-ul--color.et
+  line-height: 1.2;
+
+.fondo-hu
+  background: url('../assets/ilustraciones/jonf.svg')
+  background-size: 100% 180%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondo-huo
+  background: url('../assets/ilustraciones/huo.svg')
+  background-size: 100% 145%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.blancco
+  background-color: #fff
+
+
+.cajonyy
+  background-color: #FEE7DD
+
+.fondo-terce
+  background: url('../assets/ilustraciones/terce.svg')
+  background-size: 100% 150%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondo211
+  background-color: #FFE2D6 
+
+.color-acento-botoones
+  background-color: #FFE2D6
+
+.cultu
+  background: url('../assets/ilustraciones/cultu.svg')
+  background-size: 100% 150%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.lio.cajon.color-acento-contenido
+  height: 448px
+
+.bg-22
+  background-color: #DBFAFA
+
+.tab-boldoo
+  font-weight: 900
+  color: #0E0103
+
+.ert
+  background: url('../assets/ilustraciones/ert.svg')
+  background-size: 100% 130%
+  background-repeat: no-repeat
+  background-position: top 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.cajaaa
+  background-color: #FBF9FA
+
+.npr
+  background: url('../assets/ilustraciones/npr.svg')
+  background-size: 100% 150%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+
+
+.cajoenee 
+  background-color: #DBFAFA
+
+.cajaaaa
+  background-color: #FAE6DD
+
+.cahii
+  background-color: #FFE8DE
+
+.lista-ul--color.eto
+  line-height: 1;

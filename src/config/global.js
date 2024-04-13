@@ -3,8 +3,26 @@ export default {
     componenteFormativo: 'Ensamble de prendas de vestir',
     descripcionCurso:
       'La trazabilidad en la elaboración de prendas de vestir es importante en cuanto a las herramientas, maquinarias e insumos y su aplicación, de acuerdo con las rutas operacionales de confección.  Así mismo, la comprensión de los procesos, que al combinarse posibilitan la interpretación de patrones y permiten la materialización de productos dispuestos en la confección industrial, junto con la supervisión de acabados y terminados basados en criterios técnicos y de calidad.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1'],
+        imagen: require('@/assets/curso/portada/1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -33,13 +51,7 @@ export default {
         titulo: 'Normas generales para la confección de prendas de vestir',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo:
-              'Normas generales de seguridad para la labor en la confección de prendas',
-            hash: 't_2_1',
-          },
+          {},
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
