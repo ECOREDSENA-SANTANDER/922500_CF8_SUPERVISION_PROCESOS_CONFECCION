@@ -65,52 +65,57 @@
             figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
     
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-sm-12.col-lg-10.text-center
         p.mt-5 Existen varios conceptos, y cada persona puede determinar su concepto propio, además de tener en cuenta las definiciones de los estudiosos del tema, entre los cuales se encuentra:
     
     
-    .row.justify-content-center.align-items-center.mt-5
-      .col-sm-12.col-lg-12 
-        .row.justify-content-center.align-items-center 
-          .col-lg-5
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img30.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b W. Edwards Deming (1988)], quien menciona el significado de calidad, como producir un producto a bajo costo con características medibles que satisfagan al cliente.
-
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img33.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b Armand V. Feigenbaum (1991)], comprendió que el inicio de la calidad es en el diseño del producto y finaliza cuando el consumidor lo utiliza.
-
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img35.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b Philip B. Crosby (1996)],  resaltó en el concepto el cumplimiento de requisitos y de normas.  
-
-          .col-lg-5
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img31.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b Kaoru Ishikawa (1988)], resalta el control en todos los procesos y las personas de la empresa involucradas para obtener el producto más útil, más económico, y satisfactorio al consumidor final. 
-
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img34.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b M. Juran (1993)], calidad como un conjunto de características que satisfacen al cliente sin tener errores. 
-
-            .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-              .col-lg-3
-                img.img-t.img-a.my-2(src='@/assets/ilustraciones/img36.svg', alt='')          
-              .col-lg-9
-                p.mb-0 #[b Valls (2007)], resalta que la calidad es cumplir los requisitos del cliente para obtener el desarrollo de la empresa. 
-
+    
+    
+    .row.d-flex.align-items-center.justify-content-center(data-aos="zoom-in-left").mx-0
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img30.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b W. Edwards Deming (1988)], quien menciona el significado de calidad, como producir un producto a bajo costo con características medibles que satisfagan al cliente.
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img31.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b Kaoru Ishikawa (1988)], resalta el control en todos los procesos y las personas de la empresa involucradas para obtener el producto más útil, más económico, y satisfactorio al consumidor final. 
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img33.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b Armand V. Feigenbaum (1991)], comprendió que el inicio de la calidad es en el diseño del producto y finaliza cuando el consumidor lo utiliza.
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img34.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b M. Juran (1993)], calidad como un conjunto de características que satisfacen al cliente sin tener errores. 
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img35.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b Philip B. Crosby (1996)],  resaltó en el concepto el cumplimiento de requisitos y de normas.  
+      .col-lg-5
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.img-a.img-t(src='@/assets/ilustraciones/img36.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--blanc
+            .p-2
+              p.my-3 #[b Valls (2007)], resalta que la calidad es cumplir los requisitos del cliente para obtener el desarrollo de la empresa. 
+      
 
     p.mt-5 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.    
 
@@ -128,89 +133,35 @@
           strong.color cliente
           |, se puede plantear de 3 niveles de satisfacción:  
         
-        .row.justify-content-center.align-items-center
-          .col-lg-4.blancco
-            img.img-t(src='@/assets/ilustraciones/img70.svg', alt='')      
-            p.mb-0 #[b Necesidades] 
-            p  Principal objetivo del producto
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Ser funcional.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Resolver el problema.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Entrega oportuna.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 4.
-                    .list__txt 
-                        span Respetar el precio acordado.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 5.
-                    .list__txt 
-                        span.mb-4 Tiempo de duración de vida útil.
-          .col-lg-4.blancco
-            img.img-t(src='@/assets/ilustraciones/img71.svg', alt='')      
-            p #[b Expectativas]
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Darle importancia al cliente.
-                .list.mt-2
-                    .list__item
-                      .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Trato cordial y amable.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Hacerlo sentir importante. 
-          .col-lg-4.blancco
-            img.img-t(src='@/assets/ilustraciones/img72.svg', alt='')      
-            p #[b Superar expectativas]
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Asistencia técnica.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Descuentos.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Tiempos de entrega.  
+        
+        .row.justify-content-center.mb-5
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w2.mb-5(src='@/assets/ilustraciones/img70.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mb-0.my-5.color #[b Necesidades] 
+                p.mb-4 Principal objetivo del producto
+                p.mb-0 #[b a.] Ser funcional.
+                p.mb-0 #[b b.] Resolver el problema.
+                p.mb-0 #[b c.] Entrega oportuna.
+                p.mb-0 #[b d.] Respetar el precio acordado.
+                p.mb-0 #[b e.] Tiempo de duración de vida útil.
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w2(src='@/assets/ilustraciones/img71.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Expectativas] 
+                p.mb-0 #[b a.] Darle importancia al cliente.
+                p.mb-0 #[b b.] Trato cordial y amable.
+                p.mb-0 #[b c.] Hacerlo sentir importante.
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w2(src='@/assets/ilustraciones/img72.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Superar expectativas] 
+                p.mb-0 #[b a.] Asistencia técnica.
+                p.mb-0 #[b b.] Descuentos.
+                p.mb-0 #[b c.] Tiempos de entrega. 
 
 
     .row.justify-content-center.align-items-center.mt-5 
@@ -322,7 +273,8 @@
                     strong.color Análisis y definición de acciones correctivas
                     |, análisis de causas de defectos. 
           .col-sm-12.col-lg-6
-            img.mb-5(src='@/assets/ilustraciones/nuev.svg', alt='') 
+            .cojo
+              img.mb-5(src='@/assets/ilustraciones/nuev.svg', alt='') 
     
     
     .row.fondo-terce.align-items-center.py-4.py-md-3.mb-5
@@ -803,9 +755,10 @@
           ul.lista-ul--color.mx-5.my-1
             li.d-flex
               i.fas.fa-car-side.mb-0
-              p.color Disponibilidad
               |
-              p Tiempo de obtenerlos para usar.
+              p  
+                strong.color Disponibilidad   
+                | Tiempo de obtenerlos para usar.
             li.d-flex
               i.fas.fa-car-side.mb-0
               |
@@ -975,137 +928,172 @@
             img.img-t.img-a(src="@/assets/ilustraciones/rute.svg")
         
         
-    p.mt-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.                                       
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        a.anexo(:href="obtenerLink('/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p #[b Anexo]. Códigos de defectos (denim, casual, militar, work) 
+    p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.                                       
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-6
+        .fondo21.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0          
+                  p.my-2 Anexo. Códigos de defectos (denim, casual, militar, work).
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+    
+    
+    .row.pon.align-items-center.py-4.py-md-3.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
 
-    .h4.mt-5(data-aos="fade-right") Control de Calidad en patronaje
-    .row.justify-content-center.align-items-stretch.mt-5 
-      .col-lg-6.cajon.color-acento-botones.text-just.p-4
-        p.mb-0 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.    
-      .col-lg-6
-        p En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
+        .mb-4.d-flex.mb-5.mt-5
+          .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en insumos, materiales y textiles
+            img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
 
-        p.mb-0 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
-
-    .row.justify-content-center.align-items-stretch
-      .col-lg-3(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2_1 #[b Explícitos] 
-              p.p-3 Declarados por el cliente, según expectativas del cliente. 
-
-      .col-lg-3(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2_1 #[b Implícitos]
-            p.p-3 Necesarios para que cumplan función.
-
-
-      .col-lg-3(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2_1 #[b Legales o reglamentarios]
-            p.mb-0.p-3 De acuerdo con cumplir leyes.
-              br
-              br
-              
-
-      .col-lg-3(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2_1 #[b Legales o reglamentarios]
-            p.mb-0.p-3 Según las políticas de la empresa.
-              br
-              br              
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-7
+            .cajppp.p-4.mb-5 
+              p.mb-2.mx-4.my-3 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.
+            p.mb-5 En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
+            p.mb-4 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
+          .col-sm-12.col-lg-5
+            img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png")
             
-    p.mt-5 Los requisitos para revisar en patronaje son: 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Medidas 
-        p(data-aos="fade-left") Del patrón con costuras y sin costuras; para comparar medidas con la prenda terminada, corresponda con la talla, además revisar que las medidas de las piezas sean iguales al unir, además de tener simetría, se puede superponer las piezas para observar que estas coincidan en cuanto a sus longitudes.
-        .hr  
+        .row.justify-content-center.mb-5
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Explícitos] 
+                p.mb-4  Declarados por el cliente, según expectativas del cliente.
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/imp.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Implícitos] 
+                p.mb-0 Necesarios para que cumplan función.
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/leg.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Legales o reglamentarios] 
+                p.mb-0 De acuerdo con cumplir leyes.
+          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+            .tarjeta-avatar
+              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/rel.svg' alt='')
+              div.bg15.p-4.pt-5.h-100
+                p.mt-5.color #[b Relacionados con la empresa] 
+                p.mb-0 Según las políticas de la empresa.
+              
+    
+    .row.medidas.align-items-center.py-4.py-md-3.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
+   
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-10          
+            p.mt-5 Los requisitos para revisar en patronaje son: 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Cantidad de piezas 
-        p(data-aos="fade-left") Correspondencia de piezas respecto al diseño y al dibujo plano del patrón.  
-        .hr  
+        .row.justify-content-center.align-items-center.mt-5.mb-5
+          .col-lg-10
+            h4(data-aos="fade-right") Medidas 
+            p(data-aos="fade-left") Del patrón con costuras y sin costuras; para comparar medidas con la prenda terminada, corresponda con la talla, además revisar que las medidas de las piezas sean iguales al unir, además de tener simetría, se puede superponer las piezas para observar que estas coincidan en cuanto a sus longitudes.
+            .hr  
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Señalización de pieza 
-        p(data-aos="fade-left") Debe contener identificación de la prenda, no se debe prestar a dualidades de información, además de contener la cantidad a cortar en cada pieza. 
-        .hr  
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-10
+            h4(data-aos="fade-right") Cantidad de piezas 
+            p(data-aos="fade-left") Correspondencia de piezas respecto al diseño y al dibujo plano del patrón.  
+            .hr  
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Aplomos 
-        p(data-aos="fade-left") Indicación clara de las líneas de aplomo de cada pieza.
-        .hr  
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-10
+            h4(data-aos="fade-right") Señalización de pieza 
+            p(data-aos="fade-left") Debe contener identificación de la prenda, no se debe prestar a dualidades de información, además de contener la cantidad a cortar en cada pieza. 
+            .hr  
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Costuras 
-        p(data-aos="fade-left") Márgenes de costura en cada pieza, y la correspondencia con la pieza a unir; por ejemplo, si en el hombro en la pieza del delantero el ancho es de 1 cm de margen de costura, en el hombro posterior debe corresponder a la misma medida de margen de costura. 
-        .hr  
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-10
+            h4(data-aos="fade-right") Aplomos 
+            p(data-aos="fade-left") Indicación clara de las líneas de aplomo de cada pieza.
+            .hr  
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Piquetes y puntos
-        p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas en correspondencia con los marcados en el patronaje o molde de una pieza. 
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-10
+            h4(data-aos="fade-right") Costuras 
+            p(data-aos="fade-left") Márgenes de costura en cada pieza, y la correspondencia con la pieza a unir; por ejemplo, si en el hombro en la pieza del delantero el ancho es de 1 cm de margen de costura, en el hombro posterior debe corresponder a la misma medida de margen de costura. 
+            .hr  
 
-        .hr  
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-10
+            h4(data-aos="fade-right") Piquetes y puntos
+            p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas en correspondencia con los marcados en el patronaje o molde de una pieza. 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        h4(data-aos="fade-right") Plantillas 
-        p(data-aos="fade-left") Funcionalidad de la plantilla y sus medidas. 
-        .hr                                                         
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-8
-        .row.justify-content-center.align-items-center
-          .col-lg-6(data-aos="fade-right")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p #[b Anexo]. Hoja de patronaje y corte.          
-          .col-lg-6(data-aos="fade-left")
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=EUH9LPWhh3k" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p #[b Enlace web]. Inspección producto en proceso área de patronaje y corte.
+            .hr  
+
+        .row.justify-content-center.align-items-center.mt-5.mb-4
+          .col-lg-10
+            h4(data-aos="fade-right") Plantillas 
+            p(data-aos="fade-left") Funcionalidad de la plantilla y sus medidas. 
+
+
+        .row.justify-content-center.align-items-center.mb-4
+          .col-sm-12.col-lg-6
+            .fondo21.p-3
+              .row.justify-content-around.align-items-center
+                .col-3.col-sm-2.col-lg-2
+                  img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0          
+                      p.my-2 Anexo. Hoja de patronaje y corte.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf" target="_blank")
+                        span Descargar
+                        i.fas.fa-download
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-6    
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=EUH9LPWhh3k" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Enlace web]. Inspección producto en proceso área de patronaje y corte.
                 
-    .h4.mt-5(data-aos="fade-right") Control de calidad en trazo y corte 
-    p.mt-5(data-aos="fade-right") En cada una de las actividades que conforman el área de trazo y corte se establecen controles para revisar. Es primordial contar con la trazabilidad de la producción, para ubicar fácilmente cada lote, poder intervenir rápidamente en los productos a corregir y dar respuesta rápida para solucionar el inconveniente. 
-    p(data-aos="fade-left") Los documentos utilizados en el área para controlar el corte, además de la orden de producción, son las inspecciones divididas en procesos según la actividad a ejecutar. Los requisitos para revisar en cada actividad son los siguientes: 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        AcordionA(data-aos="flip-up")(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    
+    .mb-4.d-flex.mb-5.mt-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en trazo y corte 
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
+
+    p.mb-4 En cada una de las actividades que conforman el área de trazo y corte se establecen controles para revisar. Es primordial contar con la trazabilidad de la producción, para ubicar fácilmente cada lote, poder intervenir rápidamente en los productos a corregir y dar respuesta rápida para solucionar el inconveniente. 
+    p.mb-4 Los documentos utilizados en el área para controlar el corte, además de la orden de producción, son las inspecciones divididas en procesos según la actividad a ejecutar. Los requisitos para revisar en cada actividad son los siguientes: 
+    
+    .row(data-aos="zoom-in")
+      .col-lg-4.mb-5(data-aos="fade-left")
+        figure.d-lg-block.d-none.my-3
+          img(src='@/assets/ilustraciones/345.png', alt='imagen decorativa') 
+      .col-lg-8.my-3
+        AcordionA.activo(data-aos="flip-up")(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row.justify-content-center.align-items-center(titulo="Trazo")
             .col-lg-10.mb-4.mb-md-0
-              .row.justify-content-center.align-items-center
+              .row.justify-content
                 .col-lg-12
                   h4 Alineación de piezas 
                   p Cada pieza debe estar contenida en el trazo conforme a la línea de aplomo.  
-
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Organización de piezas 
                   p Con el fin de controlar los rendimientos de telas, es importante la disposición de las piezas, colocando una al lado de la otra y aprovechando líneas o curvas compartidas entre las piezas. 
-
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Cantidad de piezas
                   p Contar el número de piezas que corresponda a cada talla del producto.                                
-
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Ancho de trazo 
                   p Sea conforme el ancho útil de la tela.  
 
@@ -1116,23 +1104,23 @@
                   h4 Alineación de capas 
                   p Respetar la margen colocada a partir de la base, es decir la primera capa. También en los extremos, alcance a cubrir el largo del trazo, sobre todo en trazos escalonados. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Uniformidad de tendido 
                   p El extendido de cada capa no debe tener arrugas. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Cantidad de capas 
                   p Antes de cortar se debe contar el número de capas, correspondan a las unidades a cortar según distribución de trazo. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Tiempos de reposo 
                   p Sobre todo en tejidos de punto, para evitar encogimiento, se tiene en cuenta según ficha técnica de la tela y se valida con pruebas que confirmen niveles de encogimiento desarrollado una vez finalicen los tiempos de reposo. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Lado de tela 
                   p Teniendo en cuenta el tipo de trazo, se debe respetar los derechos de la tela. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Tela 
                   p Defectos de tela, marcar lo más posible, piques, marras, entre otras. Cuidar la combinación de rollos y de colores para evitar contaminación entre los colores por los residuos de las fibras en el corte del tejido. 
 
@@ -1143,15 +1131,15 @@
                   h4 Uniformidad 
                   p Respetar el trazo de cada pieza, obedeciendo a curvas y rectas según sea el caso de cada parte de la pieza. 
                 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Simetrías 
                   p Corresponder las simetrías de cada pieza sosteniendo el colchón o bloque de telas, evitando se corra para que no afecte las simetrías de las capas inferiores.
                 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Piquetes y puntos 
                   p Ubicación de piquetes y en profundidad de piquetes no mayor de 0,4 cms; en los puntos evitar se corra la ubicación, debe tener un tamaño razonable.
                 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Corte de piezas de forro y entretela
                   p Revisar el material y las piezas se corten conforme la ficha técnica y la programación de la producción.                                      
           .row.justify-content-center.align-items-center(titulo="Tiqueteado")
@@ -1161,7 +1149,7 @@
                   h4 Ubicación 
                   p que se coloque por el revés de la tela en un lugar visible y que no afecte en el momento del ensamble.
                   
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Descripción 
                   p que la información corresponda a cada pieza, debe contener el número consecutivo de la pieza en orden, según el tendido, además incluir talla y referencia.                   
 
@@ -1172,19 +1160,19 @@
                   h4 Temperatura 
                   p Que corresponda al material a fusionar. 
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Tiempo 
                   p Duración en la fusionadora.
                   
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Presión 
                   p Ejercida en cada pieza para que la unión sea uniforme.                  
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Alineación y posición 
                   p Que se encuentre derecha y teniendo en cuenta si se debe dejar el ancho de costura.
                   
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Limpieza de la máquina 
                   p Para evitar manchas en las prendas fusionadas.
 
@@ -1195,268 +1183,263 @@
                   h4 Cantidad 
                   p Unidades de acuerdo con lo determinado para incorporar a la producción, 10 o 20, se prefiere paquetes pequeños que facilitan el manejo, o más unidades según lo establecido por la empresa.           
 
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Amarre 
                   p En el doblado de las piezas deben estar incluidas todas las piezas del paquete y con un fuerte amarre.
                   
-                .col-lg-12.mt-4
+                .col-lg-12
                   h4 Identificación 
                   p Rotulado de cada paquete con tarjetas que indique la información necesaria como talla, número de lote, cantidad, entre otras que precisen el contenido del paquete.
 
-    .h4.mt-5(data-aos="fade-right") Control de calidad en confección
-    .row.justify-content-center.align-items-center.mt-5 
-      .col-lg-6
-        .row.justify-content-center.align-items-center       
-          .col-lg-12.my-2
-            .cajon.color-acento-contenido.p-4
-              p Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
-              .row.justify-content-center.align-items-center       
-                .col-lg-11             
-                  .list.mt-4
-                      .list__item
-                          .list__item__number
-                              span 1.
-                      .list__txt 
-                          span La preparación
-                  .list.mt-2
-                      .list__item
-                          .list__item__number
-                              span 2.
-                      .list__txt 
-                          span El ensamble
-                  .list.mt-2
-                      .list__item
-                          .list__item__number
-                              span 3.
-                      .list__txt 
-                          span La terminación               
-              p.mb-0.mt-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
+    
+    .mb-4.d-flex.mb-5.mt-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en confección
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
 
-      .col-lg-6 
-        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img50.png', alt='')   
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-8
+  
+    .row.justify-content-center.align-items-center.mt-5.mb-5
+      .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-lg-6(data-aos="fade-right")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p #[b Anexo]. Hoja de patronaje y corte.          
-          .col-lg-6(data-aos="fade-left")
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=xlPFRjssa2Q" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p #[b Enlace web]. Inspección producto en proceso.
+          .col-sm-12.col-lg-6
+            .cerrte.p-4
+              p.my-4.mx-4 Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
+              p.mb-2.mx-4 #[b 1.] La preparación
+              p.mb-2.mx-4 #[B 2.] El ensamble            
+              p.mb-4.mx-4 #[b 3.] La terminación           
+              p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
+          .col-sm-12.col-lg-6
+            img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png', alt='')   
 
-    p.mt-5(data-aos="fade-right") En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-6.bg-2.p-5
-        .row.justify-content-center.align-items-center
-          .col-lg-12
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Iluminación
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Ventilación
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Temperatura
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Ruido
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Espacio
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Aseo
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Personal capacitado
-            .list.mt-2
-                .list__item
-                    .list__item__icon
-                        img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                .list__txt 
-                    span Estado de ánimo de empleados 
-
-            p.mt-4.mb-0 En consecuencia, los factores directos o indirectos si son mal ejecutados afectan la calidad y rendimiento de la empresa.
-
-    p.mt-5(data-aos="fade-right") Existen otras técnicas de análisis como son las pruebas y ensayos en laboratorios especializados que evalúan la prenda según normas nacionales e internacionales; por ejemplo, la prueba de uso en la que se compara los resultados planteados y los reales obtenidos.
-
-    p(data-aos="fade-down") En estos ensayos o pruebas se analizan las fibras, en cuanto a la cantidad, colorimétrica, peso, composición, cambios dimensionales después del lavado, resistencia a la rotura y al desgarre, elongación y elasticidad de la tela, recuperación a las arrugas, resistencia a la abrasión, solidez al color con el frote, al agua, al planchado, resistencia a la formación de motas (#[i Pilling]), entre otras.
-
-    p(data-aos="fade-right") En el siguiente cuadro podemos observar algunos ensayos con la norma relacionada que se puede realizar a la prenda. 
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        a.anexo(:href="obtenerLink('/downloads/Anexo_15_Pruebas_de_calidad_en_laboratorios_para_prenda_terminada.pdf')" target="_blank")
+    
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-6
+        .fondo21.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0          
+                  p.my-2 Anexo. Hoja de inspección producto en proceso.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+      
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-4(data-aos="fade-left")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=xlPFRjssa2Q" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Anexo]. Pruebas de calidad en laboratorios para prenda terminada.  
+            p #[b Enlace web]. Inspección producto en proceso.
 
-    p.mt-5(data-aos="fade-right") Los requisitos que se deben cumplir en la confección y son objetos de control son:
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img51.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Costura 
-            p.mb-0 Simetría, sin recogidos ni prenses, costuras rectas, respetar márgenes de costura, costura uniforme, marquilla de acuerdo con el cuidado de la prenda, remates uniformes, cases de costuras.
+    
+    p.mt-5 En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:
     
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img52.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Tela
-            p.mb-0 Con colores uniformes, tela sin arrugas, sin imperfecciones. 
+      .col-sm-12.col-lg-10
+        .row.justify-content-center.align-items-center.mt-5
+          .col-sm-12.col-lg-6
+            img.img-t.img-a(src="@/assets/ilustraciones/poli.png")
+          .col-sm-12.col-lg-6
+            .nome.p-4
+              ul.lista-ul--color.eto.mx-4.my-4
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Iluminación
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Ventilación
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Temperatura
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Ruido
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Espacio
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Aseo
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Personal capacitado
+                li.d-flex
+                  i.fas.fa-car-side
+                  | Estado de ánimo de empleados
+              p.mx-4.mb-2 En consecuencia, los factores directos o indirectos si son mal ejecutados afectan la calidad y rendimiento de la empresa.
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img53.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Ambiente del taller
-            p.mb-0 Orden y limpieza en piso, puestos de trabajo. 
+    p.mt-5 Existen otras técnicas de análisis como son las pruebas y ensayos en laboratorios especializados que evalúan la prenda según normas nacionales e internacionales; por ejemplo, la prueba de uso en la que se compara los resultados planteados y los reales obtenidos.
+    
+    .row.justify-content-center.align-items-center.mt-5.mb-4
+      .col-sm-12.col-lg-10
+        .cajon.color-acento-contenido.p-4
+          p(data-aos="fade-down") En estos ensayos o pruebas se analizan las fibras, en cuanto a la cantidad, colorimétrica, peso, composición, cambios dimensionales después del lavado, resistencia a la rotura y al desgarre, elongación y elasticidad de la tela, recuperación a las arrugas, resistencia a la abrasión, solidez al color con el frote, al agua, al planchado, resistencia a la formación de motas (#[i Pilling]), entre otras.
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img54.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Ajuste de maquinaria 
-            p.mb-0 Mantenimiento de la máquina y uso de aditamentos, pies, guías y fólderes, agujas, altura de dientes, presión del pie prensatela, enhebrado, devanado de hilo, tensión del hilo.
+    p.text-center.mb-4 En el siguiente cuadro podemos observar algunos ensayos con la norma relacionada que se puede realizar a la prenda. 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img55.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Operario 
-            p.mb-0 Manipulación del material, métodos utilizados en la operación. 
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-6
+        .fondo21.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0          
+                  p.my-2 Anexo. Pruebas de calidad en laboratorios para prenda terminada.
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="/downloads/Anexo_15_Pruebas_de_calidad_en_laboratorios_para_prenda_terminada.pdf" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+    
+    
+    p.mt-5.text-center Los requisitos que se deben cumplir en la confección y son objetos de control son:
+    
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img56.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Instrucciones de cuidado y terminados 
-            p.mb-0 Según la norma, tener en cuenta los símbolos y la composición del material, incluidas en la etiqueta adherida en la prenda.  
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-10
+    
+        SlyderF(columnas="col-lg-6 col-xl-4")
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img51.svg' alt='AvatarTop')
+            p.text-center.color #[b Costura]
+            p.text-center Simetría, sin recogidos ni prenses, costuras rectas, respetar márgenes de costura, costura uniforme, marquilla de acuerdo con el cuidado de la prenda, remates uniformes, cases de costuras.
 
-    .h4.mt-5(data-aos="fade-right") Control de calidad en terminados            
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img52.svg' alt='AvatarTop')
+            p.text-center.color #[b Tela]
+            p.text-center Con colores uniformes, tela sin arrugas, sin imperfecciones.
 
-    p.mt-5(data-aos="fade-right") En los terminados se incluyen procesos de planchado, empaque, embalaje y procesos de acabados como lavandería, estampación y bordado. Puede ser que los procesos de acabados pueden desarrollarse de manera externa a la empresa, es decir contratar los servicios, y por lo tanto la importancia de los puntos de control una vez ingresen a la planta, validar las prendas o piezas una vez se realicen los procesos. 
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img53.svg' alt='AvatarTop')
+            p.text-center.color #[b Ambiente del taller]
+            p.text-center Orden y limpieza en piso, puestos de trabajo.
 
-    img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img57.png', alt='') 
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img54.svg' alt='AvatarTop')
+            p.text-center.color #[b Ajuste de maquinaria]
+            p.text-center Mantenimiento de la máquina y uso de aditamentos, pies, guías y fólderes, agujas, altura de dientes, presión del pie prénsatela, enhebrado, devanado de hilo, tensión del hilo.
 
-    p.mt-5(data-aos="fade-right") El planchado es la última operación del proceso de producción, es necesario que las personas responsables de la sección tengan los criterios claros para evaluar las prendas que pasarán a las operaciones para la entrega al cliente.
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img55.svg' alt='AvatarTop')
+            p.text-center.color #[b Operario]
+            p.text-center Manipulación del material, métodos utilizados en la operación.
 
-    p.mt-5(data-aos="fade-down") Los requisitos para revisar en cada una de las actividades del proceso de acabados son los siguientes: 
+          .tarjeta.color-acento-botonest.p-4
+            .row.justify-content-center.mb-3
+              .col-8.my-3
+                img.img-t.img-a(src='@/assets/ilustraciones/img56.svg' alt='AvatarTop')
+            p.text-center.color #[b Instrucciones de cuidado y terminados]
+            p.text-center Según la norma, tener en cuenta los símbolos y la composición del material, incluidas en la etiqueta adherida en la prenda.
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img58.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Planchado 
-            p.mb-0 Uniforme, quiebres según lo especificado, si se debe doblar que no genere arrugas, control en la temperatura para que no queme, limpieza, además del control en la presión y la humedad. 
+    .row.pony.align-items-center.py-4.py-md-3.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img59.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Empaque 
-            p.mb-0 Según lo establecido por la empresa, utilizar los recursos como el gancho, bolsa, etiqueta correspondiente. 
+        .mb-4.d-flex.mb-5.mt-5
+          .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en terminados
+            img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img60.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Embalaje 
-            p.mb-0 Teniendo en cuenta el pedido del cliente, utilizando materiales como cajas, cinta de amarre o zuncho, cinta adhesiva, tensor para la cinta de amarre. Rotular para identificar el contenido, organizar el contenido. 
+        .row.justify-content-center.align-items-center.mb-4
+          .col-sm-12.col-lg-7
+            p.mb-4 En los terminados se incluyen procesos de planchado, empaque, embalaje y procesos de acabados como lavandería, estampación y bordado. Puede ser que los procesos de acabados pueden desarrollarse de manera externa a la empresa, es decir contratar los servicios, y por lo tanto la importancia de los puntos de control una vez ingresen a la planta, validar las prendas o piezas una vez se realicen los procesos. 
+            p.mb-4 El planchado es la última operación del proceso de producción, es necesario que las personas responsables de la sección tengan los criterios claros para evaluar las prendas que pasarán a las operaciones para la entrega al cliente.
+          .col-sm-12.col-lg-5
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img57.png', alt='') 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img61.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Estampados 
-            p.mb-0 Uniformidad del dibujo y colores, posición y ubicación. 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img62.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Bordados 
-            p.mb-0 Tensión del hilo, colores y letras correspondan al diseño, posición y ubicación. 
+    p.mb-5.text-center Los requisitos para revisar en cada una de las actividades del proceso de acabados son los siguientes: 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img63.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Rebordados 
-            p.mb-0 Alineación y ubicación en la colocación de pedrería u otros, diseño debe corresponder al rebordado realizado. 
+    .row.final.align-items-center.py-4.py-md-3.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
+    
+    
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-10
+    
+            SlyderF(columnas="col-lg-6 col-xl-4")
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img58.svg' alt='AvatarTop')
+                p.text-center.color #[b Planchado]
+                p.text-center Uniforme, quiebres según lo especificado, si se debe doblar que no genere arrugas, control en la temperatura para que no queme, limpieza, además del control en la presión y la humedad.
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .row.justify-content-center.align-items-center.bg-2.p-3(data-aos="zoom-in")
-          .col-lg-auto(data-aos="fade-right")
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img64.svg', alt='')          
-          .col-lg-10(data-aos="fade-left")
-            h4 Lavandería 
-            p.mb-0 Uniformidad de colores, proceso corresponda al solicitado, sin dañar costuras o tejido de tela.
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img59.svg' alt='AvatarTop')
+                p.text-center.color #[b Empaque]
+                p.text-center Según lo establecido por la empresa, utilizar los recursos como el gancho, bolsa, etiqueta correspondiente.
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img60.svg' alt='AvatarTop')
+                p.text-center.color #[b Embalaje]
+                p.text-center Teniendo en cuenta el pedido del cliente, utilizando materiales como cajas, cinta de amarre o zuncho, cinta adhesiva, tensor para la cinta de amarre. Rotular para identificar el contenido, organizar el contenido.
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p #[b Anexo]. Formato auditoria calidad  
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img61.svg' alt='AvatarTop')
+                p.text-center.color #[b Estampados]
+                p.text-center Uniformidad del dibujo y colores, posición y ubicación.
+              
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img62.svg' alt='AvatarTop')
+                p.text-center.color #[b Bordados]
+                p.text-center Tensión del hilo, colores y letras correspondan al diseño, posición y ubicación.
+
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img63.svg' alt='AvatarTop')
+                p.text-center.color #[b Rebordados]
+                p.text-center Alineación y ubicación en la colocación de pedrería u otros, diseño debe corresponder al rebordado realizado.
+    
+              .tarjeta.color-acento-botonest.p-4
+                .row.justify-content-center.mb-3
+                  .col-8.my-3
+                    img.img-t.img-a(src='@/assets/ilustraciones/img64.svg' alt='AvatarTop')
+                p.text-center.color #[b Lavandería]
+                p.text-center Uniformidad de colores, proceso corresponda al solicitado, sin dañar costuras o tejido de tela. 
+    
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-6
+            .fondo21.p-3
+              .row.justify-content-around.align-items-center
+                .col-3.col-sm-2.col-lg-2
+                  img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0          
+                      p.my-2 Anexo. Formato auditoria calidad.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(href="/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf" target="_blank")
+                        span Descargar
+                        i.fas.fa-download
+    
+      .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-12
+        img.img-t.img-a(src="@/assets/ilustraciones/fin.svg")
 
 </template>
 <script>

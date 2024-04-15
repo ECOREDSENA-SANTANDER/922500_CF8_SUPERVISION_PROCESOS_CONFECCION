@@ -18,19 +18,20 @@
               img.img-t.img-a.mt-5.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='') 
   
     p.mt-5(data-aos="fade-left") La ergonomía comprende ramas como la industrial y la biomecánica, más encaminada hacia lo ocupacional, dado que se centra en aspectos físicos relacionados con el trabajo, capacidades de fuerza y postura y, a su vez, cómo son ejecutadas a través de tareas repetitivas por periodos de tiempo. Por lo anterior se hace necesario tenerlas presentes durante la ejecución de cada labor y uno de los objetivos que debe perseguir el supervisor en procesos de confección en cuanto a su personal a cargo, es que cuente con espacios y herramientas de trabajo que ante todo preserven su bienestar durante la labor, por ello en los siguientes apartados se entregarán lineamientos que darán soporte a la supervisión.   
-
+    
+    Separador
     .titulo-segundo#t_2_1.mt-5
       .h4(data-aos="fade-right") 2.1  Normas generales de seguridad para la labor en la confección de prendas  
 
 
     p.mt-5(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias que por lo general pueden ser las que se visualizan a continuación en la figura 1:  
     
-    .row.justify-content-center.align-items-center.mt-5.mb-4
+    .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-sm-12.col-lg-12
         .row 
           .col-sm-12.col-lg-6 
             img.img-t.img-a.my-0(src='@/assets/ilustraciones/abc.png', alt='')                  
-          .col-lg-6.bg-3.mb-3.p-5
+          .col-lg-6.bg-35.mb-3.p-5
             .row.justify-content-center.align-items-center
               .col-lg-12.mt-4
                 .BorTit #[b Figura 1] Molestias más comunes
@@ -49,19 +50,58 @@
                     .col-lg-12                        
                       figcaption Nota: Singer (2014) 
     
-    p.mb-4 Por ello para esa misma disposición en esta actividad se deben contemplar:             
+    p.mb-5 Por ello para esa misma disposición en esta actividad se deben contemplar:             
     
-    
-    
-    
-    p.mt-5 Por lo anterior, se sugieren las siguientes condiciones iniciales como en la figura 2 para evitar molestias durante la práctica:      
 
-    .tarjeta.p-5.bg1
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-10
+        ImagenInfografica.color-primario
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/ilustraciones/infro.png', alt='Texto que describa la imagen')
+              
+
+          .tarjeta.color-acento-botonesr.p-3(x="19%" y="26%" numero="")
+            .h5.mb-2 Comodidad:
+            p en el desplazamiento de los puntos dentro del espacio de trabajo.
+
+          .tarjeta.color-acento-botonesr.p-3(x="11%" y="55%" numero="")
+            .h5.mb-2 Dotación:
+            p para el operario; bata, lentes de protección, preferiblemente no usar accesorios que impliquen el contacto con materiales, herramientas o maquinarias; usar zapato cerrado para evitar accidentes por la caída de elementos cortopunzantes.
+          
+          .tarjeta.color-acento-botonesr.p-3(x="25.5%" y="80%" numero="")
+            .col-lg-12
+              .h5.mb-2 Protección: 
+              p tener presente que es preferible que dentro del espacio de trabajo no haya bebidas o comida. Se debe tener cuidado con los puntos eléctricos.
+          
+          .tarjeta.color-acento-botonesr.p-3(x="55%" y="89%" numero="")
+            .h5.mb-2 Orden: 
+            p es importante tener orden, limpieza y cuidado de los elementos.
+
+          .tarjeta.color-acento-botonesr.p-3(x="81%" y="73%" numero="")
+            .h5.mb-2 Ruido:
+            p control del ruido generado por la maquinaria para evitar problemas auditivos.
+
+          .tarjeta.color-acento-botonesr.p-3(x="89%" y="45%" numero="")
+            .h5.mb-2 Ventilación:
+            p debe ser adecuada para garantizar la salud y bienestar de los trabajadores.
+
+          .tarjeta.color-acento-botonesr.p-3(x="73%" y="18%" numero="")
+            .h5.mb-2 Temperatura:
+            p los factores relacionados a la temperatura, aireación del lugar o control de la temperatura del sitio son necesarios.
+
+          .tarjeta.color-acento-botonesr.p-3(x="45%" y="11%" numero="")
+            .h5.mb-2 Luz:
+            p la luz e iluminación del espacio de trabajo deben ser óptimas.
+    
+    p.mt-5.mb-4 Por lo anterior, se sugieren las siguientes condiciones iniciales como en la figura 2 para evitar molestias durante la práctica:      
+
+    .tarjeta.p-2.bg1
       SlyderA
         .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-12
             .row.justify-content-center
-              .col-lg-2.mx-5.my-5
+              .col-lg-2
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 2
                   | Postura ideal
@@ -90,7 +130,7 @@
             .row.justify-content-center
               .col-auto.my-5 
                 p Una vez se tienen presentes los lineamientos anteriores en torno a la postura se debe implementar una postura como en la figura 3:
-              .col-lg-2.mx-5
+              .col-lg-2
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 3
                   | Postura ideal
@@ -142,13 +182,13 @@
         .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-12
             .row.justify-content-center
-              .col-lg-10.my-5 
+              .col-auto.my-5 
                 p.text-center Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
               .col-lg-2.mx-5
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 5
                   | Carga de elementos
-                img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="Imagen decorativa")
+                img(src='@/assets/ilustraciones/img14.svg' alt="Imagen decorativa")
                 figcaption Nota. Singer (2014)
               .col-lg-6   
                 ul.lista-ul--color

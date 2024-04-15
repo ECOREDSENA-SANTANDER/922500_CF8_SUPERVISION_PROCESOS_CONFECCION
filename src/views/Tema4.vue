@@ -14,7 +14,7 @@
         p.mb-4 En los terminados de la prenda vestir se deben contemplar pasos que van unidos a criterios de calidad para que pueda disponerse de un producto el cual cumpla con lo requerido para su distribución.  En este apartado se dará un acercamiento a lo que pasa después de que la prenda sale de la planta de producción en confección.
         p Una vez la prenda es terminada por los operarios, hay personal dispuesto encargado de recoger las prendas y volverlas a organizar por referencia, tipología y tallas por paquetes, de tal manera que puedan apilarse ordenadamente para los siguientes pasos:
 
-    TabsA.coloor-acento-contenido.mt-5(data-aos="flip-up")
+    TabsA.color-acento-botones.mt-5(data-aos="flip-up")
       .tarjeta.color-acento-conte--borde.p-4(titulo="1. Despeluce")
         .row.justify-content-center.align-items-center
           .col-lg-11
@@ -24,8 +24,8 @@
       .tarjeta.color-acento-conte--borde.p-4(titulo="2. Revisión detallada")
         .row.justify-content-center.align-items-center
           .col-lg-11
-            h4 2. Revisión detallada de costuras y ensamble
-            p Cuyos criterios de calidad son establecidos desde la supervisión en las áreas de cada empresa, aquella prenda que haya quedado con costura torcida o si no hay una buena terminación es devuelta.
+            h4.text-dark 2. Revisión detallada de costuras y ensamble
+            p.text-dark Cuyos criterios de calidad son establecidos desde la supervisión en las áreas de cada empresa, aquella prenda que haya quedado con costura torcida o si no hay una buena terminación es devuelta.
             .row.justify-content.align-items.mt-5       
               .col-lg-8               
                 .BorTit.mb-4 #[b Figura 10] Revisión de prendas

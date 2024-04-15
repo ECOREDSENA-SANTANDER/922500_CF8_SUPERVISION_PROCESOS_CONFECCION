@@ -25,9 +25,9 @@
         .row.justify-content-center.mb-4(data-aos="fade-down")
     
     
-        .row.justify-content-center.align-items-stretch.mt-5.mb-5       
+        .row.justify-content-center.align-items-stretch.mb-5       
           .col-sm-12.col-lg-12
-            .cajon.color-acento-contenido.p-5
+            .cajon.color-acento-contenido.p-4
               p.mb-4 #[b Norma GTC 230]
                 p.mb-3 La norma GTC 230 es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual se creó a través de un comité técnico de textiles, en el cual participaron varias empresas de Colombia, como centros de formación del SENA, universidades, hilanderías, lavanderías,  empresas de confección y textilerías. 
 
