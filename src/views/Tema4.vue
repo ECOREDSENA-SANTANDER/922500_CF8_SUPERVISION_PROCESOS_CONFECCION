@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-5
-        img.img-t.img-a.mb-4(src='@/assets/ilustraciones/cuatro.png', alt='')             
+        img.img-t.img-a.mb-4(src='@/assets/ilustraciones/cuatro.png',alt='tema4')             
       .col-sm-12.col-lg-7
         p.mb-4 En los terminados de la prenda vestir se deben contemplar pasos que van unidos a criterios de calidad para que pueda disponerse de un producto el cual cumpla con lo requerido para su distribución.  En este apartado se dará un acercamiento a lo que pasa después de que la prenda sale de la planta de producción en confección.
         p Una vez la prenda es terminada por los operarios, hay personal dispuesto encargado de recoger las prendas y volverlas a organizar por referencia, tipología y tallas por paquetes, de tal manera que puedan apilarse ordenadamente para los siguientes pasos:
@@ -29,7 +29,7 @@
             .row.justify-content.align-items.mt-5       
               .col-lg-8               
                 .BorTit.mb-4 #[b Figura 10] Revisión de prendas
-                img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img22.jpg', alt='')
+                img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img22.jpg',alt='tema4')
                 figcaption  Nota. C.I. JEANS (2012).        
 
       .tarjeta.color-acento-conte--borde.p-4(titulo="3. Planchado de prendas")
@@ -40,7 +40,7 @@
           .row.justify-content-center.align-items-center.mt-5 
             .col-lg-7             
               .BorTit.mb-4 #[b Figura 11] Planchado manual de prendas
-              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img23.png', alt='')             
+              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img23.png',alt='tema4')             
             .col-lg-5
               .cajon.color-acento-contenido.p-4
                 p.mt-4.mb-2.mx-3 Cada empresa emplea las herramientas industriales para las áreas de planchado, existen máquinas en el mercado que pueden planchar automáticamente las prendas, esto es implementado cuando la producción es a gran escala para agilidad y cumplimiento de tiempos en producción de referencias.              
@@ -53,7 +53,7 @@
           .row.justify-content-center.align-items-center.mt-5 
             .col-lg-7             
               .BorTit.mb-4 #[b Figura 12] Etiquetado de prendas
-              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img24.png', alt='')             
+              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img24.png',alt='tema4')             
             .col-lg-5
               .cajon.color-acento-contenido.p-3
                 p.mt-4.mb-5.mx-3 Hay fábricas dedicadas a la confección de prendas de vestir que solo maquilan, es decir realizan pedidos para otras marcas y en este proceso de etiquetado una empresa maquiladora deberá velar porque la etiqueta corresponda a cada referencia y a las especificaciones de cada cliente.
@@ -66,17 +66,17 @@
             .row.justify-content-center.align-items-center.mt-5       
               .col-lg-7
                 .BorTit.mb-4 #[b Figura 13] Empaque de prendas
-                img.img-t.img-a.my-0(src='@/assets/ilustraciones/img25.png', alt='')
+                img.img-t.img-a.my-0(src='@/assets/ilustraciones/img25.png',alt='tema4')
                 figcaption   Nota. Rintex (2014).
               .col-lg-5
                 .BorTit.mb-4 #[b Figura 14] Embalaje de prendas
-                img.img-t.img-a.my-0(src='@/assets/ilustraciones/img26.png', alt='')
+                img.img-t.img-a.my-0(src='@/assets/ilustraciones/img26.png',alt='tema4')
                 figcaption Nota. CARVIMSA. (S.F.). 
 
     p.mt-5.text-center A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
     .video.mt-5
       iframe(width="560" height="315" src="https://www.youtube.com/embed/I8adPpXG-n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
-    
+    figcaption Video. Description
     
 </template>
 <script>

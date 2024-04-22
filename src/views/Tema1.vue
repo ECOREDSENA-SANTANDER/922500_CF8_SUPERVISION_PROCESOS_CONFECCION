@@ -53,7 +53,7 @@
     
                   .row(numero="4" titulo="NTC 2339")
                     .col-12
-                      p.text-small  Ropa interior masculina de tejido plano; esta norma establece los requisitos que debe cumplir el confeccionista en cuanto los ensayos de las telas con las cuales se confeccionan los calzoncillos elaborados en tejido plano.         
+                      p  Ropa interior masculina de tejido plano; esta norma establece los requisitos que debe cumplir el confeccionista en cuanto los ensayos de las telas con las cuales se confeccionan los calzoncillos elaborados en tejido plano.         
               .col-sm-12.col-lg-5
                 img.img-t.img-a.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/ntc.png', alt='')
     
@@ -78,7 +78,7 @@
                         .col-sm-auto
                           a.boton.color-acento-botones.mx-4(href="/downloads/Anexo_1_NORMA_TECNICA_COLOMBIANA.pdf" target="_blank")
                             span Descargar
-                            i.fas.fa-link
+                            i.fas.fa-file-download
 
         p.mb-4 Así mismo, existen otras normas como se observa en la tabla 1, que permiten que la materia prima e insumos para la fabricación de prendas de vestir sean de óptima calidad y como resultado permiten ofrecer un producto terminado con criterios de calidad en su confección y entrega al cliente. 
         
@@ -145,7 +145,7 @@
                   .col-sm-auto
                     a.boton.color-acento-botones.mx-4(href="/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf" target="_blank")
                       span Descargar
-                      i.fas.fa-link
+                      i.fas.fa-file-download
 </template>
 
 <script>

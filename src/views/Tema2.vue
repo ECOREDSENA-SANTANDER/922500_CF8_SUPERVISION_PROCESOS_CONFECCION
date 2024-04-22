@@ -15,13 +15,13 @@
             .col-sm-12.col-lg-7
               p Los oficios de la confección de prendas implican varios procesos, desde la manipulación del textil cortado hasta la ejecución a través de maquinaria de acuerdo con cada proceso en particular.   Dichos procesos requieren, por ejemplo, de la manipulación de sujetadores y de arranques en los que el operario, es su principal actor para el funcionamiento de cada una de estas partes.  Al tener presente que es la persona quien está implícita dentro de cada uno de estos procesos es importante identificar las normas de seguridad que permitan considerar el concepto de ergonomía dentro de la labor para que no tenga afectaciones de ningún tipo.   
             .col-sm-12.col-lg-5
-              img.img-t.img-a.mt-5.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='') 
+              img.img-t.img-a.mt-5.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
   
     p.mt-5(data-aos="fade-left") La ergonomía comprende ramas como la industrial y la biomecánica, más encaminada hacia lo ocupacional, dado que se centra en aspectos físicos relacionados con el trabajo, capacidades de fuerza y postura y, a su vez, cómo son ejecutadas a través de tareas repetitivas por periodos de tiempo. Por lo anterior se hace necesario tenerlas presentes durante la ejecución de cada labor y uno de los objetivos que debe perseguir el supervisor en procesos de confección en cuanto a su personal a cargo, es que cuente con espacios y herramientas de trabajo que ante todo preserven su bienestar durante la labor, por ello en los siguientes apartados se entregarán lineamientos que darán soporte a la supervisión.   
     
     Separador
-    .titulo-segundo#t_2_1.mt-5
-      .h4(data-aos="fade-right") 2.1  Normas generales de seguridad para la labor en la confección de prendas  
+    #t_2_1.titulo-segundo
+      .h2 2.1  Normas generales de seguridad para la labor en la confección de prendas  
 
 
     p.mt-5(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias que por lo general pueden ser las que se visualizan a continuación en la figura 1:  
@@ -30,7 +30,7 @@
       .col-sm-12.col-lg-12
         .row 
           .col-sm-12.col-lg-6 
-            img.img-t.img-a.my-0(src='@/assets/ilustraciones/abc.png', alt='')                  
+            img.img-t.img-a.my-0(src='@/assets/ilustraciones/abc.png', alt='tema2')                  
           .col-lg-6.bg-35.mb-3.p-5
             .row.justify-content-center.align-items-center
               .col-lg-12.mt-4
@@ -38,7 +38,7 @@
                 .bg34   
                   .row.justify-content-center.align-items-center.mt-4
                     .col-lg-6 
-                      img.img-t.img-a.my-2.d-none.d-lg-block(src='@/assets/ilustraciones/img4.svg', alt='')                  
+                      img.img-t.img-a.my-2.d-none.d-lg-block(src='@/assets/ilustraciones/img4.svg', alt='tema2')                  
                     .col-lg-6.p-3.my-1 
                       p.mb-0 14%: dolor de cabeza.
                       p.mb-0 24%: dolor en cuerpo y hombros.
@@ -58,7 +58,7 @@
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/ilustraciones/infro.png', alt='Texto que describa la imagen')
+              img(src='@/assets/ilustraciones/infro.png', alt='tema2')
               
 
           .tarjeta.color-acento-botonesr.p-3(x="19%" y="26%" numero="")
@@ -105,7 +105,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 2
                   | Postura ideal
-                img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="Imagen decorativa")
+                img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="tema2")
                 figcaption Nota. Singer (2014)
               .col-lg-6.my-5   
                 ul.lista-ul--color
@@ -134,7 +134,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 3
                   | Postura ideal
-                img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="Imagen decorativa")
+                img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="tema2")
                 figcaption Nota. Singer (2014)
               .col-lg-6   
                 ul.lista-ul--color
@@ -164,7 +164,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 4
                   | Postura de pie
-                img(src='@/assets/ilustraciones/img13.svg' alt="Imagen decorativa")
+                img(src='@/assets/ilustraciones/img13.svg' alt="tema2")
                 figcaption Nota. Singer (2014)
               .col-lg-6   
                 ul.lista-ul--color
@@ -188,7 +188,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 5
                   | Carga de elementos
-                img(src='@/assets/ilustraciones/img14.svg' alt="Imagen decorativa")
+                img(src='@/assets/ilustraciones/img14.svg' alt="tema2")
                 figcaption Nota. Singer (2014)
               .col-lg-6   
                 ul.lista-ul--color
@@ -202,60 +202,60 @@
                     i.fas.fa-car-side.mx-3.mb-0
                     | Si el peso es excesivo es preferible solicitar ayuda.
       
-
-    .titulo-segundo#t_2_2.mt-5
-      .h4(data-aos="fade-right") 2.2 Condiciones y espacios en el trabajo  
+    Separador
+    #t_2_2.titulo-segundo
+      .h2(data-aos="fade-right") 2.2 Condiciones y espacios en el trabajo  
 
     p.mt-5 Las condiciones bajo las cuales un trabajador desempeña su labor deben tener el objetivo de generar un buen espacio para quien desempeña una labor en la que su integridad física y psicológica esté primero, dado que cuando estas condiciones de trabajo no son las adecuadas o no cuenta con los elementos de protección puede acarrear algunas consecuencias como:
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-7
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img6.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img6.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Aumento de fatiga.
         .hr    
 
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img7.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img7.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Aumento en accidentes laborales en los espacios de trabajo.
         .hr  
 
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img8.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img8.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Enfermedades profesionales.
         .hr  
 
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img9.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img9.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Tensión nerviosa.
         .hr  
 
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img10.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img10.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Disminución en la producción y resultados.
         .hr  
 
         .row.justify-content-center.align-items-center
           .col-lg-2
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img11.svg', alt='')           
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/img11.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Insatisfacción, desinterés, etc.
       .col-sm-12.col-lg-5
-        img.img-t.img-a.my-2(src='@/assets/ilustraciones/imageen.png', alt='')           
+        img.img-t.img-a.my-2(src='@/assets/ilustraciones/imageen.png', alt='tema2')           
     
     p.mt-5(data-aos="fade-right") Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.
 
     
-    TabsC.color-acento-contenidoff.mt-5(data-aos="flip-up") 
+    TabsC.color-acento-contenido.mt-5(data-aos="flip-up") 
       .py-3.py-md-4(titulo="Temperatura")
         .row.justify-content-center.align-items-center
           .col-lg-10      
@@ -272,28 +272,28 @@
           .col-lg-10      
             p Generar espacios de trabajo en los que la iluminación es un factor importante es imprescindible, pero esta debe ser adecuada, dado que puede llegar afectar tanto por insuficiente o excesiva, ya que toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Si este factor no es vigilado, puede ocasionar efectos como: irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina.
             p A continuación en la tabla 2, se presentan los mínimos de intensidad recomendada.
-            .BorTit.mt-5 Tabla 2 Mínimos de intensidad recomendada en espacios de trabajo            
+            .BorTit.mt-5 #[b Tabla 2] Mínimos de intensidad recomendada en espacios de trabajo            
             .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
               table
                 caption Nota: Biblioteca SENA
                 tr.bg-1
-                  td.text-center Clase de actividad
-                  td.text-center Intensidad de iluminación recomendada
+                  td.text-center.colortt Clase de actividad
+                  td.text-center.colortt Intensidad de iluminación recomendada
                 tr
-                  td.tab-bold.br-tabble Recinto destinado solo a estancia orientación
-                  td 60 lux 
+                  td.tab-bold.br-tabble.ertt Recinto destinado solo a estancia orientación
+                  td.ertt 60 lux 
                 tr
-                  td.tab-bold.br-tabble Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
-                  td 120-150  lux
+                  td.tab-bold.br-tabble.ert Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
+                  td.ert 120-150  lux
                 tr
-                  td.tab-bold.br-tabble Actividades que hacen necesario el reconocer detalles con reducidos contrastes
-                  td 500-700 lux
+                  td.tab-bold.br-tabble.ertt Actividades que hacen necesario el reconocer detalles con reducidos contrastes
+                  td.ertt 500-700 lux
                 tr
-                  td.tab-bold.br-tabble Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
-                  td 1000-5100 lux 
+                  td.tab-bold.br-tabble.ert Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
+                  td.ert 1000-5100 lux 
                 tr
-                  td.tab-bold.br-tabble Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
-                  td 2000-3000 lux
+                  td.tab-bold.br-tabble.ertt Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
+                  td.ertt 2000-3000 lux
 
       .py-3.py-md-4(titulo="Ventilación")
         .row.justify-content-center.align-items-center
@@ -301,27 +301,19 @@
             p Se debe comprender que la ventilación debe ser proporcional al espacio de trabajo, y se debe evitar confundir ventilación con circulación de aire, dado que la ventilación sustituye el aire vaciado por aire fresco y la circulación de aire mueve el aire, pero sin renovarlo.  Por ello es importante que los espacios no sean completamente cerrados dado que se necesita renovar el aire, para evitar así posibles enfermedades que afectan en cadena a los trabajadores de un taller (Huamán, 2003). Algunos de los aspectos a cuidar de este factor son: 
             .row.justify-content-center.align-items-center
               .col-lg-11            
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Dispersar el calor producido por la maquinaria y los trabajadores.
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Disminución de la contaminación atmosférica.
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Mantener un espacio fresco.
-
-      .py-3.py-md-4(titulo="Descripción del puesto de trabajo")
-        .row.justify-content-center.align-items-center
+                ul.lista-ul--color
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Dispersar el calor producido por la maquinaria y los trabajadores.
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Disminución de la contaminación atmosférica.
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Mantener un espacio fresco.
+                
+      .py-md-4(titulo="Descripción del puesto de trabajo")
+        .py-3.row.justify-content-center.align-items-center
           .col-lg-10      
             p Como se ha mencionado anteriormente el espacio de trabajo contribuye a un buen desarrollo de las actividades en la labor de la confección, por ello es importante tener en cuenta:
             .row.justify-content-center.align-items-center
@@ -349,30 +341,23 @@
 
             .row.justify-content-center.align-items-center
               .col-lg-11            
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Sillas adecuadas, ajustables y ergonómicas.
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Soporte para pies: es importante cuando se trabaja sentado por extensas jornadas, así le puede ayudar a que el nivel de 90 grados se cumpla cuando requiera una labor en esta posición.
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Ajuste de equipo: altura de mesas y máquinas de confección.
-                .list.mt-2
-                    .list__item
-                        .list__item__icon
-                            img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                    .list__txt 
-                        span Iluminación: suficiente acorde al espacio de trabajo, en el que no genere que la persona deba esforzarse para realizar actividades en la labor de la confección.
+                ul.lista-ul--color
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Sillas adecuadas, ajustables y ergonómicas.
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Soporte para pies: es importante cuando se trabaja sentado por extensas jornadas, así le puede ayudar a que el nivel de 90 grados se cumpla cuando requiera una labor en esta posición.
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Ajuste de equipo: altura de mesas y máquinas de confección.
+                  li.d-flex
+                    i.fas.fa-car-side.mx-3.mb-0
+                    | Iluminación: suficiente acorde al espacio de trabajo, en el que no genere que la persona deba esforzarse para realizar actividades en la labor de la confección.
+          
+
+
+
 
 </template>
 

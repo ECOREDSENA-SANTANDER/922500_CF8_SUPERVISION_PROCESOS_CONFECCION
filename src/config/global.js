@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'La trazabilidad en la elaboración de prendas de vestir es importante en cuanto a las herramientas, maquinarias e insumos y su aplicación, de acuerdo con las rutas operacionales de confección.  Así mismo, la comprensión de los procesos, que al combinarse posibilitan la interpretación de patrones y permiten la materialización de productos dispuestos en la confección industrial, junto con la supervisión de acabados y terminados basados en criterios técnicos y de calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1'],
@@ -51,7 +51,13 @@ export default {
         titulo: 'Normas generales para la confección de prendas de vestir',
         desarrolloContenidos: true,
         subMenu: [
-          {},
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo:
+              'Normas generales de seguridad para la labor en la confección de prendas',
+            hash: 't_2_1',
+          },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
@@ -76,20 +82,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: '3.2	Orden operacional de la confección de la falda clásica',
+            titulo: '	Orden operacional de la confección de la falda clásica',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: '3.3	Orden operacional de confección de pantalón ',
+            titulo: '	Orden operacional de confección de pantalón ',
             hash: 't_3_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
             titulo:
-              '3.4	Orden operacional de confección de prendas en tejido de punto',
+              ' Orden operacional de confección de prendas en tejido de punto',
             hash: 't_3_4',
           },
         ],

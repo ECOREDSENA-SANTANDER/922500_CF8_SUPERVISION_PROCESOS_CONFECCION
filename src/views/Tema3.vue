@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mt-5
       .col-sm-12.col-lg-5
-        img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='')      
+        img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='tema3')      
       .col-sm-12.col-lg-7
         p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.  
 
@@ -41,35 +41,27 @@
                 i.fas.fa-car-side.mb-0
                 | Fichas técnicas de confección u orden operacional.
           .col-sm-12.col-lg-4
-            img.img-t.img-a.my-2(src='@/assets/ilustraciones/ropa.png', alt='')       
-
-    
-            
-
+            img.img-t.img-a.my-2(src='@/assets/ilustraciones/ropa.png', alt='tema3')       
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10.bg-4.p-5
         .row.justify-content-center.align-items-center
           .col-lg-12
             .BorTit #[b Figura 6] Ficha técnica de prenda de vestir
-        .row.justify-content-center.align-items-center.mt-5       
-          .col-lg-12
-            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img15.jpg',alt='') 
-        .row.justify-content-center.align-items-center.mt-3
-          .col-lg-11                     
-            figcaption Nota: Lara (2017).  
+            .row.justify-content-center.align-items-center.mt-5       
+              .col-lg-12
+                img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img15.jpg',alt='tema3') 
+            .row.justify-content-center.align-items-center.mt-3
+              .col-lg-11                     
+                figcaption Nota: Lara (2017).  
     
-
-
-
-
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-sm-12.col-lg-12
         .cajontt.color-acento-contenido.p-5 
           .row
             .col-lg-2
-              img.img-t.img-a.mx-5.my-3(src='@/assets/ilustraciones/ane.svg', alt='')       
+              img.img-t.img-a.mx-5.my-3(src='@/assets/ilustraciones/ane.svg', alt='tema3')       
             .col-lg-7
               a.anexo.mb-4.mb-lg-0.my-4.mx-5(href="https://www.youtube.com/watch?v=Sv7X27S7MSE" target="_blank")
                 .anexo__icono
@@ -86,8 +78,7 @@
               p.mx-3.my-4 Dentro de las funciones de un supervisor en procesos de confección está el velar porque cada uno de estos se haya dado y cuente con las especificaciones y orientaciones que permitan y faciliten el proceso de producción en planta para las prendas de vestir, ello asegura el cumplimiento en tiempos y requerimientos de calidad establecidos.
             p.mb-4 Es importante tener presente los saberes adquiridos en cuanto a identificar el tipo de maquinaria y su respectivo funcionamiento, por ello en los videos de este módulo se encontrarán las operaciones básicas que pueden ser implementadas de manera genérica en las prendas como lo son bolsillos, ribetes, puños, etc.
           .col-lg-4
-            img(src='@/assets/ilustraciones/pal.svg', alt='')       
-
+            img(src='@/assets/ilustraciones/pal.svg', alt='tema3')       
 
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
@@ -96,7 +87,7 @@
           .row
             .col-lg-4.p-3
               h4.mx-5.mb-5 Operaciones máquina plana industrial
-              img.my-3(src='@/assets/ilustraciones/cacu.svg', alt='')       
+              img.my-3(src='@/assets/ilustraciones/cacu.svg', alt='tema3')       
             .col-lg-4.p-3
               a.anexo.my-2(href="https://www.youtube.com/watch?v=m6Bda8bTNxk" target="_blank")
                 .anexo__icono
@@ -136,18 +127,13 @@
                   p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble:.
 
 
-
-
-
-
-
       .row.justify-content-center.align-items-center.mt-5
         .col-sm-12.col-lg-7
           p.or.mb-4 #[b Para llevar a cabo la ejecución de labores cuando se fabrica una prenda, en este caso; la camisa, se realiza mediante un paso a paso por operación y con tiempos establecidos, a este proceso se le denomina orden operacional.]
           p.mb-4 Las operaciones corresponden al ensamble de una de las piezas, partes o detalles que componen una prenda, la finalidad es poder tener el ensamble de pieza por pieza, para que al final pueda unirse cada una de las piezas y tener la prenda completa.
           p.mb-4 Cada empresa implementa su propia ruta o modelos de fichas de orden operacional y dependerá de los lineamientos que se establecen desde producción, a continuación, se muestran algunos ejemplos de orden operacional de algunas prendas, en las figuras 7 y 8.
         .col-sm-12.col-lg-5
-          img.img-t.img-a.my-2(src='@/assets/ilustraciones/ptr.png', alt='')       
+          img.img-t.img-a.my-2(src='@/assets/ilustraciones/ptr.png', alt='tema3')       
 
 
 
@@ -161,7 +147,7 @@
             .BorTit #[b Figura 7] Orden operacional de camisa
         .row.justify-content-center.align-items-center.mt-5       
           .col-lg-12
-            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img17.jpg',alt='') 
+            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img17.jpg',alt='tema3') 
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-11                     
             figcaption Nota. Pellegrino (2011). 
@@ -179,7 +165,7 @@
                 .BorTit #[b Figura 8] Orden operacional de blusa
             .row.justify-content-center.align-items-center.mt-5       
               .col-lg-12
-                img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img18.jpg',alt='') 
+                img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img18.jpg',alt='tema3') 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-11                     
                 figcaption Nota. Pellegrino (2011). 
@@ -194,7 +180,7 @@
                   .fondo21.p-3.mb-4
                     .row.justify-content-around.align-items-center
                       .col-3.col-sm-2.col-lg-2
-                        img(src="@/assets/ilustraciones/pef.svg")
+                        img(src="@/assets/ilustraciones/pef.svg", alt="tema3")
                       .col
                         .row.justify-content-between.align-items-center
                           .col.mb-3.mb-sm-0          
@@ -202,13 +188,13 @@
                           .col-sm-auto
                             a.boton.color-acento-botones(href="/downloads/Anexo_3_FICHA_RUTA_OPERACIONAL_SENA.pdf" target="_blank")
                               span Descargar
-                              i.fas.fa-download 
+                              i.fas.fa-file-download 
 
                 .col-sm-12.col-lg-6  
                   .fondo21.p-3.mb-4
                     .row.justify-content-around.align-items-center
                       .col-3.col-sm-2.col-lg-2
-                        img(src="@/assets/ilustraciones/pef.svg")
+                        img(src="@/assets/ilustraciones/pef.svg", alt="tema3")
                       .col
                         .row.justify-content-between.align-items-center
                           .col.mb-3.mb-sm-0          
@@ -216,11 +202,11 @@
                           .col-sm-auto
                             a.boton.color-acento-botones(href="/downloads/Anexo_4_Ejemplos_de_orden_operacional_de_empresa.pdf" target="_blank")
                               span Descargar
-                              i.fas.fa-download 
+                              i.fas.fa-file-download 
     
     .row 
       .col-sm-12.col-lg-4
-        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/gts.png',alt='') 
+        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/gts.png',alt='tema3') 
       .col-sm-12.col-lg-8
         p.mb-4 A su vez dentro de los procesos de confección hay procesos mecánicos y genéricos para el ensamble de prendas en cada una de las partes que la comprenden, por ello en el siguiente material  se hallarán los recursos necesarios para identificar, proceso en el paso a paso para ensamble de cremalleras, bolsillos, mangas, puños, dobladillos, entre otros, esta información puede ser de utilidad para comprender dichos procesos, claro está que cada planta de producción establece también el paso a paso que ayudados de máquinas especializadas agilizan este proceso, como siempre dependerá de cada empresa el establecer las rutas y los procesos.
               .row
@@ -228,7 +214,7 @@
                   .fondo21.p-3.mb-4
                     .row.justify-content-around.align-items-center
                       .col-3.col-sm-2.col-lg-2
-                        img.img-t.img-a(src="@/assets/ilustraciones/pef.svg")
+                        img.img-t.img-a(src="@/assets/ilustraciones/pef.svg",alt='tema3')
                       .col
                         .row.justify-content-between.align-items-center
                           .col.mb-3.mb-sm-0          
@@ -236,13 +222,13 @@
                           .col-sm-auto
                             a.boton.color-acento-botones(href="/downloads/Anexo_5._PASO_A_PASO_EN_CONFECCION_DE_COMPLEMENTOS.docx" target="_blank")
                               span Descargar
-                              i.fas.fa-download
+                              i.fas.fa-file-download
     
 
     
     Separador
-    .titulo-segundo.mt-5#t_3_1
-      .h4(data-aos="fade-right") 3.1 Orden operacional de confección de camisa
+    #t_3_1.titulo-segundo
+      .h2 3.1 Orden operacional de confección de camisa
     
     
     p.my-5(data-aos="fade-right") Para el desarrollo de la ruta operacional en confección de camisa se irán haciendo una serie de ejercicios con diferentes ejemplos trazos, cortes, formas, que al final permitirán el ensamble de la camisa.
@@ -252,7 +238,7 @@
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img.img-t.img-a(src="@/assets/ilustraciones/pdf.svg")
+              img.img-t.img-a(src="@/assets/ilustraciones/pdf.svg",alt='tema3')
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
@@ -261,18 +247,18 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(href="/downloads/Anexo_5._PASO_A_PASO_EN_CONFECCION_DE_COMPLEMENTOS.docx" target="_blank")
                     span Descargar
-                    i.fas.fa-download
+                    i.fas.fa-file-download
     
     
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confeccion de blusa
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 
     
     
     .row.justify-content-center.align-items-center.mb-5 
       .col-sm-12.col-lg-2
-        img.img-t.img-a(src="@/assets/ilustraciones/case.svg")
+        img.img-t.img-a(src="@/assets/ilustraciones/case.svg",alt='tema3')
       .col-sm-12.col-lg-5
         .bloque-texto-d.bg13.p-1.mb-3
           i.fas.fa-quote-left.pre.my-1
@@ -336,7 +322,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -357,7 +343,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -377,7 +363,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -397,7 +383,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -416,7 +402,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -436,7 +422,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -456,7 +442,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -476,7 +462,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -496,7 +482,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -516,7 +502,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -536,7 +522,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -556,7 +542,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -576,7 +562,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -595,7 +581,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -615,7 +601,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -635,7 +621,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -655,7 +641,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -675,7 +661,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -690,7 +676,7 @@
         .cajontt.color-acento-contenido.p-5 
           .row
             .col-lg-2
-              img.img-t.img-a.mx-5.my-3(src='@/assets/ilustraciones/ftr.svg', alt='')       
+              img.img-t.img-a.mx-5.my-3(src='@/assets/ilustraciones/ftr.svg',alt='tema3')       
             .col-lg-8
               p.my-5 A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa Slim fit para hombre, y la confección de una camisa artesanalmente.
         .row.justify-content-center 
@@ -709,8 +695,8 @@
 
 
     Separador
-    .titulo-segundo.mt-5#t_3_2
-      .h4 3.2 Orden operacional de la confección de la falda clásica
+    #t_3_2.titulo-segundo
+      .h2 3.2 Orden operacional de la confección de la falda clásica
     
     p.mb-2 A continuación, se presenta el orden de operación para la confección de una falda clásica.
 
@@ -718,7 +704,7 @@
       .col-sm-12.col-lg-8.row-img-color 
         .row.justify-content-center.align-items-center
           .col-lg-12.p-0      
-            img.img-t.img-a(src='@/assets/ilustraciones/img66.png', alt='')
+            img.img-t.img-a(src='@/assets/ilustraciones/img66.png',alt='tema3')
             p.mb-0.px-4.py-3 Es necesario que para la confección de la falda clásica se tengan ya los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados.
       .col-sm-12.col-lg-4
         .row.justify-content-center.align-items-center
@@ -729,7 +715,7 @@
                   h5 Figura 9. 
                   |  Falda clásica
                 figure(data-aos="zoom-in-up")
-                  img(src='@/assets/ilustraciones/img21.svg' alt="")
+                  img(src='@/assets/ilustraciones/img21.svg' ,alt='tema3')
                   figcaption Fuente: Moldes Unicosé
     
     
@@ -758,7 +744,7 @@
             h4 Paso 7
             p.mb-5 Realizar dobladillo.
       .col-sm-12.col-lg-3
-        img(src='@/assets/ilustraciones/ded.svg' alt="")
+        img(src='@/assets/ilustraciones/ded.svg',alt='tema3')
 
     .bg999.p-3.mt-5
       LineaTiempoC.mt-4
@@ -774,7 +760,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -829,7 +815,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -850,31 +836,31 @@
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Patrones
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Tijeras
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Pesos
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Metro
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Tiza 
                 p.mt-3 Una vez doblada la tela, haciendo coincidir sus extremos como lo muestra el vídeo del paso a paso:
@@ -883,7 +869,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -907,7 +893,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -928,31 +914,31 @@
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Contorno de cintura: 68 cm
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Contorno de cadera: 96 cm
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Alto de cadera: 18 cm
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Largo de falda: 60 cm
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Separación de busto: 18 cm
                 p.mt-3 Te invito a seguir el paso a paso de este patronaje en el siguiente vídeo
@@ -961,7 +947,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -986,7 +972,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1008,7 +994,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1031,7 +1017,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1054,7 +1040,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1075,31 +1061,31 @@
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Cintura
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Costados
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Centro atrás, para la parte posterior.
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Ruedo 
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Pretina
                 p.mt-3 Para la marcación del eje de pinza se coloca la plantilla sobre el delantero, se ubica según los piquetes de pinza y el costado de forma que coincida, se hace la marcación del eje de pinza utilizando la plantilla.
@@ -1110,7 +1096,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1135,7 +1121,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1156,19 +1142,19 @@
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Marcación del ojal, éste debe quedar en todo el centro de la pretina y a 1 cm del borde.
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Marcación del botón; una vez realizado el ojal, levantamos la pretina y marcamos el punto de ubicación en donde irá el botón.
                     .list
                         .list__item
                             .list__item__icon
-                                img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+                                img(src="@/assets/ilustraciones/v1.svg",alt='tema3').img-icon 
                         .list__txt 
                             span Pegar botón, para este paso ubicamos el botón en las  mordazas de la máquina botonadora, teniendo en cuenta que los orificios queden alineados a la aguja, posteriormente ubicamos la pretina por la marcación, y unimos botón y tela. 
                 p.mt-3 Una clara explicación de este paso, se encuentra en el vídeo. Esperamos que la confección de su falda básica quede con todas las condiciones de calidad esperadas. 
@@ -1177,7 +1163,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1197,8 +1183,8 @@
     figcaption Video. Description
 
     Separador
-    .titulo-segundo.mt-5#t_3_3
-      .h4(data-aos="fade-right") 3.3 Orden operacional de confección de pantalón
+    #t_3_3.titulo-segundo
+      .h2 3.3 Orden operacional de confección de pantalón
     
     p.mb-4 En la siguiente tabla se muestra el proceso de confección de un pantalón.
 
@@ -1234,7 +1220,7 @@
               .fondo21.p-3.mb-4
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.col-lg-2
-                    img.img-a.img-t(src="@/assets/ilustraciones/videop.svg")
+                    img.img-a.img-t(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
@@ -1245,8 +1231,8 @@
                           i.fas.fa-video     
 
     Separador
-    .titulo-segundo.mt-0#t_3_4
-      .h4(data-aos="fade-right") 3.4 Orden operacional de confección de prendas en tejido de punto
+    #t_3_4.titulo-segundo
+      .h2 3.4 Orden operacional de confección de prendas en tejido de punto
     
     p.mt-5 En la siguiente tabla se muestra el proceso operacional para la confección de prendas en tejido de punto.   
     
@@ -1270,12 +1256,12 @@
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confección de camiseta tipo polo
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-5
-        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/polo.png', alt='')
+        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/polo.png',alt='tema3')
       .col-sm-12.col-lg-7
         p.mb-4 Un polo es una prenda de punto para el tronco que tiene la misma forma que una camiseta o playera, pero además tiene cuello, llegando también hasta la cintura y que puede tener manga larga o corta. Típicamente tiene una abertura delantera con dos o tres botones para ajustar el cuello y puede tener un bolsillo e incluso sustituir los botones por una cremallera. Esta fue ideada en el siglo XX para uniformar a los equipos que practicaban deporte.
         p.mb-4 En el siguiente paso a paso, podrá encontrar una clara orientación para la fabricación de éste tipo de prenda.
@@ -1551,7 +1537,7 @@
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confección de pantalones deportivos
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left") 
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 
 
     .row.justify-content-center.align-items-center 
       .col-sm-12.col-lg-7
@@ -1562,7 +1548,7 @@
         p.mb-3 Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
         p ¡Bienvenido!
       .col-sm-12.col-lg-5
-        img.img-t.img-a(src='@/assets/ilustraciones/chic.png', alt='')     
+        img.img-t.img-a(src='@/assets/ilustraciones/chic.png',alt='tema3')     
     
     
     
@@ -1589,7 +1575,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1667,7 +1653,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1693,7 +1679,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1717,7 +1703,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1742,7 +1728,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1766,7 +1752,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1791,7 +1777,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1815,7 +1801,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1840,7 +1826,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1864,7 +1850,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1888,7 +1874,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
@@ -1913,7 +1899,7 @@
                     .fondo21.p-3.mb-4
                       .row.justify-content-around.align-items-center
                         .col-3.col-sm-2.col-lg-2
-                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg")
+                          img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                         .col
                           .row.justify-content-between.align-items-center
                             .col.mb-3.mb-sm-0          
