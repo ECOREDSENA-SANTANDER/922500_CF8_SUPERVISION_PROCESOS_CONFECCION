@@ -90,8 +90,8 @@
           table
             caption Nota: Biblioteca SENA
             tr.bg-1
-              td.text-center #[b Norma]
-              td.text-center #[b Tipo de Norma]
+              td.text-center.coloy #[b Norma]
+              td.text-center.coloy #[b Tipo de Norma]
             tr
               td.tab-bold.br-tabble NTC 228 
               td Textiles, Determinación del ancho de las telas. 
