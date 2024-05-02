@@ -17,7 +17,7 @@
         .cajon.p-4
           p.mb-0 Dentro de todos estos procesos y lineamientos es indispensable entender que la confección de una prenda no es el proceso final, ya que esto se logrará una vez se aprueben los procesos de revisión de acuerdo con criterios técnicos y de calidad para llegar a la entrega del producto.    
       .col-sm-12.col-lg-5
-        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img1.png', alt='')
+        img.img-t.img-a.my-3(src='@/assets/ilustraciones/img1.png', alt='')
     
 </template>
 

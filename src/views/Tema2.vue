@@ -28,8 +28,8 @@
     
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-sm-12.col-lg-12
-        .row 
-          .col-sm-12.col-lg-6 
+        .row.justify-content-center
+          .col-lg-6.col-md-10.col-10.mb-4 
             img.img-t.img-a.my-0(src='@/assets/ilustraciones/abc.png', alt='tema2')                  
           .col-lg-6.bg-35.mb-3.p-5
             .row.justify-content-center.align-items-center
@@ -96,110 +96,108 @@
     
     p.mt-5.mb-4 Por lo anterior, se sugieren las siguientes condiciones iniciales como en la figura 2 para evitar molestias durante la práctica:      
 
-    .tarjeta.p-2.bg1
+    .bg1
       SlyderA
-        .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-12
-            .row.justify-content-center
-              .col-lg-2
+        .row.justify-content-center.align-items-top.p-5
+          .col-lg-4.col-md-10.col-10.mb-4
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 2
+              | Postura ideal
+            .cajablanca.p-3
+              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="tema2")
+            figcaption.segundo Nota. Singer (2014)
+          .col-lg-6.col-md-12.col-12.mb-4 
+            ul.lista-ul--color
+              li.d-flex.mb-0
+                i.fas.fa-car-side.mx-3
+                | Mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla.
+              li.d-flex.mb-0
+                i.fas.fa-car-side.mx-3
+                | Repartir el peso entre la parte inferior de los glúteos.
+              li.d-flex.mb-0
+                i.fas.fa-car-side.mx-3
+                | Las rodillas en ángulo recto con las caderas.
+              li.d-flex.mb-0
+                i.fas.fa-car-side.mx-3
+                | Si los pies no llegan al suelo hacer uso de un reposapiés.
+              li.d-flex.mb-0
+                i.fas.fa-car-side.mx-3
+                | No permanecer demasiado tiempo en la misma posición.
+
+        .row.justify-content-center.align-items-top.p-5
+          .col-lg-12.col-md-10.col-10
+            p.text-center Una vez se tienen presentes los lineamientos anteriores en torno a la postura se debe implementar una postura como en la figura 3:
+            .row.justify-content-center.align-items-top.my-5
+              .col-lg-4.col-md-10.col-10
                 .titulo-sexto.color-acento-contenido
-                  h5.per Figura 2
-                  | Postura ideal
-                img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="tema2")
-                figcaption Nota. Singer (2014)
-              .col-lg-6.my-5   
+                  h5 Figura 3
+                  | Postura en máquina
+                .cajablanca.p-3
+                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="tema2")
+                figcaption.segundo Nota. Singer (2014)
+              .col-lg-8.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Repartir el peso entre la parte inferior de los glúteos.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Las rodillas en ángulo recto con las caderas.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Si los pies no llegan al suelo hacer uso de un reposapiés.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | No permanecer demasiado tiempo en la misma posición.
- 
-        .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-12
-            .row.justify-content-center
-              .col-auto.my-5 
-                p Una vez se tienen presentes los lineamientos anteriores en torno a la postura se debe implementar una postura como en la figura 3:
-              .col-lg-2
-                .titulo-sexto.color-acento-contenido
-                  h5.per Figura 3
-                  | Postura ideal
-                img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="tema2")
-                figcaption Nota. Singer (2014)
-              .col-lg-6   
-                ul.lista-ul--color
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | La silla debe estar próxima a la mesa de trabajo para evitar inclinarse hacia adelante.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Es preferible que la silla tenga bordes redondeados y que sea ergonómica en la que repose un asiento siliconado o con cojín.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | La altura de la mesa y la silla debe ser acorde a la estatura del operario y los brazos a la altura de la mesa.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     |El material para confeccionar estará a la mano del operario para evitar estiramientos y desplazamientos innecesarios.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | En la mesa solo deben estar los elementos necesarios para el desarrollo de la labor.
 
-
-        .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-12
-            .row.justify-content-center
-              .col-auto.my-5 
-                p Si la labor en la confección implica estar de pie para la realización de alguna labor contemplada en la ruta operacional se sugiere como en la figura 4:
-              .col-lg-2.mx-5
+        .row.justify-content-center.align-items-center.p-5
+          .col-lg-12.col-md-10.col-10
+            p.text-center Si la labor en la confección implica estar de pie para la realización de alguna labor contemplada en la ruta operacional se sugiere como en la figura 4:
+            .row.justify-content-center.align-items-top.my-5
+              .col-lg-4.col-md-8.col-8
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 4
                   | Postura de pie
-                img(src='@/assets/ilustraciones/img13.svg' alt="tema2")
-                figcaption Nota. Singer (2014)
-              .col-lg-6   
+                .cajablanca.p-3
+                  img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="tema2")
+                figcaption.segundo Nota. Singer (2014)
+              .col-lg-6.col-md-12.col-12  
                 ul.lista-ul--color
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Mantener un pie en alto apoyándolo sobre un escalón que pueda tener la mesa o se puede adherir como elemento un reposapiés.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Evitar estar agachado o encorvado.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Utilizar calzado ergonómico.
       
 
-        .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-12
-            .row.justify-content-center
-              .col-auto.my-5 
-                p.text-center Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
-              .col-lg-2.mx-5
+        .row.justify-content-center.align-items-center.p-5
+          .col-lg-12.col-md-12.col-12
+            p.text-center Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
+            .row.justify-content-center.align-items-top.my-5
+              .col-lg-4.col-md-10.col-10
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 5
                   | Carga de elementos
-                img(src='@/assets/ilustraciones/img14.svg' alt="tema2")
-                figcaption Nota. Singer (2014)
-              .col-lg-6   
+                .cajablanca.p-3
+                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="tema2")
+                figcaption.segundo Nota. Singer (2014)
+              .col-lg-6.col-md-12.col-12
                 ul.lista-ul--color
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Flexionar las rodillas, no la espalda y tener los pies firmes bien apoyados.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Levantarse con las piernas no con la espalda y sostener los objetos junto al cuerpo.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mx-3
                     | Si el peso es excesivo es preferible solicitar ayuda.
       
     Separador
@@ -208,7 +206,7 @@
 
     p.mt-5 Las condiciones bajo las cuales un trabajador desempeña su labor deben tener el objetivo de generar un buen espacio para quien desempeña una labor en la que su integridad física y psicológica esté primero, dado que cuando estas condiciones de trabajo no son las adecuadas o no cuenta con los elementos de protección puede acarrear algunas consecuencias como:
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-7
+      .col-sm-12.col-lg-7.mb-5
         .row.justify-content-center.align-items-center
           .col-lg-2
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/img6.svg', alt='tema2')           
@@ -249,7 +247,7 @@
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/img11.svg', alt='tema2')           
           .col-lg-10(data-aos="fade-left")
             p.tab-bolde.mb-0 Insatisfacción, desinterés, etc.
-      .col-sm-12.col-lg-5
+      .col-sm-9.col-lg-5.col-9
         img.img-t.img-a.my-2(src='@/assets/ilustraciones/imageen.png', alt='tema2')           
     
     p.mt-5(data-aos="fade-right") Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.

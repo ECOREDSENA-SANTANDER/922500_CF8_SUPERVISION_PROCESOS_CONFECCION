@@ -39,27 +39,27 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '1',
         titulo: 'Normas técnicas para la confección de prendas de vestir',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '2',
         titulo: 'Normas generales para la confección de prendas de vestir',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '2.1',
             titulo:
               'Normas generales de seguridad para la labor en la confección de prendas',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '2.2',
             titulo: 'Condiciones y espacios en el trabajo',
             hash: 't_2_2',
@@ -68,31 +68,31 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '3',
         titulo: 'Confección de prendas de vestir',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.1',
             titulo: 'Orden operacional de confección de camisa',
             hash: 't_3_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.2',
             titulo: '	Orden operacional de la confección de la falda clásica',
             hash: 't_3_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.3',
             titulo: '	Orden operacional de confección de pantalón ',
             hash: 't_3_3',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '3.4',
             titulo:
               ' Orden operacional de confección de prendas en tejido de punto',
@@ -102,32 +102,32 @@ export default {
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '4',
         titulo: 'Terminados en las prendas de vestir',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
+        icono: '',
         numero: '5',
         titulo: 'Control de calidad',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.1',
             titulo: 'Concepto control de calidad',
             hash: 't_5_1',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.2',
             titulo: 'Gestión de calidad total',
             hash: 't_5_2',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: '',
             numero: '5.3',
             titulo: 'Puntos y controles en el proceso de confección',
             hash: 't_5_3',
