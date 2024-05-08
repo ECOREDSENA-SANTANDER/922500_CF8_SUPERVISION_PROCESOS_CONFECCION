@@ -99,14 +99,14 @@
     .bg1
       SlyderA
         .row.justify-content-center.align-items-top.p-5
-          .col-lg-4.col-md-10.col-10.mb-4
+          .col-lg-3.col-md-10.col-10.mb-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 2
               | Postura ideal
-            .cajablanca.p-3
+            .cajablanca.p-2
               img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="tema2")
             figcaption.segundo Nota. Singer (2014)
-          .col-lg-6.col-md-12.col-12.mb-4 
+          .col-lg-5.col-md-12.col-12.mb-4 
             ul.lista-ul--color
               li.d-flex.mb-0
                 i.fas.fa-car-side.mx-3
@@ -128,14 +128,14 @@
           .col-lg-12.col-md-10.col-10
             p.text-center Una vez se tienen presentes los lineamientos anteriores en torno a la postura se debe implementar una postura como en la figura 3:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-4.col-md-10.col-10
+              .col-lg-3.col-md-10.col-10
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 3
                   | Postura en máquina
-                .cajablanca.p-3
+                .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="tema2")
                 figcaption.segundo Nota. Singer (2014)
-              .col-lg-8.col-md-12.col-12.mb-4    
+              .col-lg-5.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -157,14 +157,14 @@
           .col-lg-12.col-md-10.col-10
             p.text-center Si la labor en la confección implica estar de pie para la realización de alguna labor contemplada en la ruta operacional se sugiere como en la figura 4:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-4.col-md-8.col-8
+              .col-lg-3.col-md-8.col-8
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 4
                   | Postura de pie
-                .cajablanca.p-3
+                .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="tema2")
                 figcaption.segundo Nota. Singer (2014)
-              .col-lg-6.col-md-12.col-12  
+              .col-lg-5.col-md-12.col-12  
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -181,14 +181,14 @@
           .col-lg-12.col-md-12.col-12
             p.text-center Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-4.col-md-10.col-10
+              .col-lg-3.col-md-10.col-10
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 5
                   | Carga de elementos
-                .cajablanca.p-3
+                .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="tema2")
                 figcaption.segundo Nota. Singer (2014)
-              .col-lg-6.col-md-12.col-12
+              .col-lg-5.col-md-12.col-12
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -252,22 +252,24 @@
     
     p.mt-5(data-aos="fade-right") Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.
 
-    
-    TabsC.color-acento-contenido.mt-5(data-aos="flip-up") 
-      .py-3.py-md-4(titulo="Temperatura")
-        .row.justify-content-center.align-items-center
-          .col-lg-10      
+
+
+    TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
+      .py-3.py-md-4.bg26.px-3(titulo="Temperatura")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-12.my-3
             p Influye directamente en el bienestar del trabajador, en su rendimiento y seguridad de los operarios, una excesiva temperatura ya sea de frío o calor puede producir fatiga, requiriendo tiempos extendidos de recuperación o descanso, en este caso se vigila la humedad del ambiente.
             p En ambientes de talleres en los que la maquinaria que por lo general suele ser industrial con motores industriales que generan calor, y al estar en funcionamientos varios a la vez, se puede afectar el ambiente general del espacio de trabajo. La condición de temperatura recomendada es de 18°C para que sea confortable.
-
-      .py-3.py-md-4(titulo="Ruido")
-        .row.justify-content-center.align-items-center
-          .col-lg-10      
+      
+      .py-3.py-md-4.bg26.px-3(titulo="Ruido")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-12.my-3
             p Las operaciones mecanizadas, el ruido de las máquinas, y el espacio general en el lugar o puesto de trabajo, también puede llegar a generar molestias dado que puede haber sonidos de media vibración constante, y ya que en muchas fábricas se suele tener gran número de máquinas, se sugiere usar protectores auditivos como audífonos especiales si el lugar de trabajo excede el número de decibeles mínimo (50 – 80).  Algunas de las molestias presentadas son: efectos patológicos, fatiga, confusión, pérdida de audición.
-        
-      .py-3.py-md-4(titulo="Iluminación")
-        .row.justify-content-center.align-items-center
-          .col-lg-10      
+
+      
+      .py-3.py-md-4.bg26.px-3(titulo="Iluminacion")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-12.my-3
             p Generar espacios de trabajo en los que la iluminación es un factor importante es imprescindible, pero esta debe ser adecuada, dado que puede llegar afectar tanto por insuficiente o excesiva, ya que toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Si este factor no es vigilado, puede ocasionar efectos como: irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina.
             p A continuación en la tabla 2, se presentan los mínimos de intensidad recomendada.
             .BorTit.mt-5 #[b Tabla 2] Mínimos de intensidad recomendada en espacios de trabajo            
@@ -292,10 +294,11 @@
                 tr
                   td.tab-bold.br-tabble.ertt Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
                   td.ertt 2000-3000 lux
-
-      .py-3.py-md-4(titulo="Ventilación")
-        .row.justify-content-center.align-items-center
-          .col-lg-10      
+      
+      
+      .py-3.py-md-4.bg26.px-3(titulo="Ventilación")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-12.my-3
             p Se debe comprender que la ventilación debe ser proporcional al espacio de trabajo, y se debe evitar confundir ventilación con circulación de aire, dado que la ventilación sustituye el aire vaciado por aire fresco y la circulación de aire mueve el aire, pero sin renovarlo.  Por ello es importante que los espacios no sean completamente cerrados dado que se necesita renovar el aire, para evitar así posibles enfermedades que afectan en cadena a los trabajadores de un taller (Huamán, 2003). Algunos de los aspectos a cuidar de este factor son: 
             .row.justify-content-center.align-items-center
               .col-lg-11            
@@ -309,10 +312,11 @@
                   li.d-flex
                     i.fas.fa-car-side.mx-3.mb-0
                     | Mantener un espacio fresco.
-                
-      .py-md-4(titulo="Descripción del puesto de trabajo")
-        .py-3.row.justify-content-center.align-items-center
-          .col-lg-10      
+      
+      
+      .py-3.py-md-4.bg26.px-3(titulo="Descripción del puesto de trabajo")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-md-12.my-3
             p Como se ha mencionado anteriormente el espacio de trabajo contribuye a un buen desarrollo de las actividades en la labor de la confección, por ello es importante tener en cuenta:
             .row.justify-content-center.align-items-center
               .col-lg-12            
@@ -352,8 +356,6 @@
                   li.d-flex
                     i.fas.fa-car-side.mx-3.mb-0
                     | Iluminación: suficiente acorde al espacio de trabajo, en el que no genere que la persona deba esforzarse para realizar actividades en la labor de la confección.
-          
-
 
 
 

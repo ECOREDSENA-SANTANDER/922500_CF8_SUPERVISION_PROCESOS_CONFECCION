@@ -12,10 +12,10 @@
         .row.justify-content-center.mb-4(data-aos="fade-down")
     
         .row.justify-content-center.align-items-center.mt-5
-          .col-sm-12.col-lg-7
+          .col-sm-12.col-lg-7.mb-3
             p(data-aos="fade-right") El ensamble de prendas de vestir a través de los años se ha realizado de diferentes formas en las empresas, sin embargo, existen normas técnicas que ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos; este proceso de ensamble con las normas ayuda a crear productos con un criterio de calidad y  entrega oportuna a los clientes; así pues que la programación y la planeación de la producción se combinan con la normatividad, y las empresas de confección desarrollan sistemas de producción capaces de competir a nivel nacional e internacional con otras que prestan el mismo servicio. El perfeccionamiento de este proceso evita reprocesos en las plantas tanto a nivel operativo, como administrativo; es aquí donde la guía de buenas prácticas en la confección de prendas de vestir resume las normas a tener en cuenta para la fabricación de productos que cuenten con los requisitos elegidos por el cliente desde la presentación de los prototipos en diseño, hasta la entrega final del producto. 
-          .col-sm-12.col-lg-5
-            img.img-t.img-a.mb-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.png', alt='')
+          .col-md-10.col-lg-5.col-10.mb-3
+            img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.png', alt='')
     
     P.mb-4.text-center En definitiva, el proceso cuenta con un seguimiento y medición de cada paso a paso, para su posterior verificación del cumplimento hacia el cliente. 
     
@@ -76,7 +76,7 @@
                           h4.my-0 Normas Técnicas Colombianas
                           p.mb-0 A continuación, podrá revisar de manera detallada cada una de las normas técnicas colombianas que regulan los procesos de producción.
                         .col-sm-auto
-                          a.boton.color-acento-botones.mx-4(href="/downloads/Anexo_1_NORMA_TECNICA_COLOMBIANA.pdf" target="_blank")
+                          a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_1_NORMA_TECNICA_COLOMBIANA.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-file-download
 
@@ -143,7 +143,7 @@
                     h4.my-0 Proceso de diseño y desarrollo del producto
                     p.mb-0 En el anexo 2, ubicado en el material complementario podrá consultar la normatividad que regula el proceso de diseño y desarrollo del producto.
                   .col-sm-auto
-                    a.boton.color-acento-botones.mx-4(href="/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf" target="_blank")
+                    a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 </template>

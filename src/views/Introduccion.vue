@@ -16,7 +16,7 @@
         p.mb-4(data-aos="fade-left") Por lo anterior, en este componente se abordarán las operaciones básicas en el ensamble de complementos desde el paso a paso hasta llegar a su implementación, de acuerdo con los procesos técnicos e industriales en la confección de prendas de vestir, comprendiendo ésta como la construcción secuencial de sus partes. Esto genera que las rutas operacionales en la construcción de cada uno de los apartados de una prenda sean entendidas en la interpretación de diseños que independientemente de cuán diferentes sean, dependen de procesos y lineamientos establecidos y generalizados dentro de la confección.  
         .cajon.p-4
           p.mb-0 Dentro de todos estos procesos y lineamientos es indispensable entender que la confección de una prenda no es el proceso final, ya que esto se logrará una vez se aprueben los procesos de revisión de acuerdo con criterios técnicos y de calidad para llegar a la entrega del producto.    
-      .col-sm-12.col-lg-5
+      .col-md-10.col-lg-5.col-10
         img.img-t.img-a.my-3(src='@/assets/ilustraciones/img1.png', alt='')
     
 </template>

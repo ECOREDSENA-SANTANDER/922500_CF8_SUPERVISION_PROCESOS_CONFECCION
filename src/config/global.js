@@ -192,17 +192,16 @@ export default {
     {
       tema: '',
       referencia:
-        'Informativos.  (2012).  Cómo se confecciona una camisa artesanalmente. [video]. Youtube.',
+        'Academia confección a la moda. (2019) Camisa de hombre/cómo hacer/paso a paso/confección (Video) Youtube ',
       tipo: 'Video',
-      descarga:
-        'https://www.youtube.com/watch?app=desktop&v=g7nLMKAMVVQ&ab_channel=informativos',
+      link: 'https://www.youtube.com/watch?v=DgTaEpPIH1E',
     },
     {
       tema: '',
       referencia:
         'Informativos.  (2012).  Ensamble de camisa. [video]. Youtube.',
       tipo: 'Video',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=xD1u53N8sWQ&ab_channel=LaCosturadiy',
     },
     {
@@ -210,13 +209,13 @@ export default {
       referencia:
         'Gutiérrez, B.  (2019).  Confección de pantalón para caballero. [video]. Youtube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?app=desktop&v=NHtzg2UrKHs',
+      link: 'https://www.youtube.com/watch?app=desktop&v=NHtzg2UrKHs',
     },
     {
       tema: '',
       referencia: 'ISO, Sistema de Gestión de Calidad 9001:2015',
       tipo: 'Norma',
-      descarga: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
+      link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
     },
   ],
   glosario: [
@@ -401,14 +400,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -416,9 +415,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Ledy Johana Velásquez Hernández',
+          cargo: 'Diseño y desarrollo curricular',
+          centro: 'Regional Antioquía - Diseño, confección y moda. ',
+        },
+        {
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Diseño y desarrollo curricular',
+          centro: 'Regional Antioquía - Diseño, confección y moda.',
+        },
+        {
+          nombre: 'Fernelis Mauricio Echeverri',
+          cargo: 'Experto temático',
+          centro: 'Regional Antioquía - Diseño, confección y moda.',
+        },
+        {
+          nombre: 'María Inés Machado López',
+          cargo: 'Diseño Instruccional',
+          centro: 'Regional Cundinamarca – Diseño y metrología',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Regional Distrito capital – Centro Gestión Industrial',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica. ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -426,19 +456,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Carla Liliana Sequera Vargas',
+          cargo: 'Diseñadora de Contenidos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Pedro Alonso Bolivar González',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -446,14 +471,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

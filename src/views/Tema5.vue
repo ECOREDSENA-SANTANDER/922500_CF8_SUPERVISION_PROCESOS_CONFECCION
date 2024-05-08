@@ -701,7 +701,7 @@
                 .col.mb-3.mb-sm-0          
                   p.my-2 Anexo. Tabla militar.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="/downloads/Anexo_8_Tabla_Militar.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_8_Tabla_Militar.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
                     
@@ -734,7 +734,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2 Anexo. Formato defectos textiles.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="/downloads/Anexo_9_Formato_defectos.xlsx" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_9_Formato_defectos.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -780,7 +780,7 @@
                 .col.mb-3.mb-sm-0          
                   p.my-2 Anexo. Hoja de inspección hilos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="/downloads/Anexo_10_Hoja_de_inspección_Hilos.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_10_Hoja_de_inspección_Hilos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     
@@ -812,7 +812,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2 Anexo. Pruebas de calidad en laboratorios para insumos.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="/downloads/Anexo_11_Pruebas_de_calidad_en_laboratorios_para_Insumos.pdf" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_11_Pruebas_de_calidad_en_laboratorios_para_Insumos.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -940,7 +940,7 @@
                 .col.mb-3.mb-sm-0          
                   p.my-2 Anexo. Códigos de defectos (denim, casual, militar, work).
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     
@@ -1053,7 +1053,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2 Anexo. Hoja de patronaje y corte.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -1222,7 +1222,7 @@
                 .col.mb-3.mb-sm-0          
                   p.my-2 Anexo. Hoja de inspección producto en proceso.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       
@@ -1242,7 +1242,7 @@
         .row.justify-content-center.align-items-center.mt-5
           .col-sm-8.col-lg-6.mb-4
             img.img-t.img-a(src="@/assets/ilustraciones/poli.png",alt='tema5')
-          .col-sm-12.col-lg-6.mb-4
+          .col-md-12.col-lg-6.col-12.mb-4
             .nome.p-4
               ul.lista-ul--color.eto.mx-4.my-4
                 li.d-flex
@@ -1291,7 +1291,7 @@
                 .col.mb-3.mb-sm-0          
                   p.my-2 Anexo. Pruebas de calidad en laboratorios para prenda terminada.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="/downloads/Anexo_15_Pruebas_de_calidad_en_laboratorios_para_prenda_terminada.pdf" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_15_Pruebas_de_calidad_en_laboratorios_para_prenda_terminada.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     
@@ -1432,7 +1432,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2 Anexo. Formato auditoria calidad.
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
     
