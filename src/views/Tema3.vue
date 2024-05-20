@@ -11,7 +11,7 @@
       .col-sm-12.col-lg-5
         img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='tema3')      
       .col-sm-12.col-lg-7
-        p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.  
+        p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
 
 
     .row.fondo-pabg.align-items-center.py-4.py-md-3.mb-4.my-5
@@ -58,7 +58,7 @@
               h5 Figura 6 
               | Ficha técnica de prenda de vestir
             figure
-              img.img-a.img-t(src='@/assets/ilustraciones/img15.jpg', alt='tema3')
+              img.img-a.img-t(src='@/assets/ilustraciones/img15.jpg', alt='La figura presenta un documento donde se definen especificaciones acerca de una prenda de vestir como lo son: características del diseño, detalles del armado, cuidados, datos de las tela y datos de avíos. ')
               figcaption Nota: Lara (2017).
 
     
@@ -136,9 +136,9 @@
 
       .row.justify-content-center.align-items-center.mt-5
         .col-sm-12.col-lg-7
-          p.or.mb-4 #[b Para llevar a cabo la ejecución de labores cuando se fabrica una prenda, en este caso; la camisa, se realiza mediante un paso a paso por operación y con tiempos establecidos, a este proceso se le denomina orden operacional.]
-          p.mb-4 Las operaciones corresponden al ensamble de una de las piezas, partes o detalles que componen una prenda, la finalidad es poder tener el ensamble de pieza por pieza, para que al final pueda unirse cada una de las piezas y tener la prenda completa.
-          p.mb-4 Cada empresa implementa su propia ruta o modelos de fichas de orden operacional y dependerá de los lineamientos que se establecen desde producción, a continuación, se muestran algunos ejemplos de orden operacional de algunas prendas, en las figuras 7 y 8.
+          p.or.mb-4 #[b Para realizar la confección de una prenda, como es el caso de la camisa, se sigue un proceso secuencial dividido en etapas, cada una con tiempos definidos. A este procedimiento se le conoce como orden operacional. ]
+          p.mb-4 Este comprende diversas operaciones que se refieren al ensamblaje de piezas, partes o detalles específicos de la prenda, con el objetivo de ensamblarlas una por una. De esta manera, al final del proceso, todas las piezas se unen para formar la prenda completa.
+          p.mb-4 Cada empresa adopta su propia metodología o emplea modelos específicos de fichas de orden operacional, los cuales se basan en los criterios establecidos por producción. A modo de ilustración, en las figuras 7 y 8 se presentan ejemplos de órdenes operacionales aplicadas a distintas prendas.
         .col-sm-12.col-lg-5
           img.img-t.img-a.my-2(src='@/assets/ilustraciones/ptr.png', alt='tema3')       
 
@@ -158,7 +158,7 @@
               h5 Figura 7
               | Orden operacional de camisa
             figure
-              img.img-a.img-t(src='@/assets/ilustraciones/img17.jpg', alt='tema3')
+              img.img-a.img-t(src='@/assets/ilustraciones/img17.jpg', alt='La figura presenta un documento con un diagrama del paso a paso para ensamblar una prenda ')
               figcaption Nota. Pellegrino (2011).
 
 
@@ -176,7 +176,7 @@
                   h5 Figura 8
                   | Orden operacional de blusa
                 figure
-                  img(src='@/assets/ilustraciones/img18.jpg', alt='tema3')
+                  img(src='@/assets/ilustraciones/img18.jpg', alt='La figura presenta un documento que tabula la secuencia de pasos o acciones que se deben seguir para ensamblar una prenda. ')
                   figcaption Nota. Pellegrino (2011). 
 
 
@@ -218,7 +218,7 @@
       .col-sm-12.col-lg-4
         img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/gts.png',alt='tema3') 
       .col-sm-12.col-lg-8
-        p.mb-4 A su vez dentro de los procesos de confección hay procesos mecánicos y genéricos para el ensamble de prendas en cada una de las partes que la comprenden, por ello en el siguiente material  se hallarán los recursos necesarios para identificar, proceso en el paso a paso para ensamble de cremalleras, bolsillos, mangas, puños, dobladillos, entre otros, esta información puede ser de utilidad para comprender dichos procesos, claro está que cada planta de producción establece también el paso a paso que ayudados de máquinas especializadas agilizan este proceso, como siempre dependerá de cada empresa el establecer las rutas y los procesos.
+        p.mb-4 Dentro de la confección de prendas, existen procesos tanto mecánicos como genéricos esenciales para el ensamblaje de sus distintas partes. Por ello, en el material proporcionado se encuentran los recursos necesarios para identificar y seguir el paso a paso de técnicas clave como la inserción de cremalleras, la adición de bolsillos, la unión de mangas, la elaboración de puños y dobladillos, entre otros aspectos. Esta información resulta fundamental para entender los procesos mencionados; cabe destacar que cada fábrica de producción tiene sus propios procedimientos, que se ven facilitados por el uso de maquinaria especializada, acelerando así el proceso de ensamblaje, sin embargo, la definición de estos métodos y la optimización de los flujos de trabajo dependen exclusivamente de la política de cada empresa.
               .row
                 .col-sm-12.col-lg-12  
                   .fondo21.p-3.mb-4
@@ -682,7 +682,7 @@
             .col-lg-2
               img.img-t.img-a.mx-5.my-3.d-none.d-lg-block(src='@/assets/ilustraciones/ftr.svg',alt='tema3')       
             .col-lg-8
-              p.my-5 A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa Slim fit para hombre, y la confección de una camisa artesanalmente.
+              p.my-5 A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa #[em Slim fit] para hombre, y la confección de una camisa artesanalmente.
         .row.justify-content-center 
           .col-lg-4.mb-4
             a.anexo.subir.my-2(href="https://www.youtube.com/watch?v=4kT8atODsIQ" target="_blank")
@@ -719,7 +719,7 @@
                   h5 Figura 9. 
                   |  Falda clásica
                 figure(data-aos="zoom-in-up")
-                  img.img-a.img-t(src='@/assets/ilustraciones/img21.svg' ,alt='tema3')
+                  img.img-a.img-t(src='@/assets/ilustraciones/img21.svg' ,alt='La figura presenta la fotografía de las piernas de una mujer, llevando una falda negra hasta debajo de la rodilla. Adicionalmente, se encuentra el dibujo de la falda en un costado de la fotografía. ')
                   figcaption Fuente: Moldes Unicosé
     
     
@@ -767,8 +767,9 @@
                       img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
                     .col
                       .row.justify-content-between.align-items-center
-                        .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Introducción”.
+                        .col.mb-3.mb-sm-0
+                          h4 Introducción         
+                          p Adicionalmente, analíce con atención el video “Introducción”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=iMD25Zp__uM" target="_blank")
                             span Ir al sitio
@@ -818,7 +819,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Alistamiento de materiales para la falda básica”.
+                          h4 Alistamiento de materiales para la falda básica
+                          p Adicionalmente, analíce con atención el video “Alistamiento de materiales para la falda básica”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Ded13sVkftw" target="_blank")
                             span Ir al sitio
@@ -868,7 +870,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Trazo de la falda básica”.             
+                          h4 Trazo de la falda básica
+                          p Adicionalmente, analíce con atención el video “Trazo de la falda básica”.             
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BHbdXNmFjnI&t=19s" target="_blank")
                             span Ir al sitio
@@ -890,7 +893,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Patronaje posterior de falda”.             
+                          h4 Patronaje posterior de falda
+                          p Adicionalmente, analíce con atención el video “Patronaje posterior de falda”.             
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dsuuUlFiRFU" target="_blank")
                             span Ir al sitio
@@ -940,7 +944,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “ Patronaje delantero de falda”.
+                          h4 Patronaje delantero de falda
+                          p Adicionalmente, analíce con atención el video “ Patronaje delantero de falda”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ljWlKVgj-Hw" target="_blank")
                             span Ir al sitio
@@ -963,7 +968,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Despiece, costura e industrialización de patrones”.
+                          h4 Despiece, costura e industrialización de patrones
+                          p Adicionalmente, analíce con atención el video “Despiece, costura e industrialización de patrones”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=g03DnF8CVng" target="_blank")
                             span Ir al sitio
@@ -983,7 +989,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Corte de pretina en entretela”.
+                          h4 Corte de pretina en entretela
+                          p Adicionalmente, analíce con atención el video “Corte de pretina en entretela”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Rq3OQSxBFas" target="_blank")
                             span Ir al sitio
@@ -1004,7 +1011,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Corte de corte de la falda básica”.
+                          h4 Corte de corte de la falda básica
+                          p Adicionalmente, analíce con atención el video “Corte de corte de la falda básica”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=w9GGdFRgpzY" target="_blank")
                             span Ir al sitio
@@ -1025,7 +1033,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Piezas cortadas, revisión”.
+                          h4 Piezas cortadas, revisión
+                          p Adicionalmente, analíce con atención el video “Piezas cortadas, revisión”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=haKjHIqWpGU" target="_blank")
                             span Ir al sitio
@@ -1077,7 +1086,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Procesos de preparación en ensamble de falda”. 
+                          h4 Procesos de preparación en ensamble de falda
+                          p Adicionalmente, analíce con atención el video “Procesos de preparación en ensamble de falda”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qYml4Zt6HwQ" target="_blank")
                             span Ir al sitio
@@ -1100,7 +1110,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Ensamble de la falda básica”.
+                          h4 Ensamble de la falda básica
+                          p Adicionalmente, analíce con atención el video “Ensamble de la falda básica”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=N_HOblGA_SU" target="_blank")
                             span Ir al sitio
@@ -1138,7 +1149,8 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p Adicionalmente, observe con atención el video “Proceso de terminación de falda”.
+                          h4 Proceso de terminación de falda
+                          p Adicionalmente, analíce con atención el video “Proceso de terminación de falda”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Q4TtVwonSdQ" target="_blank")
                             span Ir al sitio
@@ -1168,7 +1180,7 @@
           td.text-center #[b Proceso de plantillado fusionado y pre-hormado]
         tr
           td.tab-bold.br-tabble Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón). 
-          td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados y los pasos para el ensamble y el desarrollo pueden variar.
+          td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados y los pasos para el ensamble y el desarrollo pueden variar. 
             .col-lg-7
               a(data-aos="zoom-in").anexo.mt-3.mb-lg-0(href="https://www.youtube.com/watch?v=4pMSfzpnmYg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
                 .anexo__icono
@@ -1196,7 +1208,7 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
-                        p.my-2 Adicionalmente, observe con atención el video “Confección pantalón hombre”.
+                        p.my-2 Adicionalmente, analíce con atención el video “Confección pantalón hombre”.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
                           span Ir al sitio
@@ -1235,9 +1247,9 @@
       .col-sm-12.col-lg-5
         img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/polo.png',alt='tema3')
       .col-sm-12.col-lg-7
-        p.mb-4 Un polo es una prenda de punto para el tronco que tiene la misma forma que una camiseta o playera, pero además tiene cuello, llegando también hasta la cintura y que puede tener manga larga o corta. Típicamente tiene una abertura delantera con dos o tres botones para ajustar el cuello y puede tener un bolsillo e incluso sustituir los botones por una cremallera. Esta fue ideada en el siglo XX para uniformar a los equipos que practicaban deporte.
-        p.mb-4 En el siguiente paso a paso, podrá encontrar una clara orientación para la fabricación de éste tipo de prenda.
-        p.mb-4 ¡Bienvenido!      
+        p.mb-4 Un polo es una prenda tejida destinada a cubrir el torso, similar en forma a una camiseta o playera, pero se distingue por incorporar un cuello. Diseñada para extenderse hasta la cintura, puede presentarse en versiones de manga larga o corta. Característicamente, dispone de una abertura frontal equipada con dos o tres botones para ajustar el cuello, y en ocasiones incluye un bolsillo o sustituye los botones por una cremallera. Su creación en el siglo XX tuvo como propósito uniformar a los equipos deportivos.
+        p.mb-3 A continuación, le ofrecemos una guía paso a paso detallada para la confección de este tipo de prenda.
+        p.mb-4 ¡Le damos la bienvenida al proceso!     
   
 
     .bg99.p-5.mb-5  
@@ -1296,7 +1308,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 1: Alistamiento para la confección de la camiseta tipo polo ”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 1: Alistamiento para la confección de la camiseta tipo polo ”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=wsb9glAu1qk&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=12" target="_blank")
                             span Ir al sitio
@@ -1316,7 +1328,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 2: Prehormar pechera y hacer quiebre en delantero”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 2: Prehormar pechera y hacer quiebre en delantero”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=v_yemOgg9Rw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=11" target="_blank")
                             span Ir al sitio
@@ -1339,7 +1351,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 3: Pegar pechera ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 3: Pegar pechera ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=5B1k2XznFlg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=20" target="_blank")
                             span Ir al sitio
@@ -1359,7 +1371,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 4: Unir por hombros ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 4: Unir por hombros ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=rBrE6bikCRw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=10" target="_blank")
                             span Ir al sitio
@@ -1380,7 +1392,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 5: Pegar puños tejidos a mangas ”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 5: Pegar puños tejidos a mangas ”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WiAEkGtqQG4&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=9" target="_blank")
                             span Ir al sitio
@@ -1400,7 +1412,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 6: Pespuntar puños de mangas ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 6: Pespuntar puños de mangas ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HBleW0yTvAg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=8" target="_blank")
                             span Ir al sitio
@@ -1420,7 +1432,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 7: Pespuntar hombros ”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 7: Pespuntar hombros ”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=SKK9Trf8254&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=7" target="_blank")
                             span Ir al sitio
@@ -1440,7 +1452,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 8: Fijar puntas de cuello”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 8: Fijar puntas de cuello”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Z_XH8YaJIlA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=6" target="_blank")
                             span Ir al sitio
@@ -1460,7 +1472,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 9: Pegar cuello ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 9: Pegar cuello ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NXY9Tb77E3o&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=5" target="_blank")
                             span Ir al sitio
@@ -1480,7 +1492,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 10: Pespuntar cuello ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 10: Pespuntar cuello ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9c0_G42xbeI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=3" target="_blank")
                             span Ir al sitio
@@ -1500,7 +1512,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 11: Pespuntar pechera”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 11: Pespuntar pechera”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Eth7yvWIiEc&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe" target="_blank")
                             span Ir al sitio
@@ -1520,7 +1532,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 12: Pegar mangas ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 12: Pegar mangas ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=K571s6w4_Xg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=19" target="_blank")
                             span Ir al sitio
@@ -1540,7 +1552,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 13: Pespuntar mangas ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 13: Pespuntar mangas ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Dh4-NQONpuY&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=18" target="_blank")
                             span Ir al sitio
@@ -1560,7 +1572,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 14: Unir por costados ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 14: Unir por costados ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=oEu8URPgkVI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=17" target="_blank")
                             span Ir al sitio
@@ -1579,7 +1591,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 15: Filetear pechera ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 15: Filetear pechera ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qpEL-O1k2I0&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=16" target="_blank")
                             span Ir al sitio
@@ -1599,7 +1611,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 16: Dobladillar ruedo ”.  
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 16: Dobladillar ruedo ”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=CBhvm1ICgs8&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=15" target="_blank")
                             span Ir al sitio
@@ -1619,7 +1631,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 17: Marcar ojales y ojalar ”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 17: Marcar ojales y ojalar ”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=e2WGjWOmIzA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=14" target="_blank")
                             span Ir al sitio
@@ -1639,7 +1651,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección camiseta tipo polo. Paso 18: Marcar botones y botonar ”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección camiseta tipo polo. Paso 18: Marcar botones y botonar ”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BYFyy5WU-Uo&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=13" target="_blank")
                             span Ir al sitio
@@ -1669,10 +1681,12 @@
 
     .row.justify-content-center.align-items-center 
       .col-sm-12.col-lg-7.mb-5
-        p.mb-3 Los pantalones deportivos son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
+        p.mb-3 Los 
+          strong.color pantalones deportivos 
+          | son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
         p.mb-3 En Colombia les conoce como
           strong.color “sudadera o pantalón sudadera”
-          |, en Chile buzo, en Ecuador como calentador y en Venezuela como mono.
+          |, en Chile buzo, en Ecuador como #[em calentador] y en Venezuela como mono.
         p.mb-3 Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
         p ¡Bienvenido!
       .col-sm-12.col-lg-5.mb-5
@@ -1738,7 +1752,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 1: Alistamiento para la confección de pantalón sudadera”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 1: Alistamiento para la confección de pantalón sudadera”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=G-cwBVckDq4&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=13" target="_blank")
                             span Ir al sitio
@@ -1760,7 +1774,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 2: Medir, cortar, coser elástico y marcación”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 2: Medir, cortar, coser elástico y marcación”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=uuWDflzDFGA&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=12" target="_blank")
                             span Ir al sitio
@@ -1781,7 +1795,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 3: Coser bolsillos laterales”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 3: Coser bolsillos laterales”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Zwfp0oWJftk&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=11" target="_blank")
                             span Ir al sitio
@@ -1801,7 +1815,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 4: Filetear bolsillos”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 4: Filetear bolsillos”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Mie5EoCZVMw&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=10" target="_blank")
                             span Ir al sitio
@@ -1821,7 +1835,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 5: Unir costados incluyendo sesgo”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 5: Unir costados incluyendo sesgo”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9A3TteZcgno&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=9" target="_blank")
                             span Ir al sitio
@@ -1841,7 +1855,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 6: Filetear costado”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 6: Filetear costado”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9ph3Sel-9Bs&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=8Unir por entrepierna" target="_blank")
                             span Ir al sitio
@@ -1861,7 +1875,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 7: Unir por entrepierna”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 7: Unir por entrepierna”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=79XxGyuhmQg&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=7" target="_blank")
                             span Ir al sitio
@@ -1881,7 +1895,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 8: Unir tiros”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 8: Unir tiros”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MriPZnacsDI&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=6Fijar elástico" target="_blank")
                             span Ir al sitio
@@ -1901,7 +1915,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 9: Fijar elástico”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 9: Fijar elástico”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Eg9HQYZVyKA&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=5" target="_blank")
                             span Ir al sitio
@@ -1921,7 +1935,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 10: Dobladillar botas”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 10: Dobladillar botas”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=0qf5jZGpnZo&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=4" target="_blank")
                             span Ir al sitio
@@ -1940,7 +1954,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 11: Sentar elástico”.
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 11: Sentar elástico”.
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=qVoGjoahb7g&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=3" target="_blank")
                             span Ir al sitio
@@ -1961,7 +1975,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, observe con atención el video “Confección pantalón de sudadera. Paso 12: Limpiar y revisar prenda”. 
+                          p.my-1 Adicionalmente, analíce con atención el video “Confección pantalón de sudadera. Paso 12: Limpiar y revisar prenda”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=_ubzS_tkjNE&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=2" target="_blank")
                             span Ir al sitio

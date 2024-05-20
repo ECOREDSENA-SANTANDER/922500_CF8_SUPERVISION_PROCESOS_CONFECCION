@@ -13,18 +13,18 @@
     
           .row.justify-content-center.align-items-center
             .col-sm-12.col-lg-7
-              p Los oficios de la confección de prendas implican varios procesos, desde la manipulación del textil cortado hasta la ejecución a través de maquinaria de acuerdo con cada proceso en particular.   Dichos procesos requieren, por ejemplo, de la manipulación de sujetadores y de arranques en los que el operario, es su principal actor para el funcionamiento de cada una de estas partes.  Al tener presente que es la persona quien está implícita dentro de cada uno de estos procesos es importante identificar las normas de seguridad que permitan considerar el concepto de ergonomía dentro de la labor para que no tenga afectaciones de ningún tipo.   
+              p Los oficios de la confección de prendas implican varios procesos, desde la manipulación del textil cortado hasta la ejecución a través de maquinaria de acuerdo con cada proceso en particular.   Dichos procesos requieren, por ejemplo, de la manipulación de sujetadores y de arranques en los que el operario, es su principal actor para el funcionamiento de cada una de estas partes.  Al tener presente que es la persona quien está implícita dentro de cada uno de estos procesos es importante identificar las normas de seguridad que permitan considerar el concepto de ergonomía dentro de la labor para que no tenga afectaciones de ningún tipo.
             .col-sm-12.col-lg-5
               img.img-t.img-a.mt-5.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
   
-    p.mt-5(data-aos="fade-left") La ergonomía comprende ramas como la industrial y la biomecánica, más encaminada hacia lo ocupacional, dado que se centra en aspectos físicos relacionados con el trabajo, capacidades de fuerza y postura y, a su vez, cómo son ejecutadas a través de tareas repetitivas por periodos de tiempo. Por lo anterior se hace necesario tenerlas presentes durante la ejecución de cada labor y uno de los objetivos que debe perseguir el supervisor en procesos de confección en cuanto a su personal a cargo, es que cuente con espacios y herramientas de trabajo que ante todo preserven su bienestar durante la labor, por ello en los siguientes apartados se entregarán lineamientos que darán soporte a la supervisión.   
+    p.mt-5(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
     
     Separador
     #t_2_1.titulo-segundo
       .h2 2.1  Normas generales de seguridad para la labor en la confección de prendas  
 
 
-    p.mt-5(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias que por lo general pueden ser las que se visualizan a continuación en la figura 1:  
+    p.mt-5(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias como las que puede explorar en el Figura 1.
     
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-sm-12.col-lg-12
@@ -38,7 +38,7 @@
                 .bg34   
                   .row.justify-content-center.align-items-center.mt-4
                     .col-lg-6 
-                      img.img-t.img-a.my-2.d-none.d-lg-block(src='@/assets/ilustraciones/img4.svg', alt='tema2')                  
+                      img.img-t.img-a.my-2.d-none.d-lg-block(src='@/assets/ilustraciones/img4.svg', alt='Una persona sentada ligeramente inclinada hacia adelante, en donde se señalan con flechas las posibles dolencias o molestias que puede causar mucho tiempo en esa posición, la cual simula el trabajo como operario de maquina.')                  
                     .col-lg-6.p-3.my-1 
                       p.mb-0 14%: dolor de cabeza.
                       p.mb-0 24%: dolor en cuerpo y hombros.
@@ -62,41 +62,32 @@
               
 
           .tarjeta.color-acento-botonesr.p-3(x="19%" y="26%" numero="")
-            .h5.mb-2 Comodidad:
-            p en el desplazamiento de los puntos dentro del espacio de trabajo.
+            p.mb-2 #[b Comodidad:] en el desplazamiento de los puntos dentro del espacio de trabajo.
 
           .tarjeta.color-acento-botonesr.p-3(x="11%" y="55%" numero="")
-            .h5.mb-2 Dotación:
-            p para el operario; bata, lentes de protección, preferiblemente no usar accesorios que impliquen el contacto con materiales, herramientas o maquinarias; usar zapato cerrado para evitar accidentes por la caída de elementos cortopunzantes.
+            p.mb-2 #[b Dotación:] dotación para el operario; bata, lentes de protección, preferiblemente no usar accesorios que impliquen el contacto con los materiales, herramientas o maquinarias, usar zapato cerrado para evitar accidentes por la caída de elementos cortopunzantes.
           
           .tarjeta.color-acento-botonesr.p-3(x="25.5%" y="80%" numero="")
-            .col-lg-12
-              .h5.mb-2 Protección: 
-              p tener presente que es preferible que dentro del espacio de trabajo no haya bebidas o comida. Se debe tener cuidado con los puntos eléctricos.
+            p.mb-2 #[b Protección:] protección de puntos eléctricos, tener presente que es preferible que dentro del espacio de trabajo no tener bebidas o comida.
           
           .tarjeta.color-acento-botonesr.p-3(x="55%" y="89%" numero="")
-            .h5.mb-2 Orden: 
-            p es importante tener orden, limpieza y cuidado de los elementos.
+            p.mb-2 #[b Orden:] orden, limpieza y cuidado de los elementos.
 
           .tarjeta.color-acento-botonesr.p-3(x="81%" y="73%" numero="")
-            .h5.mb-2 Ruido:
-            p control del ruido generado por la maquinaria para evitar problemas auditivos.
+            p.mb-2 #[b Ruido:] control del ruido generado por la maquinaria.
 
           .tarjeta.color-acento-botonesr.p-3(x="89%" y="45%" numero="")
-            .h5.mb-2 Ventilación:
-            p debe ser adecuada para garantizar la salud y bienestar de los trabajadores.
+            p.mb-2 #[b Ventilación:] ventilación adecuada.
 
           .tarjeta.color-acento-botonesr.p-3(x="73%" y="18%" numero="")
-            .h5.mb-2 Temperatura:
-            p los factores relacionados a la temperatura, aireación del lugar o control de la temperatura del sitio son necesarios.
+            p.mb-2 #[b Temperatura:] factores relacionados a la temperatura, aireación del lugar o control de la temperatura del sitio.	
 
           .tarjeta.color-acento-botonesr.p-3(x="45%" y="11%" numero="")
-            .h5.mb-2 Luz:
-            p la luz e iluminación del espacio de trabajo deben ser óptimas.
+            p.mb-2 #[b Luz:] la luz e iluminación del espacio de trabajo.	
     
     p.mt-5.mb-4 Por lo anterior, se sugieren las siguientes condiciones iniciales como en la figura 2 para evitar molestias durante la práctica:      
 
-    .bg1
+    .bg1.mb-5
       SlyderA
         .row.justify-content-center.align-items-top.p-5
           .col-lg-3.col-md-10.col-10.mb-4
@@ -104,7 +95,7 @@
               h5 Figura 2
               | Postura ideal
             .cajablanca.p-2
-              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="tema2")
+              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen presenta la silueta de una persona sentada en una silla, con la espalda recta, los pies completamente apoyados en el suelo y la mirada al frente. ")
             figcaption.segundo Nota. Singer (2014)
           .col-lg-5.col-md-12.col-12.mb-4 
             ul.lista-ul--color
@@ -133,7 +124,7 @@
                   h5 Figura 3
                   | Postura en máquina
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="tema2")
+                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen presenta la silueta de una persona sentada en una silla, con los brazos sobre en una mesa accionando una máquina de coser, y con los pies apoyados en un reposapiés. ")
                 figcaption.segundo Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
@@ -162,7 +153,7 @@
                   h5.per Figura 4
                   | Postura de pie
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="tema2")
+                  img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="La imagen presenta la silueta de una persona de pie, apoyando los brazos sobre una mesa y uno de los pies descansando sobre un escalón bajo la mesa. ")
                 figcaption.segundo Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12  
                 ul.lista-ul--color
@@ -186,7 +177,7 @@
                   h5.per Figura 5
                   | Carga de elementos
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="tema2")
+                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen presenta la manera correcta para ponerse de pie levantando una carga desde el piso: espalda recta, rodillas flexionadas, cuello erguido y brazos extendidos. Carga siempre cerca al cuerpo. ")
                 figcaption.segundo Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12
                 ul.lista-ul--color
@@ -204,7 +195,7 @@
     #t_2_2.titulo-segundo
       .h2(data-aos="fade-right") 2.2 Condiciones y espacios en el trabajo  
 
-    p.mt-5 Las condiciones bajo las cuales un trabajador desempeña su labor deben tener el objetivo de generar un buen espacio para quien desempeña una labor en la que su integridad física y psicológica esté primero, dado que cuando estas condiciones de trabajo no son las adecuadas o no cuenta con los elementos de protección puede acarrear algunas consecuencias como:
+    p.mt-5 El entorno laboral debe diseñarse prioritariamente para salvaguardar la integridad física y psicológica de los trabajadores, creando condiciones óptimas que promuevan su bienestar. La falta de un ambiente de trabajo adecuado o la ausencia de elementos de protección adecuados puede tener consecuencias negativas, destacando la importancia de priorizar la seguridad y la salud en el trabajo.  Evitando así lo siguiente:
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-7.mb-5
         .row.justify-content-center.align-items-center
@@ -259,12 +250,12 @@
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-12.my-3
             p Influye directamente en el bienestar del trabajador, en su rendimiento y seguridad de los operarios, una excesiva temperatura ya sea de frío o calor puede producir fatiga, requiriendo tiempos extendidos de recuperación o descanso, en este caso se vigila la humedad del ambiente.
-            p En ambientes de talleres en los que la maquinaria que por lo general suele ser industrial con motores industriales que generan calor, y al estar en funcionamientos varios a la vez, se puede afectar el ambiente general del espacio de trabajo. La condición de temperatura recomendada es de 18°C para que sea confortable.
+            p En espacios con maquinaria industrial, que generan calor durante su operación simultánea, el ambiente de trabajo puede verse afectado. Para mantener un entorno confortable, se recomienda una temperatura de 18°C. 
       
       .py-3.py-md-4.bg26.px-3(titulo="Ruido")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-12.my-3
-            p Las operaciones mecanizadas, el ruido de las máquinas, y el espacio general en el lugar o puesto de trabajo, también puede llegar a generar molestias dado que puede haber sonidos de media vibración constante, y ya que en muchas fábricas se suele tener gran número de máquinas, se sugiere usar protectores auditivos como audífonos especiales si el lugar de trabajo excede el número de decibeles mínimo (50 – 80).  Algunas de las molestias presentadas son: efectos patológicos, fatiga, confusión, pérdida de audición.
+            p Las operaciones mecanizadas y el ruido de las máquinas pueden causar incomodidades debido a sonidos de vibración constante. En fábricas con numerosas máquinas, superando los niveles de decibeles recomendados (50 – 80), se aconseja el uso de protectores auditivos especializados, pues las consecuencias de no atender estas condiciones pueden incluir efectos patológicos, fatiga, confusión y pérdida de audición.
 
       
       .py-3.py-md-4.bg26.px-3(titulo="Iluminacion")
@@ -299,7 +290,7 @@
       .py-3.py-md-4.bg26.px-3(titulo="Ventilación")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-12.my-3
-            p Se debe comprender que la ventilación debe ser proporcional al espacio de trabajo, y se debe evitar confundir ventilación con circulación de aire, dado que la ventilación sustituye el aire vaciado por aire fresco y la circulación de aire mueve el aire, pero sin renovarlo.  Por ello es importante que los espacios no sean completamente cerrados dado que se necesita renovar el aire, para evitar así posibles enfermedades que afectan en cadena a los trabajadores de un taller (Huamán, 2003). Algunos de los aspectos a cuidar de este factor son: 
+            p Se debe comprender que la ventilación debe ser proporcional al espacio de trabajo, y se debe evitar confundir ventilación con circulación de aire, dado que la ventilación sustituye el aire vaciado por aire fresco y la circulación de aire mueve el aire, pero sin renovarlo. Por ello es importante que los espacios no sean completamente cerrados dado que se necesita renovar el aire, para evitar así posibles enfermedades que afectan en cadena a los trabajadores de un taller (Huamán, 2003). Algunos de los aspectos a cuidar de este factor son:
             .row.justify-content-center.align-items-center
               .col-lg-11            
                 ul.lista-ul--color
@@ -325,20 +316,20 @@
                         .list__item__number
                             span 1.
                     .list__txt 
-                        span El trabajador: la persona que desarrolla la actividad debe considerar su estatura, peso, fuerza, rangos de movimiento y características físicas generales, de esta forma establecer su espacio en cuanto a mesas, sillas etc.              
+                        span #[b El trabajador:] la persona que desarrolla la actividad debe considerar su estatura, peso, fuerza, rangos de movimiento y características físicas generales, de esta forma establecer su espacio en cuanto a mesas, sillas etc.              
 
                 .list.mt-2
                     .list__item
                         .list__item__number
                             span 2.
                     .list__txt 
-                        span El puesto de trabajo: comprende la maquinaria, herramientas, mobiliario, controladores, puntos de luz, ambientación y objetos de trabajo.
+                        span #[b El puesto de trabajo:] comprende la maquinaria, herramientas, mobiliario, controladores, puntos de luz, ambientación y objetos de trabajo.
                 .list.mt-2
                     .list__item
                         .list__item__number
                             span 3.
                     .list__txt 
-                        span Ambiente de trabajo: temperatura, iluminación, ruido, vibraciones y demás características implícitas en el bienestar del trabajador.
+                        span #[b Ambiente de trabajo:] temperatura, iluminación, ruido, vibraciones y demás características implícitas en el bienestar del trabajador.
               p.mt-3 Así mismo se debe tener en cuenta para prevenir lesiones:
 
             .row.justify-content-center.align-items-center

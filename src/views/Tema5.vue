@@ -7,7 +7,7 @@
         span 5
       h1(data-aos="zoom-in-right") Control de calidad
     
-    .row.fondo-hu.align-items-center.py-4.py-md-3
+    .row.fondo-hu.align-items-center.py-md-3
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -61,7 +61,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6.mb-5     
             .BorTit #[b Figura 15] Proceso de calidad 
-            img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='tema5')                        
+            img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='La figura presenta un diagrama que enuncia las características del proceso de calidad: integración total del proceso, satisfacción del cliente, mejora continua, equipo comprometido con la calidad, excelencia en la gestión.')                        
             figcaption.mt-3.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
     
     
@@ -118,7 +118,7 @@
                   p.my-4.texto-normal #[b Valls (2007)], resalta que la calidad es cumplir los requisitos del cliente para obtener el desarrollo de la empresa. 
       
 
-    p.mt-5 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.    
+    p.mt-5 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.
 
     Separador
     .row.fondo-huo.align-items-center.py-4.mb-5
@@ -207,31 +207,33 @@
       .col-lg-5
         .cajon.color-acento-contenido.p-2
           .row.justify-content-center.align-items-center.p-2.mb-3      
-            .col-lg-11
+            .col-lg-12
               img.img-t.img-a(src='@/assets/ilustraciones/img76.svg',alt='tema5')            
-              p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
-              ul.lista-ul--color.et
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Reducir costos.
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Reducir defectos.
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Obtener productos estandarizados.
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Disminución de desperdicios.
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Mejoras en los procesos.
-                li.d-flex
-                  i.fas.fa-car-side.mb-0
-                  | Aumento de la productividad.
+              .row.justify-content-center  
+                .col-lg-9
+                  p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
+                  ul.lista-ul--color.et
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Reducir costos.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Reducir defectos.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Obtener productos estandarizados.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Disminución de desperdicios.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Mejoras en los procesos.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Aumento de la productividad.
       .col-lg-5.mb-5
         .BorTit.mt-5 #[b Figura 16] Beneficios del control de calidad
-        img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img75.svg',alt='tema5') 
+        img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img75.svg',alt='La figura presenta un diagrama donde se enuncian los beneficios del control de calidad: costos, precios, cliente, trazabilidad, productividad. ') 
         figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
     p.mt-5 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
@@ -239,7 +241,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-12
         .BorTit.mb-4 #[b Figura 17] Procesos para producir una prenda
-        img.img-t.img-a(src='@/assets/ilustraciones/img38.jpg',alt='tema5')                        
+        img.img-t.img-a(src='@/assets/ilustraciones/img38.jpg',alt='la figura presenta una diagrama de flujo con los procesos para la producción de una prenda de vestir: proceso de diseño(características físicas del producto, patronaje,materia prima), proceso de extendido, tizado y corte, proceso de confección, proceso de intervención(estampados, bordados, lavadora) y proceso de terminación(limpieza, planchado y empaque.')                        
         figcaption Nota: SENA (2021)
 
         
@@ -296,12 +298,12 @@
             img(src='@/assets/ilustraciones/ellaa.png',alt='tema5') 
           .col-sm-12.col-lg-8.mb-4
             p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de big data, inteligencia artificial, machine learning, deep learning, internet de las cosas.
-            p.mb-4 La automatización de los procesos proporciona agilidad, más seguridad en los datos porque disminuye la presentación de datos incorrectos y más conocimiento sobre cada área de la empresa.
-            .cajonyy.p-4 
-              p.mb-2 La implementación básica se refiere con la utilización de software especializadas en las herramientas de calidad como por ejemplo programas de SPSS, STATGRAPHICS CENTURION, SAS, las relacionadas con el internet de las cosas como la geolocalización con aplicaciones como los códigos QR, y las relacionadas con las herramientas de lean manufacturing.
+            p.mb-5 La automatización de procesos mejora la agilidad y aumenta la seguridad de los datos al reducir la incidencia de errores. Además, proporciona un mayor conocimiento sobre cada área de la empresa. 
+            .cajonyy.p-4.mb-4 
+              p.mb-2 La implementación inicial implica el uso de #[em software] especializado en herramientas de calidad, tales como #[em SPSS, STATGRAPHICS CENTURION y SAS,] así como tecnologías relacionadas con el Internet de las Cosas, como la geolocalización mediante aplicaciones de códigos #[em QR,] y herramientas de #[em lean manufacturing.]
         
         
-        p.mt-5 Con la integración de datos y su tratamiento avanzado se puede simular los procesos para mejorar la gestión de calidad virtual. Además, las personas encargadas directamente con la calidad pueden desarrollar actividades de manera remota sin necesidad de su presencia in situ de la empresa. También puede apoyar en la planificación de auditorías en el mejoramiento de implementación de las 5’s.   
+        p.mb-5 La integración y el tratamiento avanzado de datos permiten simular procesos para optimizar la gestión de calidad virtual; este enfoque habilita a los responsables de calidad para realizar sus tareas de manera remota, eliminando la necesidad de estar físicamente presentes en la empresa. Además, esta estrategia facilita la planificación y ejecución de auditorías, contribuyendo significativamente a la mejora en la implementación de las 5’s. 
         
         
         .row.justify-content-center.align-items-center
@@ -313,7 +315,7 @@
               .col-8
                 figure
                   img.mb-5(src='@/assets/ilustraciones/img39.svg',alt='tema5')
-            img.img-t.my-2.mx-5.mb-4(src='@/assets/ilustraciones/img43_1.svg',alt='tema5')               
+            img.img-t.my-2.mx-5.mb-4(src='@/assets/ilustraciones/img43_1.svg',alt='La figura enuncia las etapas de la industria: primera revolución industrial, segunda revolución industrial, tercera revolución industrial, industria 4.0. ')               
             .col-lg-2
               h3.mb-5.mx-5 Primera Revolución Industrial
 
@@ -414,10 +416,10 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
-                      p.my-2.mx-4 #[b Tener en cuenta:] la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad.
+                      p.my-2.mx-0 #[b Tener en cuenta:] la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad.
 
 
-        p.mt-5(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo Deming de la calidad que se puede observar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
+        p.mt-5(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[em Deming] de la calidad que se puede observar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
     
         .row.justify-content-center.align-items-center.mt-5.mb-5       
           .col-lg-8
@@ -430,7 +432,7 @@
 
                       template(v-slot:imagen)
                         figure
-                        img.img-a.img-t.mb-5(src='@/assets/ilustraciones/img45.svg',alt='tema5')
+                        img.img-a.img-t.mb-5(src='@/assets/ilustraciones/img45.svg',alt='La figura presenta un diagrama circular: planear, hacer, verificar y actuar. ')
 
                       .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
                         p.mb-2 #[b Planificar] (Plan):
@@ -473,7 +475,7 @@
     
                       template(v-slot:imagen)
                         figure
-                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='tema5')
+                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='La figura enuncia en un diagrama circular, los componentes de los círculos de calidad: Planificar: determinar metas y objetivos, hacer: estimular entrenamiento y educación, verificar: verificar los efectos de la implementación, actuar: tomar acciones apropiadas. ')
 
                       .tarjeta.color-acento-botoones.p-3(x="22%" y="15%")
                         p Tomar acciones apropiadas. 
@@ -659,7 +661,7 @@
                 img(src='@/assets/ilustraciones/six.svg',alt='tema5')               
     
     
-    p.mt-5.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6. Six sigma sigue un modelo llamado ciclo DMAIC (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es verificable en la figura 21.
+    p.mt-5.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es verificable en la figura 21.
 
     
     .row.justify-content-center.align-items-center
@@ -670,7 +672,7 @@
         .cajaaa
           .row.justify-content-center.align-items-center 
             .col-lg-8
-              img.mt-5.mb-5(src='@/assets/ilustraciones/o38.svg',alt='tema5')
+              img.mt-5.mb-5(src='@/assets/ilustraciones/o38.svg',alt='El diagrama de flujo presenta las siguientes acciones: Inicio, realizar Project charter, hacer mapeo del proceso, definir variables y métricas del proceso, analizar datos, definir plan de recolección, validar sistema de medición, identificar causas potenciales, validar causas, priorizar y seleccionar causas, definir acciones de mejora, implementar acciones de mejora, validar resultados, si no se cumplió el objetivo volver a definir acciones de mejor; si se cumplió el objetivo estandarizar e integrar las mejoras, definir mecanismos de control, cierre de proyectos y fin del proceso. ')
         figcaption.text-black Nota. Velásquez, L (2021)
     
 
@@ -686,7 +688,7 @@
     .row.justify-content-center.align-items-center       
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          p.mx-4 #[b Puntos de control en confección de lote piloto:]
+          p.mx-4 #[b Puntos de control en confección de lote piloto]
           p.mx-4 El lote piloto son las unidades que se confeccionan con el fin de simular la producción de cierta referencia nueva. Es necesario una vez se desarrolla el producto nuevo, realizar simulaciones para prever fallas en la producción, la información proporcionada una vez se realice el lote piloto brinda confianza y señala las estrategias a efectuar en el momento de la producción de la prenda.  
     
     
@@ -719,7 +721,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-7
             p.mb-4(data-aos="fade-right") La comunicación con la cadena de abastecimiento es muy importante para solucionar de manera eficiente los problemas derivados que puedan ocurrir en la producción de las prendas. Los espacios disponibles para recibir los diferentes elementos deben cumplir con condiciones óptimas de ventilación, iluminación, seguridad, aseo y organización, que afectan los requerimientos de calidad en la cadena productiva. El control de inventarios está relacionado directamente con el control de calidad, para generar las mejoras de toda la gestión de la empresa.
-            p.mb-4(data-aos="fade-left") En las entradas del proceso de producción uno de los recursos es el de los insumos y materias primas, las revisiones de calidad responden a uno de los principios de calidad que es hacer las cosas bien desde el principio, dando la relevancia para asegurar el flujo de los procesos, así mismo al finalizar el proceso de producción se requieren materiales para la entrega del producto al cliente, los cuales de igual manera se deben validar.  
+            p.mb-4(data-aos="fade-left") En las entradas del proceso de producción uno de los recursos es el de los insumos y materias primas, las revisiones de calidad responden a uno de los principios de calidad que es hacer las cosas bien desde el principio, dando la relevancia para asegurar el flujo de los procesos, así mismo al finalizar el proceso de producción se requieren materiales para la entrega del producto al cliente, los cuales de igual manera se deben validar.
           .col-sm-12.col-lg-5
             img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img48.png',alt='tema5') 
 
@@ -738,38 +740,30 @@
                         span Descargar
                         i.fas.fa-file-download
 
-        .row.justify-content-center.align-items-center.mb-2
-          .col-lg-8
-            .row.justify-content-center.align-items-center
-              .col-lg-6(data-aos="fade-right")
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=2IjwoiNJCDw&t=104s" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Inspección textiles
-                
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-12
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2IjwoiNJCDw?si=h0A2jhqLAohT55vq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+        figcaption.mb-5 Video. Description
+
     .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-6
-        img.img-t.img-a(src="@/assets/ilustraciones/gtr.png",alt='tema5')
+        img.img-t.img-a.mb-5(src="@/assets/ilustraciones/gtr.png",alt='tema5')
       .col-sm-12.col-lg-6       
-        p.mx-5.mt-4 Los requisitos necesarios para cumplir con las solicitudes de insumos son:
-          ul.lista-ul--color.mx-5.my-1
-            li.d-flex
-              i.fas.fa-car-side.mb-0
-              |
-              p  
-                strong.color Disponibilidad   
-                | Tiempo de obtenerlos para usar.
-            li.d-flex
-              i.fas.fa-car-side.mb-0
-              |
-              p
-                strong.color Características propias  
-                | Funcionalidad, composición, tamaño, peso, color, uniformidad en sus características.
-
-    p.mt-5.mb-5(data-aos="fade-right") En los casos de hilos se analizan propiedades como elasticidad, flexibilidad, durabilidad, resistencia a rotura, tenacidad, solidez al color, uniformidad de tono y grosor. 
+        p.mb-5 Los requisitos necesarios para cumplir con las solicitudes de insumos son:
+        ul.lista-ul--color
+          li.d-flex
+            i.fas.fa-car-side.mb-0
+            h5.color Disponibilidad  
+              p.mb-3 Tiempo de obtenerlos para usar.
+          li.d-flex
+            i.fas.fa-car-side.mb-0
+            h5.color Características propias  
+              p.mb-3 Funcionalidad, composición, tamaño, peso, color, uniformidad en sus características.
+      
+    p.mb-5(data-aos="fade-right") En los casos de hilos se analizan propiedades como elasticidad, flexibilidad, durabilidad, resistencia a rotura, tenacidad, solidez al color, uniformidad de tono y grosor. 
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-6
         .fondo21.p-3
           .row.justify-content-around.align-items-center
@@ -784,15 +778,11 @@
                     span Descargar
                     i.fas.fa-file-download
     
-    .row.justify-content-center.align-items-center.mt-5.mb-5
-      .col-lg-8
-        .row.justify-content-center.align-items-center
-          .col-lg-6(data-aos="fade-right")
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=HoLZv-WxqyU&t=61s" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p #[b Enlace web]. Inspección insumos
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-12
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/HoLZv-WxqyU?si=LmGdbMLd3Cb9GSzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+        figcaption.mb-5 Video. Description
                 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -824,7 +814,7 @@
     .row.justify-content-center.align-items-center.mt-3.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center.mt-3
-          .col-sm-12.col-lg-6
+          .col-md-12.col-lg-6.col-12
             .cajoenee.p-4.mb-4 
               p.mb-4 #[b Los materiales] que apoyan la producción como es el caso en mayor medida de la papelería, sus especificaciones técnicas deben corresponder a su aplicación en el proceso productivo. Para validar el uso de los materiales en las diferentes áreas se inspeccionan los siguientes requisitos:
             .cajaaaa.p-4.my-3 
@@ -842,8 +832,6 @@
 
 
     p.mt-3 En el caso de los textiles, teniendo en cuenta las propiedades asociadas a su composición se realizan las inspecciones en las que pueden ser observables con detenimiento, pero es necesario realizar pruebas de laboratorio que garanticen la calidad para su utilización.                                   
-      
-      
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -893,9 +881,9 @@
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-6.mb-4
-            .cahii.p-4.mb-4
-              p.mx-2 La tela es la materia prima que más consume la prenda, es por ello la importancia de revisar de una forma minuciosa:
-                ul.lista-ul--color.eto.my-4
+            .cahii.p-4
+              p.mx-2.mb-4 La tela es la materia prima que más consume la prenda, es por ello la importancia de revisar de una forma minuciosa:
+                ul.lista-ul--color.eto.mb-4.mt-4
                   li.d-flex
                     i.fas.fa-car-side
                     | Uniformidad del color.
@@ -923,13 +911,13 @@
                   li.d-flex
                     i.fas.fa-car-side
                     | Orillo de tela.
-          .col-sm-8.col-lg-6.mb-4
-            img.img-t.img-a(src="@/assets/ilustraciones/rute.svg",alt='tema5')
+          .col-sm-8.col-lg-6
+            img.img-t.img-a.mb-4(src="@/assets/ilustraciones/rute.svg",alt='tema5')
         
         
-    p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.                                       
+    p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-6
         .fondo21.p-3
           .row.justify-content-around.align-items-center
@@ -943,52 +931,47 @@
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-    
-    
-    .row.pon.align-items-center.py-4.py-md-3.mb-5
-      .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
 
-        .mb-4.d-flex.mb-5.mt-5
-          .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en insumos, materiales y textiles
-            img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
+    .mb-4.d-flex.mb-5
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en insumos, materiales y textiles
+        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
-        .row.justify-content-center.align-items-center.mb-5
-          .col-sm-12.col-lg-7
-            .cajppp.p-4.mb-5 
-              p.mb-2.mx-4.my-3 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.
-            p.mb-5 En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
-            p.mb-4 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
-          .col-sm-8.col-lg-5
-            img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png",alt='tema5')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-7
+        .cajppp.p-4.mb-5 
+          p.mb-2.mx-4.my-3 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.
+        p.mb-5 En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
+        p.mb-4 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
+      .col-sm-8.col-lg-5
+        img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png",alt='tema5')
             
 
-        .row.justify-content-center.mb-5
-          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
-            .tarjeta-avatar
-              img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg',alt='tema5')
-              div.bg15.p-4.pt-5.h-100.shadow
-                p.mt-5.color #[b Explícitos] 
-                p.mb-4  Declarados por el cliente, según expectativas del cliente.
-          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
-            .tarjeta-avatar
-              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/imp.svg',alt='tema5')
-              div.bg15.p-4.pt-5.h-100.shadow
-                p.mt-5.color #[b Implícitos] 
-                p.mb-0 Necesarios para que cumplan función.
-          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
-            .tarjeta-avatar
-              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/leg.svg',alt='tema5')
-              div.bg15.p-4.pt-5.h-100.shadow
-                p.mt-5.color #[b Legales o reglamentarios] 
-                p.mb-0 De acuerdo con cumplir leyes.
-          .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
-            .tarjeta-avatar
-              img.img-a.img-t.img-w22(src='@/assets/ilustraciones/rel.svg' ,alt='tema5')
-              div.bg15.p-4.pt-5.h-100.shadow
-                p.mt-5.color #[b Relacionados con la empresa] 
-                p.mb-0 Según las políticas de la empresa.
+    .row.justify-content-center.mb-5
+      .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+        .tarjeta-avatar
+          img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg',alt='tema5')
+          div.bg15.p-4.pt-5.h-100.shadow
+            p.mt-5.color #[b Explícitos] 
+            p.mb-4  Declarados por el cliente, según expectativas del cliente.
+      .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-right")
+        .tarjeta-avatar
+          img.img-a.img-t.img-w22(src='@/assets/ilustraciones/imp.svg',alt='tema5')
+          div.bg15.p-4.pt-5.h-100.shadow
+            p.mt-5.color #[b Implícitos] 
+            p.mb-0 Necesarios para que cumplan función.
+      .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+        .tarjeta-avatar
+          img.img-a.img-t.img-w22(src='@/assets/ilustraciones/leg.svg',alt='tema5')
+          div.bg15.p-4.pt-5.h-100.shadow
+            p.mt-5.color #[b Legales o reglamentarios] 
+            p.mb-0 De acuerdo con cumplir leyes.
+      .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
+        .tarjeta-avatar
+          img.img-a.img-t.img-w22(src='@/assets/ilustraciones/rel.svg' ,alt='tema5')
+          div.bg15.p-4.pt-5.h-100.shadow
+            p.mt-5.color #[b Relacionados con la empresa] 
+            p.mb-0 Según las políticas de la empresa.
               
     
     .row.medidas.align-items-center.py-4.py-md-3.mb-5
@@ -1008,13 +991,13 @@
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-10
             h4(data-aos="fade-right") Cantidad de piezas 
-            p(data-aos="fade-left") Correspondencia de piezas respecto al diseño y al dibujo plano del patrón.  
+            p(data-aos="fade-left") Correspondencia de piezas respecto al diseño y al dibujo plano del patrón. 
             .hr  
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-10
             h4(data-aos="fade-right") Señalización de pieza 
-            p(data-aos="fade-left") Debe contener identificación de la prenda, no se debe prestar a dualidades de información, además de contener la cantidad a cortar en cada pieza. 
+            p(data-aos="fade-left") Debe contener identificación de la prenda, no se debe prestar a dualidades de información, además de contener la cantidad a cortar en cada pieza.
             .hr  
 
         .row.justify-content-center.align-items-center.mt-5
@@ -1032,7 +1015,7 @@
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-10
             h4(data-aos="fade-right") Piquetes y puntos
-            p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas en correspondencia con los marcados en el patronaje o molde de una pieza. 
+            p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas y correspondo la unión de puntos y piquetes. 
 
             .hr  
 
@@ -1056,17 +1039,14 @@
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/EUH9LPWhh3k?si=m4BDS6iaPTLpWaMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+        figcaption.mb-5 Video. Description
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-sm-12.col-lg-6    
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=EUH9LPWhh3k" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p #[b Enlace web]. Inspección producto en proceso área de patronaje y corte.
-                
     
-    .mb-4.d-flex.mb-5.mt-5
+    .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en trazo y corte 
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
@@ -1189,57 +1169,57 @@
                 .col-lg-12
                   h4 Identificación 
                   p Rotulado de cada paquete con tarjetas que indique la información necesaria como talla, número de lote, cantidad, entre otras que precisen el contenido del paquete.
-
     
-    .mb-4.d-flex.mb-5.mt-5
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en confección
-        img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
+    .row.bg123.align-items-center.py-4.py-md-3.mb-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.mb-4(data-aos="fade-down")
+    
+        .mb-4.d-flex.mb-5.mt-5
+          .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en confección
+            img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
   
-    .row.justify-content-center.align-items-center.mt-5.mb-5
+        .row.justify-content-center.align-items-center.mt-5.mb-5
+          .col-sm-12.col-lg-10
+            .row.justify-content-center.align-items-center
+              .col-sm-12.col-lg-6
+                .cerrte.p-4.mb-5
+                  p.my-4.mx-4 Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
+                  p.mb-2.mx-4 #[b 1.] La preparación
+                  p.mb-2.mx-4 #[B 2.] El ensamble            
+                  p.mb-4.mx-4 #[b 3.] La terminación           
+                  p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
+              .col-sm-8.col-lg-6.mb-5
+                img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
+
+    
+        .row.justify-content-center.align-items-center.mb-4
+          .col-sm-12.col-lg-6
+            .fondo21.p-3
+              .row.justify-content-around.align-items-center
+                .col-3.col-sm-2.col-lg-2
+                  img.img-t.img-a(src="@/assets/ilustraciones/pef.svg",alt='tema5')
+                .col
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0          
+                      p.my-2 Anexo. Hoja de inspección producto en proceso.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf')" target="_blank")
+                        span Descargar
+                        i.fas.fa-file-download
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/xlPFRjssa2Q?si=WPphbdbNB3qcKa1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+        figcaption Video. Description
+
+    p.mb-5 En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:
+    
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-6
-            .cerrte.p-4.mb-5
-              p.my-4.mx-4 Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
-              p.mb-2.mx-4 #[b 1.] La preparación
-              p.mb-2.mx-4 #[B 2.] El ensamble            
-              p.mb-4.mx-4 #[b 3.] La terminación           
-              p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
-          .col-sm-8.col-lg-6.mb-5
-            img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
-
-    
-    .row.justify-content-center.align-items-center.mb-4
-      .col-sm-12.col-lg-6
-        .fondo21.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.img-t.img-a(src="@/assets/ilustraciones/pef.svg",alt='tema5')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0          
-                  p.my-2 Anexo. Hoja de inspección producto en proceso.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_14_Hoja_de_inspección_producto_en_proceso.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
-      
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4(data-aos="fade-left")
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=xlPFRjssa2Q" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p #[b Enlace web]. Inspección producto en proceso.
-
-    
-    p.mt-3 En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:
-    
-    .row.justify-content-center.align-items-center.mt-5
-      .col-sm-12.col-lg-10
-        .row.justify-content-center.align-items-center.mt-5
           .col-sm-8.col-lg-6.mb-4
             img.img-t.img-a(src="@/assets/ilustraciones/poli.png",alt='tema5')
           .col-md-12.col-lg-6.col-12.mb-4
@@ -1271,9 +1251,9 @@
                   | Estado de ánimo de empleados
               p.mx-4.mb-2 En consecuencia, los factores directos o indirectos si son mal ejecutados afectan la calidad y rendimiento de la empresa.
 
-    p.mt-5 Existen otras técnicas de análisis como son las pruebas y ensayos en laboratorios especializados que evalúan la prenda según normas nacionales e internacionales; por ejemplo, la prueba de uso en la que se compara los resultados planteados y los reales obtenidos.
+    p.mb-5 Existen otras técnicas de análisis como son las pruebas y ensayos en laboratorios especializados que evalúan la prenda según normas nacionales e internacionales; por ejemplo, la prueba de uso en la que se compara los resultados planteados y los reales obtenidos.
     
-    .row.justify-content-center.align-items-center.mt-5.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .cajon.color-acento-contenido.p-4
           p(data-aos="fade-down") En estos ensayos o pruebas se analizan las fibras, en cuanto a la cantidad, colorimétrica, peso, composición, cambios dimensionales después del lavado, resistencia a la rotura y al desgarre, elongación y elasticidad de la tela, recuperación a las arrugas, resistencia a la abrasión, solidez al color con el frote, al agua, al planchado, resistencia a la formación de motas (#[i Pilling]), entre otras.
@@ -1435,10 +1415,16 @@
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
-    
+        .row.justify-content-center.align-items-center.mb-5
+          .col-sm-12.col-lg-4
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=I8adPpXG-n8&t=30s" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p.mb-2.my-3 #[b Enlace web.] Producto terminado
       .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-12
-        img.img-t.img-a(src="@/assets/ilustraciones/fin.svg",alt='tema5')
+        img.img-t.img-a.mb-5(src="@/assets/ilustraciones/fin.svg",alt='tema5')
 
 </template>
 <script>

@@ -28,8 +28,7 @@
         .row.justify-content-center.align-items-stretch.mb-5       
           .col-sm-12.col-lg-12
             .cajon.color-acento-contenido.p-4
-              p.mb-4 #[b Norma GTC 230]
-                p.mb-3 La norma GTC 230 es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual se creó a través de un comité técnico de textiles, en el cual participaron varias empresas de Colombia, como centros de formación del SENA, universidades, hilanderías, lavanderías,  empresas de confección y textilerías. 
+              p.mb-0 #[b Norma GTC 230] La norma GTC 230 es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual se creó a través de un comité técnico de textiles, en el cual participaron varias empresas de Colombia, como centros de formación del SENA, universidades, hilanderías, lavanderías,  empresas de confección y textilerías. 
 
         p.mb-4 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, brasier, panty y bóxer;  identificadas así:
 
@@ -41,19 +40,19 @@
                 LineaTiempoD.color-primario.my-4
                   .row(numero="1" titulo="NTC 2260")
                     .col-12
-                      p Pantalones tipo jean y otros pantalones informales; esta norma instituye los requisitos que debe cumplir el confeccionista en cuanto los ensayos de las telas con las cuales se confeccionan los pantalones.
+                      p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de las telas utilizadas en la fabricación de pantalones tipo jean y otros pantalones informales. 
         
                   .row(numero="2" titulo="NTC 2309")
                     .col-12
-                      p Camisas deportivas (informales) y de traje (formales) para hombres y niños; esta norma cubre la evaluación de características en el lavado casero de tejido plano. 
+                      p Aborda la evaluación de características durante el lavado casero de tejido plano en camisas deportivas (informales) y de traje (formales) para hombres y niños. 
 
                   .row(numero="3" titulo="NTC 2398-1988")
                     .col-12
-                      p Ropa interior femenina de tejido plano; esta norma instaura los requisitos que debe cumplir el confeccionista en cuanto los ensayos de materiales, empaque, rotulado y normas de muestreo con las cuales se confeccionan panty, brasier.
+                      p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de materiales, empaque, rotulado y normas de muestreo utilizadas en la fabricación de ropa interior femenina de tejido plano, como panty y brasier.
     
                   .row(numero="4" titulo="NTC 2339")
                     .col-12
-                      p  Ropa interior masculina de tejido plano; esta norma establece los requisitos que debe cumplir el confeccionista en cuanto los ensayos de las telas con las cuales se confeccionan los calzoncillos elaborados en tejido plano.         
+                      p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de las telas utilizadas en la fabricación de calzoncillos masculinos elaborados en tejido plano. 
               .col-sm-12.col-lg-5
                 img.img-t.img-a.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/ntc.png', alt='')
     
@@ -63,7 +62,7 @@
             .row.justify-content-center.align-items-center       
               .col-lg-12.mb-5
                 .cajon.color-acento-contenido.p-4(data-aos="fade-down")
-                  p.my-4.mx-3 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA que permitirá identificar las diferentes normas que existen de las prendas de vestir.   
+                  p.my-4.mx-3 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA que permitirá identificar las diferentes normas que existen de las prendas de vestir.
                 
               .col-lg-12.mb-4
                 .fondo21.p-3.mb-2
