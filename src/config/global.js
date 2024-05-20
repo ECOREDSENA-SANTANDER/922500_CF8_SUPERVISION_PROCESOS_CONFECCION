@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Ensamble de prendas de vestir',
     descripcionCurso:
-      'La trazabilidad en la elaboración de prendas de vestir es importante en cuanto a las herramientas, maquinarias e insumos y su aplicación, de acuerdo con las rutas operacionales de confección.  Así mismo, la comprensión de los procesos, que al combinarse posibilitan la interpretación de patrones y permiten la materialización de productos dispuestos en la confección industrial, junto con la supervisión de acabados y terminados basados en criterios técnicos y de calidad.',
+      'La trazabilidad en la elaboración de prendas de vestir es fundamental, en lo concerniente a las herramientas, maquinarias e insumos utilizados. Asimismo, la comprensión de los procesos que, al combinarse, posibilitan la interpretación de patrones y permiten la materialización de productos en la confección industrial, junto con la supervisión de acabados y terminados basados en criterios técnicos y de calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
