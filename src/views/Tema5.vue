@@ -9,60 +9,60 @@
     
     .row.fondo-hu.align-items-center.py-md-3
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center.mb-0(data-aos="fade-down")
 
 
-        .row.justify-content-center.align-items-center.mb-5
-          .col-sm-12.col-lg-8
-            p.mb-4 El control de calidad permite realizar un análisis a partir de la reflexión y la observación de actividades y procesos ejecutados en las diferentes áreas de la empresa o taller, estableciendo así, puntos de control en patronaje, corte y trazo, compras de insumos, confección y producto terminado. Esta inspección no solo se encauza en detectar fallas, defectos y problemas de la cadena productiva, su gran finalidad es anticiparse a ellos y así lograr una optimización en los métodos de fabricación, mejoramiento continuo, reducción de costos y posteriormente potencializar la productividad.
-              .col-lg-12
-                .cajoo.p-4
-                  p En consecuencia, controlar, revisar, medir y registrar la producción, hace que la empresa incremente los estándares de calidad en los productos o artículos manufacturados, haciéndola más competitiva en el mercado.
-          .col-sm-12.col-lg-4
-            img.img-t.img-a.mb-2(src='@/assets/ilustraciones/img27.png',alt='tema5')
+          .row.justify-content-center.align-items-center.mb-5
+            .col-sm-12.col-lg-8
+              p.mb-4 El control de calidad permite realizar un análisis a partir de la reflexión y la observación de actividades y procesos ejecutados en las diferentes áreas de la empresa o taller, estableciendo así, puntos de control en patronaje, corte y trazo, compras de insumos, confección y producto terminado. Esta inspección no solo se encauza en detectar fallas, defectos y problemas de la cadena productiva, su gran finalidad es anticiparse a ellos y así lograr una optimización en los métodos de fabricación, mejoramiento continuo, reducción de costos y posteriormente potencializar la productividad.
+                .col-lg-12
+                  .cajoo.p-4.mb-3
+                    p En consecuencia, controlar, revisar, medir y registrar la producción, hace que la empresa incremente los estándares de calidad en los productos o artículos manufacturados, haciéndola más competitiva en el mercado.
+            .col-md-10.col-lg-4.col-10
+              img.img-t.img-a.mb-2(src='@/assets/ilustraciones/img27.png',alt='tema5')
         
-        .row.justify-content-center.align-items-center.mb-5
-          .col-sm-12.col-lg-8
-            .row.justify-content-center
-              .col-lg-7   
-                p.mb-4 Es importante mencionar los 
-                  strong.color principios de la calidad 
-                  | para desarrollar el control de esta:
-                ul.lista-ul--color.ets
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Mejora continua.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Evitar inspecciones masivas.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Relación de precio y calidad.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Métodos modernos de capacitación y entrenamiento.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Exigencia de la competitividad.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Identificación del trabajador con sus funciones y su aporte con la calidad.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Eliminación de barreras entre áreas.
-                  li.d-flex
-                    i.fas.fa-car-side.mb-0
-                    | Establecer la ruta de la calidad.
-              .col-lg-5.col-md-8.col-8     
-                img.mb-4(src='@/assets/ilustraciones/img28.svg',alt='tema5')  
+          .row.justify-content-center.align-items-center.mb-5
+            .col-sm-12.col-lg-8
+              .row.justify-content-center
+                .col-lg-7   
+                  p.mb-4 Es importante mencionar los 
+                    strong.color principios de la calidad 
+                    | para desarrollar el control de esta:
+                  ul.lista-ul--color.ets
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Mejora continua.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Evitar inspecciones masivas.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Relación de precio y calidad.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Métodos modernos de capacitación y entrenamiento.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Exigencia de la competitividad.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Identificación del trabajador con sus funciones y su aporte con la calidad.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Eliminación de barreras entre áreas.
+                    li.d-flex
+                      i.fas.fa-car-side.mb-0
+                      | Establecer la ruta de la calidad.
+                .col-lg-5.col-md-8.col-8     
+                  img.mb-4(src='@/assets/ilustraciones/img28.svg',alt='tema5')  
           
-        p.mt-4.mb-5.text-center Estas acciones se ejecutan con el fin de permutar a la empresa hacia la calidad como se muestra en la figura 15.
+          p.mb-5.text-center Estas acciones se ejecutan con el fin de permutar a la empresa hacia la calidad como se muestra en la figura 15.
         
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-6.mb-5     
-            .BorTit #[b Figura 15] Proceso de calidad 
-            img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='La figura presenta un diagrama que enuncia las características del proceso de calidad: integración total del proceso, satisfacción del cliente, mejora continua, equipo comprometido con la calidad, excelencia en la gestión.')                        
-            figcaption.mt-3.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-6     
+              .BorTit.mb-4 #[b Figura 15] Proceso de calidad 
+              img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='La figura presenta un diagrama que enuncia las características del proceso de calidad: integración total del proceso, satisfacción del cliente, mejora continua, equipo comprometido con la calidad, excelencia en la gestión.')                        
+              figcaption.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
     
     
     .row.justify-content-center.mb-4
@@ -118,12 +118,12 @@
                   p.my-4.texto-normal #[b Valls (2007)], resalta que la calidad es cumplir los requisitos del cliente para obtener el desarrollo de la empresa. 
       
 
-    p.mt-5 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.
+    p.mb-0 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.
 
     Separador
-    .row.fondo-huo.align-items-center.py-4.mb-5
+    .row.fondo-huo.align-items-center.py-4.mb-0
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center.mb-0(data-aos="fade-down")
     
     
         #t_5_1.titulo-segundo
@@ -135,7 +135,7 @@
           |, se puede plantear de 3 niveles de satisfacción:  
         
         
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-0
           .col-lg-3.col-md-4.col-sm-4.my-3.mb-5(data-aos="fade-left")
             .tarjeta-avatar
               img.img-a.img-t.img-w2.mb-5(src='@/assets/ilustraciones/img70.svg',alt='tema5')
@@ -165,7 +165,7 @@
                 p.mb-0 #[b c.] Tiempos de entrega. 
 
 
-    .row.justify-content-center.align-items-center.mt-5.mb-5 
+    .row.justify-content-center.align-items-center.mb-5.mt-5 
       .col-sm-12.col-lg-10
         .row.justify-content-center
           .col-lg-7
@@ -197,7 +197,7 @@
               li.d-flex
                 i.fas.fa-car-side.mb-0
                 | Legales: leyes y normas: rotulados, materiales, uso, residuos.
-          .col-sm-8.col-lg-5
+          .col-md-8.col-lg-5.col-8
             img(src='@/assets/ilustraciones/img74.svg',alt='tema5')      
 
 
@@ -207,10 +207,10 @@
       .col-lg-5
         .cajon.color-acento-contenido.p-2
           .row.justify-content-center.align-items-center.p-2.mb-3      
-            .col-lg-12
+            .col-lg-12.col-md-10.col-10
               img.img-t.img-a(src='@/assets/ilustraciones/img76.svg',alt='tema5')            
               .row.justify-content-center  
-                .col-lg-9
+                .col-lg-9.col-md-12.col-12
                   p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
                   ul.lista-ul--color.et
                     li.d-flex
@@ -248,9 +248,9 @@
     .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-sm-12.col-lg-6.mb-5
+          .col-sm-12.col-lg-6.mb-4
             p.mb-5.my-5 #[b Las fases del control de calidad son las siguientes:]
-              ul.lista-ul--color.et.mb-5.my-5
+              ul.lista-ul--color.et.mb-0.my-5
                 li.d-flex
                   i.fas.fa-car-side.mb-0
                   | 
@@ -275,7 +275,7 @@
                   p 
                     strong.color Análisis y definición de acciones correctivas
                     |, análisis de causas de defectos. 
-          .col-sm-8.col-lg-6
+          .col-md-8.col-lg-6.col-9
             .cojo
               img.mb-5(src='@/assets/ilustraciones/nuev.svg',alt='tema5') 
     
@@ -293,8 +293,8 @@
             h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Automatización en control de calidad en la industria textil y confección
             img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
         
-        .row.justify-content-center.align-items-center.mb-5
-          .col-sm-8.col-lg-4.mb-4
+        .row.justify-content-center.align-items-center.mb-4
+          .col-md-8.col-lg-4.col-10.mb-4
             img(src='@/assets/ilustraciones/ellaa.png',alt='tema5') 
           .col-sm-12.col-lg-8.mb-4
             p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de big data, inteligencia artificial, machine learning, deep learning, internet de las cosas.
@@ -347,14 +347,14 @@
               h3.mb-5.mx-5 Industria 4.0                  
         .row.justify-content-center.align-items-center.mt-2
           .col-lg-12
-            figcaption.mb-5 Nota. Sejzer (2018).       
+            figcaption.mb-0 Nota. Sejzer (2018).       
     
 
     Separador
     #t_5_2.titulo-segundo.mb-5
       .h2 5.2 Gestión de calidad total 
 
-    .row.justify-content-center.align-items.mb-5
+    .row.justify-content-center.align-items.mb-4
       .col-sm-12.col-lg-6
 
         p.mb-5 Para realizar una gestión de calidad en la empresa se debe tener en cuenta los siguientes enfoques:      
@@ -399,67 +399,66 @@
           .col-lg-12 
             h4(data-aos="fade-right") Mejora continua, Innovación y aprendizaje
             p(data-aos="fade-left") Todo proceso es susceptible de mejorar, no es sólo corregir sino actuar de forma proactiva.   
-      .col-sm-8.col-lg-6
+      .col-md-8.col-lg-6.col-9
         img.img-t.img-a.my-3(src='@/assets/ilustraciones/cindo.svg',alt='tema5')               
 
-    .row.cultu.align-items-center.py-4.py-md-3.mb-5
+    .row.cultu.align-items-center.py-md-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")
+        .row.justify-content-center(data-aos="fade-down")
     
-    
-        .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-          .col-lg-8
-            .fondo211.p-3.mb-2
-              .row.justify-content-center.align-items-center
-                .col-3.col-sm-2.col-lg-2
-                  img.mx-4.img-a.img-t(src="@/assets/ilustraciones/alert.svg",alt='tema5')
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0          
-                      p.my-2.mx-0 #[b Tener en cuenta:] la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad.
-
-
-        p.mt-5(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[em Deming] de la calidad que se puede observar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
-    
-        .row.justify-content-center.align-items-center.mt-5.mb-5       
-          .col-lg-8
-            .row.justify-content-center.align-items-center
-              .col-lg-12.p-5
+          .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+            .col-lg-8
+              .fondo211.p-3.mb-2
                 .row.justify-content-center.align-items-center
-                  .col-lg-12
-                    .BorTit #[b Figura 19] Ciclo Deming
-                    ImagenInfografica.color-primario.mt-3(data-aos="zoom-in")
+                  .col-3.col-sm-2.col-lg-2
+                    img.mx-4.img-a.img-t.d-none.d-lg-block(src="@/assets/ilustraciones/alert.svg",alt='tema5')
+                  .col-lg-10.col-md-12.col-12
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0          
+                        p.my-2.mx-0 #[b Tener en cuenta:] la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad.
 
-                      template(v-slot:imagen)
-                        figure
-                        img.img-a.img-t.mb-5(src='@/assets/ilustraciones/img45.svg',alt='La figura presenta un diagrama circular: planear, hacer, verificar y actuar. ')
 
-                      .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
-                        p.mb-2 #[b Planificar] (Plan):
-                        p ¿Qué hacer? 
-                        p ¿Cómo hacerlo?
+          p.mb-4(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[em Deming] de la calidad que se puede observar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
+    
+          .row.justify-content-center.align-items-center     
+            .col-lg-8
+              .row.justify-content-center.align-items-center
+                .col-lg-12.p-5
+                  .row.justify-content-center.align-items-center
+                    .col-lg-12
+                      .BorTit.mb-4 #[b Figura 19] Ciclo Deming
+                      ImagenInfografica.color-primario(data-aos="zoom-in")
 
-                      .tarjeta.color-acento-botoones.p-3(x="68%" y="24%")
-                        p.mb-2 #[b Hacer] (Do):
-                        p Realizar lo planeado.
+                        template(v-slot:imagen)
+                          figure
+                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La figura presenta un diagrama circular: planear, hacer, verificar y actuar. ')
 
-                      .tarjeta.color-acento-botoones.p-3(x="65%" y="85%")
-                        p.mb-2 #[b Verificar] (Check):
-                        p ¿Ocurrieron las cosas según lo planeado?
+                        .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
+                          p.mb-2 #[b Planificar] (Plan):
+                          p ¿Qué hacer? 
+                          p ¿Cómo hacerlo?
 
-                      .tarjeta.color-acento-botoones.p-3(x="35%" y="85%")
-                        p.mb-2 #[b Actuar] (Act):
-                        p Cómo mejorar la próxima vez.                    
+                        .tarjeta.color-acento-botoones.p-3(x="68%" y="24%")
+                          p.mb-2 #[b Hacer] (Do):
+                          p Realizar lo planeado.
 
-                    figcaption Nota. Cal y mayor (2021). 
+                        .tarjeta.color-acento-botoones.p-3(x="65%" y="85%")
+                          p.mb-2 #[b Verificar] (Check):
+                          p ¿Ocurrieron las cosas según lo planeado?
 
-    .mb-4.d-flex.mb-5
+                        .tarjeta.color-acento-botoones.p-3(x="35%" y="85%")
+                          p.mb-2 #[b Actuar] (Act):
+                          p Cómo mejorar la próxima vez.                    
+
+                      figcaption Nota. Cal y mayor (2021). 
+
+    .d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Cultura de calidad
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
- 
 
-    p.mt-5(data-aos="fade-left") La cultura de calidad hace referencia a los principios que rigen la forma de actuar de las personas que conforman la organización, su objetivo es impartir sistemas de integración y motivar al trabajo en equipo para alcanzar los objetivos propuestos por la empresa, su implementación requiere de capacitaciones efectivas y que se brinden de manera constante, una  comunicación asertiva y eficaz para seguir construyendo una cultura sana y eficaz; la metodología utilizada son los círculos de calidad desarrollados por Kauro Ishikawa.
+
+    p.mb-5(data-aos="fade-left") La cultura de calidad hace referencia a los principios que rigen la forma de actuar de las personas que conforman la organización, su objetivo es impartir sistemas de integración y motivar al trabajo en equipo para alcanzar los objetivos propuestos por la empresa, su implementación requiere de capacitaciones efectivas y que se brinden de manera constante, una  comunicación asertiva y eficaz para seguir construyendo una cultura sana y eficaz; la metodología utilizada son los círculos de calidad desarrollados por Kauro Ishikawa.
     p(data-aos="fade-left") En la siguiente figura 20 se aprecia los componentes de los círculos de calidad.
 
     .row.justify-content-center.align-items-center.mb-3 
@@ -504,16 +503,16 @@
               p.mb-5.mx-5 #[b 7.] Grafos.
     
               
-    .mb-4.d-flex.mb-5
+    .d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Metodología de mejoramiento continuo
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
     
-    .row.justify-content-center.align-items-stretch.mt-5       
+    .row.justify-content-center.align-items-stretch.mb-5       
       .col-sm-12.col-lg-10
-        .row.justify-content-center.align-items-stretch.mt-5       
-          .col-sm-8.col-lg-6
+        .row.justify-content-center.align-items-stretch      
+          .col-md-9.col-lg-6.col-9
             img.img-t.img-a.mb-4(src='@/assets/ilustraciones/goog.png',alt='tema5')               
           .col-sm-12.col-lg-5
             .bg-22.p-4.text-just.border-bg-2.mb-4
@@ -616,7 +615,7 @@
           td Responsable del evento realizar seguimiento con programa, presentar resultados y estandarizar, sino da resultado volver a iniciar.                                                 
     
     
-    .row.ert.align-items-center.py-4.py-md-3.mb-5
+    .row.ert.align-items-center.py-4.py-md-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -657,11 +656,11 @@
                   .col-lg-12
                     h4.mt-2(data-aos="fade-right") Controlar
                     p(data-aos="fade-left") Tomar medidas para mantener el progreso, valorando en términos económicos y el nivel de satisfacción al cliente.
-              .col-sm-8.col-lg-6
+              .col-md-9.col-lg-6.col-9
                 img(src='@/assets/ilustraciones/six.svg',alt='tema5')               
     
     
-    p.mt-5.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es verificable en la figura 21.
+    p.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es verificable en la figura 21.
 
     
     .row.justify-content-center.align-items-center
@@ -722,8 +721,8 @@
           .col-sm-12.col-lg-7
             p.mb-4(data-aos="fade-right") La comunicación con la cadena de abastecimiento es muy importante para solucionar de manera eficiente los problemas derivados que puedan ocurrir en la producción de las prendas. Los espacios disponibles para recibir los diferentes elementos deben cumplir con condiciones óptimas de ventilación, iluminación, seguridad, aseo y organización, que afectan los requerimientos de calidad en la cadena productiva. El control de inventarios está relacionado directamente con el control de calidad, para generar las mejoras de toda la gestión de la empresa.
             p.mb-4(data-aos="fade-left") En las entradas del proceso de producción uno de los recursos es el de los insumos y materias primas, las revisiones de calidad responden a uno de los principios de calidad que es hacer las cosas bien desde el principio, dando la relevancia para asegurar el flujo de los procesos, así mismo al finalizar el proceso de producción se requieren materiales para la entrega del producto al cliente, los cuales de igual manera se deben validar.
-          .col-sm-12.col-lg-5
-            img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img48.png',alt='tema5') 
+          .col-md-10.col-lg-5.col-10
+            img.img-t.img-a.mb-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img48.png',alt='tema5') 
 
         .row.justify-content-center.align-items-center.mb-4
           .col-sm-12.col-lg-6
@@ -747,7 +746,7 @@
         figcaption.mb-5 Video. Description
 
     .row.justify-content-center.align-items-center
-      .col-sm-12.col-lg-6
+      .col-md-10.col-lg-6.col-10
         img.img-t.img-a.mb-5(src="@/assets/ilustraciones/gtr.png",alt='tema5')
       .col-sm-12.col-lg-6       
         p.mb-5 Los requisitos necesarios para cumplir con las solicitudes de insumos son:
@@ -827,8 +826,8 @@
                   i.fas.fa-car-side.mb-0
                   h5.color Características propias  
                     p.mb-3 Funcionalidad, composición, tamaño, peso, color, uniformidad en sus características.
-          .col-sm-8.col-lg-6   
-            img.img-a.img-t.mb-2(src="@/assets/ilustraciones/nqr.svg",alt='tema5')
+          .col-md-9.col-lg-6.col-9   
+            img.img-a.img-t(src="@/assets/ilustraciones/nqr.svg",alt='tema5')
 
 
     p.mt-3 En el caso de los textiles, teniendo en cuenta las propiedades asociadas a su composición se realizan las inspecciones en las que pueden ser observables con detenimiento, pero es necesario realizar pruebas de laboratorio que garanticen la calidad para su utilización.                                   
@@ -911,8 +910,8 @@
                   li.d-flex
                     i.fas.fa-car-side
                     | Orillo de tela.
-          .col-sm-8.col-lg-6
-            img.img-t.img-a.mb-4(src="@/assets/ilustraciones/rute.svg",alt='tema5')
+          .col-md10.col-lg-6.col-10
+            img.img-t.img-a(src="@/assets/ilustraciones/rute.svg",alt='tema5')
         
         
     p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.
@@ -937,17 +936,17 @@
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en insumos, materiales y textiles
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-7
         .cajppp.p-4.mb-5 
           p.mb-2.mx-4.my-3 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.
         p.mb-5 En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
         p.mb-4 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
-      .col-sm-8.col-lg-5
+      .col-md-10.col-lg-5.col-10
         img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png",alt='tema5')
             
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-3
       .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
         .tarjeta-avatar
           img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg',alt='tema5')
@@ -1190,7 +1189,7 @@
                   p.mb-2.mx-4 #[B 2.] El ensamble            
                   p.mb-4.mx-4 #[b 3.] La terminación           
                   p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
-              .col-sm-8.col-lg-6.mb-5
+              .col-md-10.col-lg-6.col-10.mb-0
                 img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
 
     
@@ -1220,7 +1219,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-sm-8.col-lg-6.mb-4
+          .col-md-10.col-10.col-lg-6.mb-4
             img.img-t.img-a(src="@/assets/ilustraciones/poli.png",alt='tema5')
           .col-md-12.col-lg-6.col-12.mb-4
             .nome.p-4
@@ -1334,11 +1333,11 @@
             h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Control de calidad en terminados
             img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-7
             p.mb-4 En los terminados se incluyen procesos de planchado, empaque, embalaje y procesos de acabados como lavandería, estampación y bordado. Puede ser que los procesos de acabados pueden desarrollarse de manera externa a la empresa, es decir contratar los servicios, y por lo tanto la importancia de los puntos de control una vez ingresen a la planta, validar las prendas o piezas una vez se realicen los procesos. 
             p.mb-4 El planchado es la última operación del proceso de producción, es necesario que las personas responsables de la sección tengan los criterios claros para evaluar las prendas que pasarán a las operaciones para la entrega al cliente.
-          .col-sm-12.col-lg-5
+          .col-md-10.col-10.col-lg-5
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/img57.png',alt='tema5') 
 
 
@@ -1416,7 +1415,7 @@
                         span Descargar
                         i.fas.fa-file-download
         .row.justify-content-center.align-items-center.mb-5
-          .col-sm-12.col-lg-4
+          .col-md-9.col-9.col-lg-4
             a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=I8adPpXG-n8&t=30s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")

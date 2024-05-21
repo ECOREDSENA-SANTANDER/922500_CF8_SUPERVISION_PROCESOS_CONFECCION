@@ -8,7 +8,7 @@
       h1(data-aos="zoom-in-right") Terminados en las prendas de vestir
     
     .row.justify-content-center.align-items-center
-      .col-sm-12.col-lg-5
+      .col-md-10.col-lg-5.col-10
         img.img-t.img-a.mb-4(src='@/assets/ilustraciones/cuatro.png',alt='tema4')             
       .col-sm-12.col-lg-7
         p.mb-4 En los terminados de la prenda vestir se deben contemplar pasos que van unidos a criterios de calidad para que pueda disponerse de un producto el cual cumpla con lo requerido para su distribución.  En este apartado se dará un acercamiento a lo que pasa después de que la prenda sale de la planta de producción en confección.

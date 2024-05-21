@@ -8,7 +8,7 @@
       h1(data-aos="zoom-in-right") Confección de prendas de vestir
     
     .row.justify-content-center.align-items-center.mt-2
-      .col-sm-12.col-lg-5
+      .col-md-10.col-lg-5.col-10
         img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='tema3')      
       .col-sm-12.col-lg-7
         p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
@@ -40,7 +40,7 @@
               li.d-flex
                 i.fas.fa-car-side.mb-0
                 | Fichas técnicas de confección u orden operacional.
-          .col-sm-12.col-lg-4
+          .col-md-10.col-lg-4.col-10
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/ropa.png', alt='tema3')       
 
     .row.justify-content-center.align-items-center
@@ -78,13 +78,13 @@
         
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-10
-        .row 
+      .col-md-12.col-lg-10.col-12
+        .row.justify-content-center
           .col-lg-8
             .cajon.color-acento-contenido.p-2.mb-4 
               p.mx-3.my-4 Dentro de las funciones de un supervisor en procesos de confección está el velar porque cada uno de estos se haya dado y cuente con las especificaciones y orientaciones que permitan y faciliten el proceso de producción en planta para las prendas de vestir, ello asegura el cumplimiento en tiempos y requerimientos de calidad establecidos.
             p.mb-4 Es importante tener presente los saberes adquiridos en cuanto a identificar el tipo de maquinaria y su respectivo funcionamiento, por ello en los videos de este módulo se encontrarán las operaciones básicas que pueden ser implementadas de manera genérica en las prendas como lo son bolsillos, ribetes, puños, etc.
-          .col-lg-4
+          .col-lg-4.col-md-10.col-10
             img(src='@/assets/ilustraciones/pal.svg', alt='tema3')       
 
 
@@ -92,10 +92,10 @@
       .col-sm-12.col-lg-12
         .cajontt.color-acento-contenido.p-5 
           .row.justify-content-center
-            .col-lg-4.col-md-9.col-9.p-3
+            .col-lg-4.col-md-10.col-12.p-3
               h4.mx-5.mb-2 Operaciones máquina plana industrial
               img.my-3(src='@/assets/ilustraciones/cacu.svg', alt='tema3')       
-            .col-lg-4.p-3
+            .col-lg-4.col-md-10.col-12.p-3
               a.anexo.my-2(href="https://www.youtube.com/watch?v=m6Bda8bTNxk" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
@@ -139,7 +139,7 @@
           p.or.mb-4 #[b Para realizar la confección de una prenda, como es el caso de la camisa, se sigue un proceso secuencial dividido en etapas, cada una con tiempos definidos. A este procedimiento se le conoce como orden operacional. ]
           p.mb-4 Este comprende diversas operaciones que se refieren al ensamblaje de piezas, partes o detalles específicos de la prenda, con el objetivo de ensamblarlas una por una. De esta manera, al final del proceso, todas las piezas se unen para formar la prenda completa.
           p.mb-4 Cada empresa adopta su propia metodología o emplea modelos específicos de fichas de orden operacional, los cuales se basan en los criterios establecidos por producción. A modo de ilustración, en las figuras 7 y 8 se presentan ejemplos de órdenes operacionales aplicadas a distintas prendas.
-        .col-sm-12.col-lg-5
+        .col-md-10.col-lg-5.col-10
           img.img-t.img-a.my-2(src='@/assets/ilustraciones/ptr.png', alt='tema3')       
 
       
@@ -162,15 +162,13 @@
               figcaption Nota. Pellegrino (2011).
 
 
-    .row.fondo-pabg4.align-items-center.py-4.py-md-3.mb-4.my-5
+    .row.fondo-pabg4.align-items-center.py-md-3
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
-    
-    
-    
-        .row.justify-content-center.align-items-center.mt-5
+  
+        .row.justify-content-center.align-items-center.mb-5
           .col-lg-12.bg-4.p-5
-            .row.justify-content-center.align-items-center.mt-5
+            .row.justify-content-center.align-items-center.mb-4
               .col-lg-8.bg-4
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 8
@@ -184,7 +182,7 @@
     
         .row.justify-content-center.align-items-center.mb-3
           .col-sm-12.col-lg-12
-            .tarje.color-primario.he-4-cus.px-4.my-4.pt-4
+            .tarje.color-primario.he-4-cus.px-4.my-3.pt-4
               .row
                 .col-sm-12.col-lg-6  
                   .fondo21.p-3.mb-4
@@ -214,11 +212,11 @@
                               span Descargar
                               i.fas.fa-file-download 
     
-    .row 
-      .col-sm-12.col-lg-4
-        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/gts.png',alt='tema3') 
+    .row.justify-content-center.align-items-center.mb-0 
+      .col-md-10.col-lg-4.col-10
+        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/gts.png',alt='tema3') 
       .col-sm-12.col-lg-8
-        p.mb-4 Dentro de la confección de prendas, existen procesos tanto mecánicos como genéricos esenciales para el ensamblaje de sus distintas partes. Por ello, en el material proporcionado se encuentran los recursos necesarios para identificar y seguir el paso a paso de técnicas clave como la inserción de cremalleras, la adición de bolsillos, la unión de mangas, la elaboración de puños y dobladillos, entre otros aspectos. Esta información resulta fundamental para entender los procesos mencionados; cabe destacar que cada fábrica de producción tiene sus propios procedimientos, que se ven facilitados por el uso de maquinaria especializada, acelerando así el proceso de ensamblaje, sin embargo, la definición de estos métodos y la optimización de los flujos de trabajo dependen exclusivamente de la política de cada empresa.
+        p.mb-4.my-4 Dentro de la confección de prendas, existen procesos tanto mecánicos como genéricos esenciales para el ensamblaje de sus distintas partes. Por ello, en el material proporcionado se encuentran los recursos necesarios para identificar y seguir el paso a paso de técnicas clave como la inserción de cremalleras, la adición de bolsillos, la unión de mangas, la elaboración de puños y dobladillos, entre otros aspectos. Esta información resulta fundamental para entender los procesos mencionados; cabe destacar que cada fábrica de producción tiene sus propios procedimientos, que se ven facilitados por el uso de maquinaria especializada, acelerando así el proceso de ensamblaje, sin embargo, la definición de estos métodos y la optimización de los flujos de trabajo dependen exclusivamente de la política de cada empresa.
               .row
                 .col-sm-12.col-lg-12  
                   .fondo21.p-3.mb-4
@@ -267,7 +265,7 @@
     
     
     .row.justify-content-center.align-items-center.mb-5 
-      .col-sm-12.col-lg-2
+      .col-md-10.col-lg-2.col-5
         img.img-t.img-a.mb-3(src="@/assets/ilustraciones/case.svg",alt='tema3')
       .col-sm-12.col-lg-5
         .bloque-texto-d.bg13.p-1.mb-3
@@ -675,7 +673,7 @@
                                 span Ir al sitio
                                 i.fas.fa-video
 
-    .row.justify-content-center.align-items-center.mt-3.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-12
         .cajontt.color-acento-contenido.p-3 
           .row
@@ -684,13 +682,13 @@
             .col-lg-8
               p.my-5 A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa #[em Slim fit] para hombre, y la confección de una camisa artesanalmente.
         .row.justify-content-center 
-          .col-lg-4.mb-4
+          .col-lg-4.col-md-10.col-10.mb-4
             a.anexo.subir.my-2(href="https://www.youtube.com/watch?v=4kT8atODsIQ" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p #[b Enlace web]. Confección de camisa Slim Fit para hombre.
-          .col-lg-4
+          .col-lg-4.col-md-10.col-10
             a.anexo.subir.my-2(href="https://www.youtube.com/watch?v=4kT8atODsIQ" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
@@ -707,8 +705,8 @@
     .row.justify-content-center.align-items-stretch.mt-4.mb-5
       .col-sm-12.col-lg-8.row-img-color.mb-5 
         .row.justify-content-center.align-items-center
-          .col-lg-12.col-md-9.col-9.p-0      
-            img.img-t.img-a(src='@/assets/ilustraciones/img66.png',alt='tema3')
+          .col-lg-12.col-md-12.col-12.p-0      
+            img.img-t.img-a.d-none.d-lg-block(src='@/assets/ilustraciones/img66.png',alt='tema3')
             p.mb-0.px-4.py-3 Es necesario que para la confección de la falda clásica se tengan ya los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados.
       .col-sm-12.col-lg-4
         .row.justify-content-center.align-items-center
@@ -747,7 +745,7 @@
           .tarjeta.color-primate.p-4(titulo="Paso 7")
             h4 Paso 7
             p.mb-5 Realizar dobladillo.
-      .col-sm-6.col-lg-3
+      .col-md-6.col-lg-3.col-6
         img.img-a.img-t.mb-5(src='@/assets/ilustraciones/ded.jpg',alt='tema3')
 
 
@@ -1195,7 +1193,7 @@
           td Existen diferentes tipos de bolsillos de ribete, de igual manera infinidad de formas para confeccionarlos, se debe tener en cuenta que su orden varía dependiendo el tipo de complemento del bolsillo.
         
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-8
         .tarje.color-primario.he-4-cus.px-4.my-4.pt-4
           p.mb-4.mx-4.text-center #[b A continuación, se presentan un vídeo tutorial sobre Confección de pantalón de hombre, que esperamos sirva como complemento de la información que se encuentra en el curso.]
@@ -1244,7 +1242,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-5
+      .col-md-10.col-lg-5.col-10
         img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/polo.png',alt='tema3')
       .col-sm-12.col-lg-7
         p.mb-4 Un polo es una prenda tejida destinada a cubrir el torso, similar en forma a una camiseta o playera, pero se distingue por incorporar un cuello. Diseñada para extenderse hasta la cintura, puede presentarse en versiones de manga larga o corta. Característicamente, dispone de una abertura frontal equipada con dos o tres botones para ajustar el cuello, y en ocasiones incluye un bolsillo o sustituye los botones por una cremallera. Su creación en el siglo XX tuvo como propósito uniformar a los equipos deportivos.
@@ -1680,7 +1678,7 @@
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 
 
     .row.justify-content-center.align-items-center 
-      .col-sm-12.col-lg-7.mb-5
+      .col-sm-12.col-lg-7.mb-3
         p.mb-3 Los 
           strong.color pantalones deportivos 
           | son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
@@ -1689,7 +1687,7 @@
           |, en Chile buzo, en Ecuador como #[em calentador] y en Venezuela como mono.
         p.mb-3 Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
         p ¡Bienvenido!
-      .col-sm-12.col-lg-5.mb-5
+      .col-md-10.col-lg-5.col-10.mb-5
         img.img-t.img-a(src='@/assets/ilustraciones/chic.png',alt='tema3')     
 
     .bg99.p-5.mb-5

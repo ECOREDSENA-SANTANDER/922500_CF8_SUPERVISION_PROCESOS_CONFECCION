@@ -7,17 +7,17 @@
         span 1
       h1(data-aos="zoom-in-right") Normas técnicas para la confección de prendas de vestir
     
-    .row.fondo-gray.align-items-center.py-4.py-md-3.mb-5
+    .row.fondo-gray.align-items-center.py-md-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
     
-        .row.justify-content-center.align-items-center.mt-5
+        .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-7.mb-3
-            p(data-aos="fade-right") El ensamble de prendas de vestir a través de los años se ha realizado de diferentes formas en las empresas, sin embargo, existen normas técnicas que ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos; este proceso de ensamble con las normas ayuda a crear productos con un criterio de calidad y  entrega oportuna a los clientes; así pues que la programación y la planeación de la producción se combinan con la normatividad, y las empresas de confección desarrollan sistemas de producción capaces de competir a nivel nacional e internacional con otras que prestan el mismo servicio. El perfeccionamiento de este proceso evita reprocesos en las plantas tanto a nivel operativo, como administrativo; es aquí donde la guía de buenas prácticas en la confección de prendas de vestir resume las normas a tener en cuenta para la fabricación de productos que cuenten con los requisitos elegidos por el cliente desde la presentación de los prototipos en diseño, hasta la entrega final del producto. 
+            p.my-4(data-aos="fade-right") El ensamble de prendas de vestir a través de los años se ha realizado de diferentes formas en las empresas, sin embargo, existen normas técnicas que ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos; este proceso de ensamble con las normas ayuda a crear productos con un criterio de calidad y  entrega oportuna a los clientes; así pues que la programación y la planeación de la producción se combinan con la normatividad, y las empresas de confección desarrollan sistemas de producción capaces de competir a nivel nacional e internacional con otras que prestan el mismo servicio. El perfeccionamiento de este proceso evita reprocesos en las plantas tanto a nivel operativo, como administrativo; es aquí donde la guía de buenas prácticas en la confección de prendas de vestir resume las normas a tener en cuenta para la fabricación de productos que cuenten con los requisitos elegidos por el cliente desde la presentación de los prototipos en diseño, hasta la entrega final del producto. 
           .col-md-10.col-lg-5.col-10.mb-3
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.png', alt='')
     
-    P.mb-4.text-center En definitiva, el proceso cuenta con un seguimiento y medición de cada paso a paso, para su posterior verificación del cumplimento hacia el cliente. 
+    P.mb-3.text-center En definitiva, el proceso cuenta con un seguimiento y medición de cada paso a paso, para su posterior verificación del cumplimento hacia el cliente. 
     
 
     .row.fondo-grac.align-items-center.py-4.py-md-3.mb-5
@@ -35,7 +35,7 @@
 
         .row.justify-content-center.align-items-center.my-5
           .col-sm-12.col-lg-12
-            .row
+            .row.justify-content-center
               .col-lg-7(data-aos="flip-up")    
                 LineaTiempoD.color-primario.my-4
                   .row(numero="1" titulo="NTC 2260")
@@ -53,7 +53,7 @@
                   .row(numero="4" titulo="NTC 2339")
                     .col-12
                       p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de las telas utilizadas en la fabricación de calzoncillos masculinos elaborados en tejido plano. 
-              .col-sm-12.col-lg-5
+              .col-md-10.col-lg-5.col-10
                 img.img-t.img-a.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/ntc.png', alt='')
     
     
