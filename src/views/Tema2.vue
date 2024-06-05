@@ -7,7 +7,7 @@
         span 2
       h1(data-aos="zoom-in-right") Normas generales para la confección de prendas de vestir 
 
-    .row.fondo-gr.align-items-center.py-4.py-md-3
+    .row.fondo-gr.align-items-center.py-4.py-md-3.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center(data-aos="fade-down")
     
@@ -17,7 +17,7 @@
             .col-md-10.col-lg-5.col-10
               img.img-t.img-a.mt-4.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
   
-    p.mt-4(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
+    p.mb-4(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
     
     Separador
     #t_2_1.titulo-segundo
@@ -90,12 +90,12 @@
     .bg1.mb-5
       SlyderA
         .row.justify-content-center.align-items-top.p-5
-          .col-lg-3.col-md-10.col-10.mb-4
+          .col-lg-3.col-md-12.col-12.mb-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 2
               | Postura ideal
             .cajablanca.p-2
-              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen presenta la silueta de una persona sentada en una silla, con la espalda recta, los pies completamente apoyados en el suelo y la mirada al frente. ")
+              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen muestra una figura que ilustra la postura ideal para sentarse. Las recomendaciones incluyen mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla; repartir el peso entre la parte inferior de los glúteos; colocar las rodillas en ángulo recto con las caderas; usar un reposapiés si los pies no llegan al suelo; y evitar permanecer demasiado tiempo en la misma posición. ")
             figcaption.segundo Nota. Singer (2014)
           .col-lg-5.col-md-12.col-12.mb-4 
             ul.lista-ul--color
@@ -116,16 +116,16 @@
                 | No permanecer demasiado tiempo en la misma posición.
 
         .row.justify-content-center.align-items-top.p-5
-          .col-lg-12.col-md-10.col-10
+          .col-lg-12.col-md-12.col-12
             p.text-center Una vez se tienen presentes los lineamientos anteriores en torno a la postura se debe implementar una postura como en la figura 3:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-3.col-md-10.col-10
+              .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 3
                   | Postura en máquina
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen presenta la silueta de una persona sentada en una silla, con los brazos sobre en una mesa accionando una máquina de coser, y con los pies apoyados en un reposapiés. ")
-                figcaption.segundo Nota. Singer (2014)
+                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen muestra recomendaciones para mantener una postura adecuada al trabajar en una máquina. Se aconseja que la silla esté próxima a la mesa de trabajo para evitar inclinarse hacia adelante, y que sea ergonómica con bordes redondeados y asiento acolchonado o con cojín. La altura de la mesa y la silla debe ser acorde a la estatura del operario y a la altura de la mesa. Además, el material para confeccionar debe estar al alcance del operario para evitar estiramientos y desplazamientos innecesarios. En la mesa deben estar solo los elementos necesarios para la labor.")
+                figcaption.segundo.mb-4 Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
                   li.d-flex.mb-0
@@ -145,16 +145,16 @@
                     | En la mesa solo deben estar los elementos necesarios para el desarrollo de la labor.
 
         .row.justify-content-center.align-items-center.p-5
-          .col-lg-12.col-md-10.col-10
+          .col-lg-12.col-md-12.col-12
             p.text-center Si la labor en la confección implica estar de pie para la realización de alguna labor contemplada en la ruta operacional se sugiere como en la figura 4:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-3.col-md-8.col-8
+              .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 4
                   | Postura de pie
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="La imagen presenta la silueta de una persona de pie, apoyando los brazos sobre una mesa y uno de los pies descansando sobre un escalón bajo la mesa. ")
-                figcaption.segundo Nota. Singer (2014)
+                  img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="La imagen proporciona recomendaciones para mantener una postura correcta al estar de pie. Sugiere mantener un pie en alto apoyándolo sobre un escalón o reposapiés incorporado a la mesa. También se aconseja evitar estar agachado o encorvado, y utilizar calzado ergonómico para mayor comodidad y soporte.")
+                figcaption.segundo.mb-4 Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12  
                 ul.lista-ul--color
                   li.d-flex.mb-0
@@ -172,13 +172,13 @@
           .col-lg-12.col-md-12.col-12
             p.text-center Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
             .row.justify-content-center.align-items-top.my-5
-              .col-lg-3.col-md-10.col-10
+              .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
                   h5.per Figura 5
                   | Carga de elementos
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen presenta la manera correcta para ponerse de pie levantando una carga desde el piso: espalda recta, rodillas flexionadas, cuello erguido y brazos extendidos. Carga siempre cerca al cuerpo. ")
-                figcaption.segundo Nota. Singer (2014)
+                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen muestra las recomendaciones para levantar objetos de forma segura. Se sugiere flexionar las rodillas en lugar de la espalda y tener los pies firmes y bien apoyados. También se recomienda levantarse utilizando la fuerza de las piernas, no de la espalda, y mantener los objetos cerca del cuerpo. Si el peso es excesivo, es preferible solicitar ayuda para evitar lesiones.")
+                figcaption.segundo.mb-4 Nota. Singer (2014)
               .col-lg-5.col-md-12.col-12
                 ul.lista-ul--color
                   li.d-flex.mb-0
@@ -292,16 +292,16 @@
           .col-lg-11.col-md-12.my-3
             p Se debe comprender que la ventilación debe ser proporcional al espacio de trabajo, y se debe evitar confundir ventilación con circulación de aire, dado que la ventilación sustituye el aire vaciado por aire fresco y la circulación de aire mueve el aire, pero sin renovarlo. Por ello es importante que los espacios no sean completamente cerrados dado que se necesita renovar el aire, para evitar así posibles enfermedades que afectan en cadena a los trabajadores de un taller (Huamán, 2003). Algunos de los aspectos a cuidar de este factor son:
             .row.justify-content-center.align-items-center
-              .col-lg-11            
+              .col-lg-12            
                 ul.lista-ul--color
                   li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                    i.fas.fa-car-side.mb-0
                     | Dispersar el calor producido por la maquinaria y los trabajadores.
                   li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                    i.fas.fa-car-side.mb-0
                     | Disminución de la contaminación atmosférica.
                   li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
+                    i.fas.fa-car-side.mb-0
                     | Mantener un espacio fresco.
       
       
@@ -333,20 +333,20 @@
               p.mt-3 Así mismo se debe tener en cuenta para prevenir lesiones:
 
             .row.justify-content-center.align-items-center
-              .col-lg-11            
+              .col-lg-12            
                 ul.lista-ul--color
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Sillas adecuadas, ajustables y ergonómicas.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Soporte para pies: es importante cuando se trabaja sentado por extensas jornadas, así le puede ayudar a que el nivel de 90 grados se cumpla cuando requiera una labor en esta posición.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Ajuste de equipo: altura de mesas y máquinas de confección.
-                  li.d-flex
-                    i.fas.fa-car-side.mx-3.mb-0
-                    | Iluminación: suficiente acorde al espacio de trabajo, en el que no genere que la persona deba esforzarse para realizar actividades en la labor de la confección.
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mb-0
+                    p Sillas adecuadas, ajustables y ergonómicas.
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mb-0
+                    p #[b Soporte para pies:] es importante cuando se trabaja sentado por extensas jornadas, así le puede ayudar a que el nivel de 90 grados se cumpla cuando requiera una labor en esta posición.
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mb-0
+                    p #[b Ajuste de equipo:] altura de mesas y máquinas de confección.
+                  li.d-flex.mb-0
+                    i.fas.fa-car-side.mb-0
+                    p #[b Iluminación:] suficiente acorde al espacio de trabajo, en el que no genere que la persona deba esforzarse para realizar actividades en la labor de la confección.
 
 
 

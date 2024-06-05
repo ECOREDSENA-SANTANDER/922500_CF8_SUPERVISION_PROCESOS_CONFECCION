@@ -25,34 +25,33 @@
             .col-sm-12.col-lg-8
               .row.justify-content-center
                 .col-lg-7   
-                  p.mb-4 Es importante mencionar los 
+                  p.mb-5 Es importante mencionar los 
                     strong.color principios de la calidad 
                     | para desarrollar el control de esta:
                   ul.lista-ul--color.ets
-                    li.d-flex
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Mejora continua.
-                    li.d-flex
+                      p.mb-0 Mejora
                       i.fas.fa-car-side.mb-0
-                      | Evitar inspecciones masivas.
-                    li.d-flex
+                      p.mb-0 Evitar inspecciones masivas.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Relación de precio y calidad.
-                    li.d-flex
+                      p.mb-0 Relación de precio y calidad.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Métodos modernos de capacitación y entrenamiento.
-                    li.d-flex
+                      p.mb-0 Métodos modernos de capacitación y entrenamiento.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Exigencia de la competitividad.
-                    li.d-flex
+                      p.mb-0 Exigencia de la competitividad.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Identificación del trabajador con sus funciones y su aporte con la calidad.
-                    li.d-flex
+                      p.mb-0 Identificación del trabajador con sus funciones y su aporte con la calidad.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Eliminación de barreras entre áreas.
-                    li.d-flex
+                      p.mb-0 Eliminación de barreras entre áreas.
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      | Establecer la ruta de la calidad.
+                      p.mb-0 Establecer la ruta de la calidad.
                 .col-lg-5.col-md-8.col-8     
                   img.mb-4(src='@/assets/ilustraciones/img28.svg',alt='tema5')  
           
@@ -60,9 +59,9 @@
         
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-6     
-              .BorTit.mb-4 #[b Figura 15] Proceso de calidad 
+              .BorTit.mb-4 #[b Figura 15.] Proceso de calidad 
               img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='La figura presenta un diagrama que enuncia las características del proceso de calidad: integración total del proceso, satisfacción del cliente, mejora continua, equipo comprometido con la calidad, excelencia en la gestión.')                        
-              figcaption.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
+              figcaption.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018)
     
     
     .row.justify-content-center.mb-4
@@ -173,30 +172,30 @@
               strong.color producto
               |, existen los siguientes tipos de requisitos:
             ul.lista-ul--color.et
-              li.d-flex
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Función del producto:  según su desempeño, generalmente responde a la pregunta
-              li.d-flex
+                p.mb-1 Función del producto:  según su desempeño, generalmente responde a la pregunta
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | para qué sirve.
-              li.d-flex
+                p.mb-1 para qué sirve.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Características técnicas: cantidades, peso, tamaño, color, entre otras.
-              li.d-flex
+                p.mb-1 Características técnicas: cantidades, peso, tamaño, color, entre otras.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Condiciones de pago y precio.
-              li.d-flex
+                p.mb-1 Condiciones de pago y precio.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Plazos de entrega.
-              li.d-flex
+                p.mb-1 Plazos de entrega.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Especificaciones dadas por el cliente.
-              li.d-flex
+                p.mb-1 Especificaciones dadas por el cliente.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Mantenimientos y vida útil: Instrucciones de uso y términos de garantía.
-              li.d-flex
+                p.mb-1 Mantenimientos y vida útil: Instrucciones de uso y términos de garantía.
+              li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                | Legales: leyes y normas: rotulados, materiales, uso, residuos.
+                p.mb-1 Legales: leyes y normas: rotulados, materiales, uso, residuos.
           .col-md-8.col-lg-5.col-8
             img(src='@/assets/ilustraciones/img74.svg',alt='tema5')      
 
@@ -213,26 +212,26 @@
                 .col-lg-9.col-md-12.col-12
                   p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
                   ul.lista-ul--color.et
-                    li.d-flex
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Reducir costos.
-                    li.d-flex
+                      p.mb-1 Reducir costos.
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Reducir defectos.
-                    li.d-flex
+                      p.mb-1 Reducir defectos.
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Obtener productos estandarizados.
-                    li.d-flex
+                      p.mb-1 Obtener productos estandarizados.
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Disminución de desperdicios.
-                    li.d-flex
+                      p.mb-1 Disminución de desperdicios.
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Mejoras en los procesos.
-                    li.d-flex
+                      p.mb-1 Mejoras en los procesos.
+                    li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      | Aumento de la productividad.
+                      p.mb-1 Aumento de la productividad.
       .col-lg-5.mb-5
-        .BorTit.mt-5 #[b Figura 16] Beneficios del control de calidad
+        .BorTit.mt-5 #[b Figura 16.] Beneficios del control de calidad
         img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img75.svg',alt='La figura presenta un diagrama donde se enuncian los beneficios del control de calidad: costos, precios, cliente, trazabilidad, productividad. ') 
         figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
@@ -240,7 +239,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-lg-12
-        .BorTit.mb-4 #[b Figura 17] Procesos para producir una prenda
+        .BorTit.mb-4 #[b Figura 17.] Procesos para producir una prenda
         img.img-t.img-a(src='@/assets/ilustraciones/img38.jpg',alt='la figura presenta una diagrama de flujo con los procesos para la producción de una prenda de vestir: proceso de diseño(características físicas del producto, patronaje,materia prima), proceso de extendido, tizado y corte, proceso de confección, proceso de intervención(estampados, bordados, lavadora) y proceso de terminación(limpieza, planchado y empaque.')                        
         figcaption Nota: SENA (2021)
 
@@ -279,8 +278,12 @@
             .cojo
               img.mb-5(src='@/assets/ilustraciones/nuev.svg',alt='tema5') 
     
-    
-    .row.fondo-terce.align-items-center.py-4.py-md-3.mb-5
+    .row.justify-content-center.align-items-stretch.mb-2      
+      .col-sm-12.col-lg-10
+        .cajon.color-secundario.caj.p-4
+          p.mb-0 #[b Tipos de auditorías:] las auditorías más importantes son: la auditoría interna, que evalúa y mejora los procesos internos y la gestión de riesgos; la auditoría externa, realizada por auditores independientes para verificar la exactitud financiera y el cumplimiento de normas; la auditoría de cumplimiento, que asegura la adherencia a leyes y políticas; la auditoría operativa, que analiza la eficiencia de las operaciones; la auditoría de sistemas, que examina la seguridad y eficiencia de los sistemas de información; la auditoría de calidad, que verifica el cumplimiento de estándares de calidad; y la auditoría forense, que investiga fraudes y proporciona evidencia legal. Estas auditorías son cruciales para mantener la integridad y eficiencia en las organizaciones.
+
+    .row.fondo-terce.align-items-center.py-4.py-md-3.mb-3
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -308,14 +311,14 @@
         
         .row.justify-content-center.align-items-center
           .col-lg-12
-            .BorTit #[b Figura 18] Evolución de industria
+            .BorTit #[b Figura 18.] Evolución de industria
         .row.align-items-stretch.justify-content-between.mt-3
           .col-sm-6.col-lg-3.mb-4.mb-lg-0.tarjeta--boton.p-4.bg-card-1(data-aos="fade-right")
             .row.justify-content-center.mb-3
               .col-8
                 figure
                   img.mb-5(src='@/assets/ilustraciones/img39.svg',alt='tema5')
-            img.img-t.my-2.mx-5.mb-4(src='@/assets/ilustraciones/img43_1.svg',alt='La figura enuncia las etapas de la industria: primera revolución industrial, segunda revolución industrial, tercera revolución industrial, industria 4.0. ')               
+            img.img-t.my-2.mx-5.mb-4(src='@/assets/ilustraciones/img43_1.svg',alt='La imagen ilustra la evolución de la industria a través de cuatro fases: la Primera Revolución Industrial, caracterizada por la mecanización y el uso de energía hidráulica y vapor; la Segunda Revolución Industrial, marcada por la producción en masa y el uso de la electricidad; la Tercera Revolución Industrial, que introdujo la automatización y la electrónica; y la Industria 4.0, que integra tecnologías digitales avanzadas, como la inteligencia artificial y el Internet de las cosas, para crear fábricas inteligentes.')               
             .col-lg-2
               h3.mb-5.mx-5 Primera Revolución Industrial
 
@@ -347,7 +350,7 @@
               h3.mb-5.mx-5 Industria 4.0                  
         .row.justify-content-center.align-items-center.mt-2
           .col-lg-12
-            figcaption.mb-0 Nota. Sejzer (2018).       
+            figcaption.mb-5 Nota. Sejzer (2018)     
     
 
     Separador
@@ -402,7 +405,7 @@
       .col-md-8.col-lg-6.col-9
         img.img-t.img-a.my-3(src='@/assets/ilustraciones/cindo.svg',alt='tema5')               
 
-    .row.cultu.align-items-center.py-md-3.mb-4
+    .row.cultu.align-items-center.py-md-3.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center(data-aos="fade-down")
     
@@ -426,12 +429,12 @@
                 .col-lg-12.p-5
                   .row.justify-content-center.align-items-center
                     .col-lg-12
-                      .BorTit.mb-4 #[b Figura 19] Ciclo Deming
+                      .BorTit.mb-4 #[b Figura 19] Ciclo #[em Deming]
                       ImagenInfografica.color-primario(data-aos="zoom-in")
 
                         template(v-slot:imagen)
                           figure
-                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La figura presenta un diagrama circular: planear, hacer, verificar y actuar. ')
+                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La imagen muestra el Ciclo Deming, también conocido como PDCA, un modelo de mejora continua de procesos. Este ciclo consta de cuatro etapas: Planificar (Plan), donde se identifican problemas y se desarrollan soluciones; Hacer (Do), que implica implementar las soluciones; Verificar (Check), donde se evalúan los resultados de la implementación; y Actuar (Act), que consiste en estandarizar las soluciones exitosas o comenzar de nuevo si los resultados no fueron los esperados. Este ciclo es fundamental para la gestión de la calidad y la mejora continua en las organizaciones.')
 
                         .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
                           p.mb-2 #[b Planificar] (Plan):
@@ -450,7 +453,7 @@
                           p.mb-2 #[b Actuar] (Act):
                           p Cómo mejorar la próxima vez.                    
 
-                      figcaption Nota. Cal y mayor (2021). 
+                      figcaption Nota. Cal y mayor (2021) 
 
     .d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -459,7 +462,7 @@
 
 
     p.mb-5(data-aos="fade-left") La cultura de calidad hace referencia a los principios que rigen la forma de actuar de las personas que conforman la organización, su objetivo es impartir sistemas de integración y motivar al trabajo en equipo para alcanzar los objetivos propuestos por la empresa, su implementación requiere de capacitaciones efectivas y que se brinden de manera constante, una  comunicación asertiva y eficaz para seguir construyendo una cultura sana y eficaz; la metodología utilizada son los círculos de calidad desarrollados por Kauro Ishikawa.
-    p(data-aos="fade-left") En la siguiente figura 20 se aprecia los componentes de los círculos de calidad.
+    p.mb-5(data-aos="fade-left") En la siguiente figura 20 se aprecia los componentes de los círculos de calidad.
 
     .row.justify-content-center.align-items-center.mb-3 
       .col-sm-12.col-lg-10
@@ -469,12 +472,12 @@
               .col-lg-12
                 .row.justify-content-center.align-items-center
                   .col-lg-12
-                    .BorTit #[b Figura 20] Círculos de calidad desarrollados por Kauro Ishikawa.
+                    .BorTit #[b Figura 20.] Círculos de calidad desarrollados por Kauro Ishikawa.
                     ImagenInfografica.color-primario.mt-3(data-aos="zoom-in")
     
                       template(v-slot:imagen)
                         figure
-                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='La figura enuncia en un diagrama circular, los componentes de los círculos de calidad: Planificar: determinar metas y objetivos, hacer: estimular entrenamiento y educación, verificar: verificar los efectos de la implementación, actuar: tomar acciones apropiadas. ')
+                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='La imagen muestra el Ciclo PDCA (Planificar, Hacer, Verificar, Actuar) junto con las siete herramientas de calidad destacadas por Ishikawa: histogramas, diagramas de causa y efecto, hojas de revisión, diagramas de Pareto, mapas de control, diagramas de dispersión y gráficos. Estas herramientas son fundamentales para identificar, analizar y mejorar los procesos dentro de una organización, apoyando el ciclo de mejora continua PDCA.')
 
                       .tarjeta.color-acento-botoones.p-3(x="22%" y="15%")
                         p Tomar acciones apropiadas. 
@@ -489,7 +492,7 @@
 
                       .tarjeta.color-acento-botoones.p-3(x="23%" y="79%")
                         p Verificar los efectos de la implementación.                 
-                    figcaption.mb-5 Nota. Omegaht (2013). 
+                    figcaption.mb-5 Nota. Omegaht (2013)
 
           .col-sm-12.col-lg-5.mb-5
             .lio.cajon.color-acento-contenido.p-1
@@ -538,10 +541,10 @@
                 
     p.mt-5.text-center Los pasos de cada elemento se pueden observar en la tabla 7. 
     
-    .BorTit.mt-5 Tabla 7 Pasos en la metodología Kaizen     
-    .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
+    .BorTit.mt-5 #[b Tabla 7.] Pasos en la metodología Kaizen     
+    .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")(alt='La tabla detalla los pasos en la metodología Kaizen, divididos en tres fases: Planear, Hacer y Verificar-Actuar. En la fase de Planear, se identifican áreas que requieren mejoras, se forman equipos KAIZEN, se recopilan datos y se analiza la situación actual. Luego, se proponen soluciones y se planifican acciones específicas. En la fase de Hacer, se implementan las mejoras planificadas, documentando el proceso y utilizando herramientas como mapas de flujo de valor y análisis de causa raíz. Finalmente, en la fase de Verificar-Actuar, se evalúan los resultados, se comparan con los objetivos y se estandarizan las prácticas efectivas para asegurar mejoras continuas.')
       .tabla-b__header
-        h5.mb-0 Pasos en la metodología Kaizen
+        h5.mb-0 Pasos en la metodología #[em Kaizen]
       table
         caption Nota: Biblioteca SENA
         tr.tab-bolddd 
@@ -553,28 +556,28 @@
         
         tr
           td.br-tabble.tab-boldoo 2
-          td.br-tabble Identificar/clarificar el objetivo KAIZEN
+          td.br-tabble Identificar/clarificar el objetivo #[em KAIZEN]
           td Mejorar servicio, reducir defectos, mejorar productividad, entre otros. 
 
         tr
           td.br-tabble.tab-boldoo 3
-          td.br-tabble Identificar a los miembros del equipo KAIZEN
+          td.br-tabble Identificar a los miembros del equipo #[em KAIZEN]
           td Nombrar líder de equipo, miembros de la misma área y de diferente área.   
 
         tr
           td.br-tabble.tab-boldoo 4
-          td.br-tabble Completar hoja de preparación del KAIZEN
+          td.br-tabble Completar hoja de preparación del #[em KAIZEN]
           td Realizar guion del desarrollo del evento, debe ser aprobado por líder de área.    
 
         tr
           td.br-tabble.tab-boldoo 5
           td.br-tabble Entender la situación actual
-          td Documentar flujo de información, calcular TACKT time, diagrama espagueti, documentación.   
+          td Documentar flujo de información, calcular #[em TACKT time,] diagrama espagueti, documentación.   
 
         tr
           td.br-tabble.tab-boldoo 6
           td.br-tabble Imaginar situación ideal
-          td Producir al ritmo tackt time, introducir técnica POKA JOKE, eliminar tiempos de espera, analizar movimientos.    
+          td Producir al ritmo tackt time, introducir técnica #[em POKA JOKE], eliminar tiempos de espera, analizar movimientos.    
 
         tr
           td.br-tabble.tab-boldoo 7
@@ -583,19 +586,19 @@
 
         tr
           td.br-tabble.tab-boldoo 8
-          td.br-tabble Desarrollar estrategia KAIZEN
+          td.br-tabble Desarrollar estrategia #[em KAIZEN]
           td Identificar obstáculos, utilizar simulaciones y pruebas.    
 
         tr
           td.br-tabble.tab-boldoo 9
-          td.br-tabble Desarrollar plan de acciones KAIZEN
+          td.br-tabble Desarrollar plan de acciones #[em KAIZEN]
           td Documentar acciones, identificar recursos requeridos, establecer responsabilidades, fechas y tiempos.   
         tr.tab-bolddd 
           <td rowspan="4" style="font-weight: bold; border-right: 1px solid #AFAFAF" >HACER</td>
         tr
           td.br-tabble.tab-boldoo 10
-          td.br-tabble Implementar el KAIZEN
-          td Desarrollar el evento según lo planeado, mejorar métodos, modificar layout, observar comportamientos, realizar cambios   
+          td.br-tabble Implementar el #[em KAIZEN]
+          td Desarrollar el evento según lo planeado, mejorar métodos, modificar #[em layout], observar comportamientos, realizar cambios   
 
 
         tr
@@ -605,7 +608,7 @@
 
         tr
           td.br-tabble.tab-boldoo 12
-          td.br-tabble Documentar actividades KAIZEN
+          td.br-tabble Documentar actividades #[em KAIZEN]
           td Preparar formatos, registrar información, realizar registros fotográficos    
 
         tr
@@ -615,7 +618,7 @@
           td Responsable del evento realizar seguimiento con programa, presentar resultados y estandarizar, sino da resultado volver a iniciar.                                                 
     
     
-    .row.ert.align-items-center.py-4.py-md-3.mb-4
+    .row.ert.align-items-center.py-4.py-md-3.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -667,7 +670,7 @@
       .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
                 h5 Figura 21. 
-                | Ciclo DMAIC
+                | Ciclo #[em DMAIC]
         .cajaaa
           .row.justify-content-center.align-items-center 
             .col-lg-8
@@ -684,14 +687,14 @@
     
     p.mt-5.mb-5(data-aos="fade-right") Se debe establecer diferencia entre los puntos de control y los puntos de control crítico, para tener claridad en el control de calidad de la prenda. Una vez analizamos el flujo de los procesos mediante los diagramas de árbol y flujogramas, se determina en el proceso y en la prenda, los puntos a inspeccionar según su relevancia y así se establece clasificación. 
     
-    .row.justify-content-center.align-items-center       
+    .row.justify-content-center.align-items-center.mb-5       
       .col-lg-10
         .cajon.color-acento-contenido.p-4
           p.mx-4 #[b Puntos de control en confección de lote piloto]
           p.mx-4 El lote piloto son las unidades que se confeccionan con el fin de simular la producción de cierta referencia nueva. Es necesario una vez se desarrolla el producto nuevo, realizar simulaciones para prever fallas en la producción, la información proporcionada una vez se realice el lote piloto brinda confianza y señala las estrategias a efectuar en el momento de la producción de la prenda.  
     
     
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-6
         .fondo21.p-3.mb-4
           .row.justify-content-around.align-items-center
@@ -805,11 +808,6 @@
                         span Descargar
                         i.fas.fa-file-download
 
-  
-    p.mb-4 
-      strong.color Los materiales 
-      | que apoyan la producción como es el caso en mayor medida de la papelería, sus especificaciones técnicas deben corresponder a su aplicación en el proceso productivo. Para validar el uso de los materiales en las diferentes áreas se inspeccionan los siguientes requisitos:   
-
     .row.justify-content-center.align-items-center.mt-3.mb-5
       .col-sm-12.col-lg-10
         .row.justify-content-center.align-items-center.mt-3
@@ -836,7 +834,7 @@
       .col-lg-8
         .BorTit.mt-5 #[b Tabla 8.] Pruebas de calidad en laboratorios para textiles
 
-        .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
+        .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")(alt='La tabla presenta diversas pruebas de calidad en laboratorios para textiles, detallando los ensayos específicos y las normas correspondientes. Incluye el análisis cualitativo de fibras (NTC 1213/AATCC 20/ASTMD 276), análisis cuantitativo (NTC 481/ASTMD 629), coeficiente de fricción (ASTMD 3412), determinación de la densidad lineal (NTC 959), determinación de materias extraíbles (NTC 751), determinación de rizos por unidad de longitud (NTC 840), determinación de la resistencia a la tracción y alargamiento de fibras individuales (NTC 959), y la prueba para verificar que está libre de formaldehído (ISO 14184-1).') 
           table
             caption Nota: Biblioteca SENA
             tr.bg-1
@@ -883,33 +881,33 @@
             .cahii.p-4
               p.mx-2.mb-4 La tela es la materia prima que más consume la prenda, es por ello la importancia de revisar de una forma minuciosa:
                 ul.lista-ul--color.eto.mb-4.mt-4
-                  li.d-flex
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Uniformidad del color.
-                  li.d-flex
+                    p.mb-0 Uniformidad del color.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Deshilados.
-                  li.d-flex
+                    p.mb-0 Deshilados.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Huecos.
-                  li.d-flex
+                    p.mb-0 Huecos.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Motas.
-                  li.d-flex
+                    p.mb-0 Motas.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Contaminación de otros hilos.
-                  li.d-flex
+                    p.mb-0 Contaminación de otros hilos.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Arrugas no relacionadas a su textura.
-                  li.d-flex
+                    p.mb-0 Arrugas no relacionadas a su textura.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Limpieza.
-                  li.d-flex
+                    p.mb-0 Limpieza.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Anchos de tela parejos.
-                  li.d-flex
+                    p.mb-0 Anchos de tela parejos.
+                  li.d-flex.mb-0
                     i.fas.fa-car-side
-                    | Orillo de tela.
+                    p.mb-0 Orillo de tela.
           .col-md10.col-lg-6.col-10
             img.img-t.img-a(src="@/assets/ilustraciones/rute.svg",alt='tema5')
         
@@ -925,7 +923,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
-                  p.my-2 Anexo. Códigos de defectos (denim, casual, militar, work).
+                  p.my-2 Anexo. Códigos de defectos (denim, casual, militar, #[em work]).
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_12_Codigos_de_defectos_Denim_casual_militar_work.pdf')" target="_blank")
                     span Descargar
@@ -946,7 +944,7 @@
         img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png",alt='tema5')
             
 
-    .row.justify-content-center.mb-3
+    .row.justify-content-center.mb-5
       .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
         .tarjeta-avatar
           img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg',alt='tema5')
@@ -1033,7 +1031,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0          
-                      p.my-2 Anexo. Hoja de patronaje y corte.
+                      p.my-2 Anexo. Hoja de inspección – Patronaje y corte     
                     .col-sm-auto
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf')" target="_blank")
                         span Descargar
@@ -1056,9 +1054,9 @@
     .row(data-aos="zoom-in")
       .col-lg-4.mb-5(data-aos="fade-left")
         figure.d-lg-block.d-none.my-3
-          img(src='@/assets/ilustraciones/345.png',alt='tema5') 
+          img.my-4(src='@/assets/ilustraciones/345.png',alt='tema5') 
       .col-lg-8.my-3
-        AcordionA.activo(data-aos="flip-up")(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+        AcordionA.activo(data-aos="flip-up")(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss")
           .row.justify-content-center.align-items-center(titulo="Trazo")
             .col-lg-10.mb-4.mb-md-0
               .row.justify-content
@@ -1179,17 +1177,17 @@
             img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
   
-        .row.justify-content-center.align-items-center.mt-5.mb-5
+        .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-10
             .row.justify-content-center.align-items-center
               .col-sm-12.col-lg-6
-                .cerrte.p-4.mb-5
+                .cerrte.p-4.mb-4
                   p.my-4.mx-4 Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
                   p.mb-2.mx-4 #[b 1.] La preparación
                   p.mb-2.mx-4 #[B 2.] El ensamble            
                   p.mb-4.mx-4 #[b 3.] La terminación           
                   p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
-              .col-md-10.col-lg-6.col-10.mb-0
+              .col-md-10.col-lg-6.col-10.mb-4
                 img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
 
     
@@ -1224,30 +1222,30 @@
           .col-md-12.col-lg-6.col-12.mb-4
             .nome.p-4
               ul.lista-ul--color.eto.mx-4.my-4
-                li.d-flex
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Iluminación
-                li.d-flex
+                  p.mb-0 Iluminación
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Ventilación
-                li.d-flex
+                  p.mb-0 Ventilación
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Temperatura
-                li.d-flex
+                  p.mb-0 Temperatura
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Ruido
-                li.d-flex
+                  p.mb-0 Ruido
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Espacio
-                li.d-flex
+                  p.mb-0 Espacio
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Aseo
-                li.d-flex
+                  p.mb-0 Aseo
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Personal capacitado
-                li.d-flex
+                  p.mb-0 Personal capacitado
+                li.d-flex.mb-0
                   i.fas.fa-car-side
-                  | Estado de ánimo de empleados
+                  p.mb-0 Estado de ánimo de empleados
               p.mx-4.mb-2 En consecuencia, los factores directos o indirectos si son mal ejecutados afectan la calidad y rendimiento de la empresa.
 
     p.mb-5 Existen otras técnicas de análisis como son las pruebas y ensayos en laboratorios especializados que evalúan la prenda según normas nacionales e internacionales; por ejemplo, la prueba de uso en la que se compara los resultados planteados y los reales obtenidos.

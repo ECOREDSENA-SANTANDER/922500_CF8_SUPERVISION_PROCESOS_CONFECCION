@@ -28,18 +28,18 @@
             p.text-dark Cuyos criterios de calidad son establecidos desde la supervisión en las áreas de cada empresa, aquella prenda que haya quedado con costura torcida o si no hay una buena terminación es devuelta.
             .row.justify-content.align-items.mt-5       
               .col-lg-8               
-                .BorTit.mb-4 #[b Figura 10] Revisión de prendas
+                .BorTit.mb-4 #[b Figura 10.] Revisión de prendas
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img22.jpg',alt='Se almacenan las prendas para que las operarias puedan hacer revisión y control de calidad para que no lleve hilos o imperfecciones')
-                figcaption  Nota. C.I. JEANS (2012).        
+                figcaption  Nota. C.I. JEANS (2012)       
 
       .tarjeta.color-acento-conte--borde.p-4(titulo="3. Planchado de prendas")
         .row.justify-content-center.align-items-center
-          .col-lg-11.mb-4
+          .col-lg-11.mb-3
             h4 3. Planchado de prendas
             p Dependiendo de cada prenda y de las bases textiles, se procede a pasar al departamento de plancha para que quede acorde criterios de planchado como en la figura 11.
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-7             
-              .BorTit.mb-4 #[b Figura 11] Planchado manual de prendas
+              .BorTit.mb-4 #[b Figura 11.] Planchado manual de prendas
               img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img23.png',alt='En la imagen se puede apreciar, un planchado manual, esto se puede hacer cuando la producción no es alta.')             
             .col-lg-5
               .cajon.color-acento-contenido.p-4
@@ -52,7 +52,7 @@
             p En este paso se dispone a la respectiva colocación de etiquetas de la empresa o cliente al que está destinada la entrega de una producción determinada como se observa en la figura 12.
           .row.justify-content-center.align-items-center.mb-0 
             .col-lg-7             
-              .BorTit.mb-4 #[b Figura 12] Etiquetado de prendas
+              .BorTit.mb-4 #[b Figura 12.] Etiquetado de prendas
               img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img24.png',alt='Las prendas pasan a proceso de etiquetado con los equipos necesarios para que queden con las especificaciones de la prenda.')             
             .col-lg-5
               .cajon.color-acento-contenido.p-3
@@ -65,13 +65,13 @@
             p Al pasar a bodega es importante destacar que cada empresa determina el empaque para bodega y para entrega, no todas desarrollan los parámetros para este proceso de la misma manera, dado que pueden ser dos pasos que implementen por separado, es decir, que una vez en bodega dependiendo del cliente se despachará la mercancía con indicaciones particulares como se muestra en las figuras 13 y 14. 
             .row.justify-content-center.align-items-center.mt-5       
               .col-lg-7
-                .BorTit.mb-4 #[b Figura 13] Empaque de prendas
+                .BorTit.mb-4 #[b Figura 13.] Empaque de prendas
                 img.img-t.img-a.my-0(src='@/assets/ilustraciones/img25.png',alt='Se expone un espacios con operarios, en donde tienen a su alcance las prendas debidamente planchadas y con revisión de calidad, para luego pasar a empacado una por una')
-                figcaption   Nota. Rintex (2014).
+                figcaption   Nota. Rintex (2014)
               .col-lg-5
-                .BorTit.mb-4 #[b Figura 14] Embalaje de prendas
+                .BorTit.mb-4 #[b Figura 14.] Embalaje de prendas
                 img.img-t.img-a.my-0(src='@/assets/ilustraciones/img26.png',alt='Después de empacar prenda a prenda, se procede al embalaje  dependiendo el destino a donde deben llegar las prendas.')
-                figcaption Nota. CARVIMSA. (S.F.). 
+                figcaption Nota. CARVIMSA. (S.F.)
 
     p.mt-5.text-center A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
     .video.mt-5
