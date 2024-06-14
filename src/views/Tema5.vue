@@ -1056,7 +1056,7 @@
       .col-lg-8.my-3
         AcordionA.activo(data-aos="flip-up")(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss")
           .row.justify-content-center.align-items-center(titulo="Trazo")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content
                 .col-lg-12
                   h4 Alineación de piezas 
@@ -1072,7 +1072,7 @@
                   p Sea conforme el ancho útil de la tela.  
 
           .row.justify-content-center.align-items-center(titulo="Tendido")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   h4 Alineación de capas 
@@ -1099,7 +1099,7 @@
                   p Defectos de tela, marcar lo más posible, piques, marras, entre otras. Cuidar la combinación de rollos y de colores para evitar contaminación entre los colores por los residuos de las fibras en el corte del tejido. 
 
           .row.justify-content-center.align-items-center(titulo="Corte")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   h4 Uniformidad 
@@ -1117,7 +1117,7 @@
                   h4 Corte de piezas de forro y entretela
                   p Revisar el material y las piezas se corten conforme la ficha técnica y la programación de la producción.                                      
           .row.justify-content-center.align-items-center(titulo="Tiqueteado")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   h4 Ubicación 
@@ -1128,7 +1128,7 @@
                   p que la información corresponda a cada pieza, debe contener el número consecutivo de la pieza en orden, según el tendido, además incluir talla y referencia.                   
 
           .row.justify-content-center.align-items-center(titulo="Fusionado")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   h4 Temperatura 
@@ -1151,7 +1151,7 @@
                   p Para evitar manchas en las prendas fusionadas.
 
           .row.justify-content-center.align-items-center(titulo="Paqueteado")
-            .col-lg-10.mb-4.mb-md-0
+            .col-lg-12.mb-4.mb-md-0
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   h4 Cantidad 
