@@ -26,7 +26,7 @@
           .col-lg-11
             h4.text-dark 2. Revisión detallada
             p.text-dark Cuyos criterios de calidad son establecidos desde la supervisión en las áreas de cada empresa, aquella prenda que haya quedado con costura torcida o si no hay una buena terminación es devuelta.
-            .row.justify-content.align-items.mt-5       
+            .row.justify-content.align-items.mb-4       
               .col-lg-8               
                 .BorTit.mb-4 #[b Figura 10.] Revisión de prendas
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img22.jpg',alt='Se almacenan las prendas para que las operarias puedan hacer revisión y control de calidad para que no lleve hilos o imperfecciones')
@@ -37,26 +37,26 @@
           .col-lg-11.mb-3
             h4 3. Planchado de prendas
             p Dependiendo de cada prenda y de las bases textiles, se procede a pasar al departamento de plancha para que quede acorde criterios de planchado como en la figura 11.
-          .row.justify-content-center.align-items-center.mb-0
-            .col-lg-7             
-              .BorTit.mb-4 #[b Figura 11.] Planchado manual de prendas
-              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img23.png',alt='En la imagen se puede apreciar, un planchado manual, esto se puede hacer cuando la producción no es alta.')             
-            .col-lg-5
-              .cajon.color-acento-contenido.p-4
-                p.mt-4.mb-2.mx-3 Cada empresa emplea las herramientas industriales para las áreas de planchado, existen máquinas en el mercado que pueden planchar automáticamente las prendas, esto es implementado cuando la producción es a gran escala para agilidad y cumplimiento de tiempos en producción de referencias.              
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-7             
+                .BorTit.mb-3 #[b Figura 11.] Planchado manual de prendas
+                img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img23.png',alt='En la imagen se puede apreciar, un planchado manual, esto se puede hacer cuando la producción no es alta.')             
+              .col-lg-5
+                .cajon.color-acento-contenido.p-3
+                  p.mt-4.mb-2.mx-3 Cada empresa emplea las herramientas industriales para las áreas de planchado, existen máquinas en el mercado que pueden planchar automáticamente las prendas, esto es implementado cuando la producción es a gran escala para agilidad y cumplimiento de tiempos en producción de referencias.              
 
       .tarjeta.color-acento-conte--borde.p-4(titulo="4. Etiquetado de prendas")
         .row.justify-content-center.align-items-center
           .col-lg-11
             h4 4. Etiquetado de prendas
             p En este paso se dispone a la respectiva colocación de etiquetas de la empresa o cliente al que está destinada la entrega de una producción determinada como se observa en la figura 12.
-          .row.justify-content-center.align-items-center.mb-0 
-            .col-lg-7             
-              .BorTit.mb-4 #[b Figura 12.] Etiquetado de prendas
-              img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img24.png',alt='Las prendas pasan a proceso de etiquetado con los equipos necesarios para que queden con las especificaciones de la prenda.')             
-            .col-lg-5
-              .cajon.color-acento-contenido.p-3
-                p.mt-4.mb-5.mx-3 Hay fábricas dedicadas a la confección de prendas de vestir que solo maquilan, es decir realizan pedidos para otras marcas y en este proceso de etiquetado una empresa maquiladora deberá velar porque la etiqueta corresponda a cada referencia y a las especificaciones de cada cliente.
+            .row.justify-content-center.align-items-center.mb-0 
+              .col-lg-7             
+                .BorTit.mb-4 #[b Figura 12.] Etiquetado de prendas
+                img.img-t.img-a.mb-5(src='@/assets/ilustraciones/img24.png',alt='Las prendas pasan a proceso de etiquetado con los equipos necesarios para que queden con las especificaciones de la prenda.')             
+              .col-lg-5
+                .cajon.color-acento-contenido.p-2
+                  p.mt-4.mb-5.mx-3 Hay fábricas dedicadas a la confección de prendas de vestir que solo maquilan, es decir realizan pedidos para otras marcas y en este proceso de etiquetado una empresa maquiladora deberá velar porque la etiqueta corresponda a cada referencia y a las especificaciones de cada cliente.
       
       .tarjeta.color-acento-conte--borde.p-4(titulo="5. Empaque de prendas")  
         .row.justify-content-center.align-items-center

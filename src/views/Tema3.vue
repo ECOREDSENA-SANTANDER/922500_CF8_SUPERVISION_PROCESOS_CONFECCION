@@ -7,18 +7,18 @@
         span 3
       h1(data-aos="zoom-in-right") Confección de prendas de vestir
     
-    .row.justify-content-center.align-items-center.mt-2
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-5.col-10
         img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='tema3')      
       .col-sm-12.col-lg-7
         p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
 
 
-    .row.fondo-pabg.align-items-center.py-4.py-md-3.mb-4.my-5
+    .row.fondo-pabg.align-items-center.py-4.py-md-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4(data-aos="fade-down")    
+        .row.justify-content-center.mb-0(data-aos="fade-down")    
 
-        .row.justify-content-center.align-items-center.mt-5
+        .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-8
             p.mb-4 Es importante recordar que hay procesos previos que se deben tener claros para llegar a este punto como son:
             ul.lista-ul--color
@@ -43,7 +43,7 @@
           .col-md-10.col-lg-4.col-10
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/ropa.png', alt='tema3')       
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-auto
         a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
           span Abrir modal figura 6: ficha técnica de prenda de vestir
@@ -55,7 +55,7 @@
         .col-lg-6.col-md-10.col-10.mb-4
           .fondo4.p-5
             .titulo-sexto.color-acento-contenido
-              h5 Figura 6 
+              h5 Figura 6. 
               | Ficha técnica de prenda de vestir
             figure
               img.img-a.img-t(src='@/assets/ilustraciones/img15.jpg', alt='La imagen muestra una ficha técnica detallada para la confección de una chaqueta llamada “Campera Joey” de la marca Complot, correspondiente a la temporada otoño/invierno 2014. El molde está disponible en varias tallas (XS a L) y utiliza una tela base de cuero con forro de poliéster. Las especificaciones incluyen detalles como la ubicación de las costuras laterales, el tipo de cierre, y la construcción de las mangas. También se indican las instrucciones de cuidado, los datos de materia prima (como los botones y cierres), y las cantidades requeridas para cada componente. Además, se proporcionan ilustraciones del diseño frontal y trasero de la chaqueta, y se explica que las mangas se deben armar primero para la correcta colocación de la prenda.')
@@ -63,7 +63,7 @@
 
     
 
-    .row.justify-content-center.align-items-center.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-12.col-12
         .cajontt.color-acento-contenido.p-3 
           .row.justify-content-center.align-items-center
@@ -74,10 +74,10 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p #[b Enlace web].A continuación, puede revisar las indicaciones de insumos con referencias como por ejemplo el tipo de hilos.
+                  p #[b Enlace web.] A continuación, puede revisar las indicaciones de insumos con referencias como por ejemplo el tipo de hilos.
         
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-12.col-lg-10.col-12
         .row.justify-content-center
           .col-lg-8
@@ -88,7 +88,7 @@
             img(src='@/assets/ilustraciones/pal.svg', alt='tema3')       
 
 
-    .row.justify-content-center.align-items-center.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-12
         .cajontt.color-acento-contenido.p-5 
           .row.justify-content-center
@@ -155,7 +155,7 @@
         .col-lg-6.col-md-10.col-10.mb-4
           .fondo4.p-5
             .titulo-sexto.color-acento-contenido
-              h5 Figura 7
+              h5 Figura 7.
               | Orden operacional de camisa
             figure
               img.img-a.img-t(src='@/assets/ilustraciones/img17.png', alt='La imagen muestra un diagrama del orden operacional para la confección de una camisa de la empresa Hernandez Srl, marca Papillon, línea casual. El modelo es una camisa a cuadros con manga 3/4 y recortes en delantero y trasero. El diagrama detalla cada paso del proceso de confección, desde el trabajo en el cuello y las mangas, pasando por la unión de los diversos componentes del cuerpo de la camisa, hasta los pasos finales como el etiquetado y el empaquetado. Cada operación está numerada y especifica las acciones necesarias, como fusionar, unir, pegar, coser y planchar, junto con los recursos requeridos para cada paso (máquinas, herramientas, etc.). El diagrama también incluye la fecha de creación y la aprobación del proceso.')
@@ -166,19 +166,19 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
   
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-4
           .col-lg-12.bg-4.p-5
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8.bg-4
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 8
+                  h5 Figura 8.
                   | Orden operacional de blusa
                 figure
                   img(src='@/assets/ilustraciones/img18.jpg', alt='La imagen muestra una ficha técnica para la confección de una camisa de cuadros con manga 3/4 y recortes en delantero y trasero de la marca Papillon, línea casual. Detalla cada paso del proceso de confección, desde el surfilado de recortes y la unión de costados delanteros y traseros hasta el asentado de costuras, junto con los diagramas visuales correspondientes. Indica el tipo de máquina necesaria para cada operación (O3H, R1A, PL), proporciona ejemplos de cómo debería verse cada paso completado, y especifica la densidad de puntadas requerida, utilizando hilo de poliéster.')
                   figcaption Nota. Pellegrino (2011). 
 
 
-        p.mt-5 Como se puede observar en las dos figuras anteriores, aunque son fichas distintas comparten las indicaciones en cada proceso a desarrollar dentro de la confección.  Como material para este componente se puede visualizar una ficha de orden operacional que puede ser tenida en cuenta para ejercicios futuros por parte del aprendiz.
+        p.mb-4 Como se puede observar en las dos figuras anteriores, aunque son fichas distintas comparten las indicaciones en cada proceso a desarrollar dentro de la confección.  Como material para este componente se puede visualizar una ficha de orden operacional que puede ser tenida en cuenta para ejercicios futuros por parte del aprendiz.
     
         .row.justify-content-center.align-items-center.mb-3
           .col-sm-12.col-lg-12
@@ -219,7 +219,7 @@
         p.mb-4.my-4 Dentro de la confección de prendas, existen procesos tanto mecánicos como genéricos esenciales para el ensamblaje de sus distintas partes. Por ello, en el material proporcionado se encuentran los recursos necesarios para identificar y seguir el paso a paso de técnicas clave como la inserción de cremalleras, la adición de bolsillos, la unión de mangas, la elaboración de puños y dobladillos, entre otros aspectos. Esta información resulta fundamental para entender los procesos mencionados; cabe destacar que cada fábrica de producción tiene sus propios procedimientos, que se ven facilitados por el uso de maquinaria especializada, acelerando así el proceso de ensamblaje, sin embargo, la definición de estos métodos y la optimización de los flujos de trabajo dependen exclusivamente de la política de cada empresa.
               .row
                 .col-sm-12.col-lg-12  
-                  .fondo21.p-3.mb-4
+                  .fondo21.p-3
                     .row.justify-content-around.align-items-center
                       .col-3.col-sm-2.col-lg-2
                         img.img-t.img-a(src="@/assets/ilustraciones/pef.svg",alt='tema3')
@@ -1111,11 +1111,11 @@
                             i.fas.fa-video
 
     
-    p(data-aos="fade-right") A continuación, se presenta un vídeo tutorial sobre 
+    p.mb-4(data-aos="fade-right") A continuación, se presenta un vídeo tutorial sobre 
       strong.color los hilos utilizados en la confección
       |, que esperamos sirva como complemento a la información que se encuentra en el componente formativo.
 
-    .video.mt-5
+    .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/3jnetG5VBEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Video. Description
 
@@ -1125,8 +1125,8 @@
     
     p.mb-4 En la siguiente tabla se muestra el proceso de confección de un pantalón.
 
-    .BorTit.mt-5 #[b Tabla 4.]  Orden operacional de pantalón clásico      
-    .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
+    .BorTit.mb-4 #[b Tabla 4.]  Orden operacional de pantalón clásico      
+    .tabla-b.color-acento-contenido.mb-0(data-aos="zoom-in")
       table.mb-4
         caption Nota: Biblioteca SENA
         tr.bg-1
@@ -1153,7 +1153,7 @@
       .col-sm-12.col-lg-8
         .tarje.color-primario.he-4-cus.px-4.my-4.pt-4
           p.mb-4.mx-4.text-center #[b A continuación, se presentan un vídeo tutorial sobre Confección de pantalón de hombre, que esperamos sirva como complemento de la información que se encuentra en el curso.]
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-sm-12.col-lg-10.mb-3 
               .fondo21.p-3.mb-4
                 .row.justify-content-around.align-items-center
@@ -1172,9 +1172,9 @@
     #t_3_4.titulo-segundo
       .h2 3.4 Orden operacional de confección de prendas en tejido de punto
     
-    p.mt-5 En la siguiente tabla se muestra el proceso operacional para la confección de prendas en tejido de punto.   
+    p.mb-4 En la siguiente tabla se muestra el proceso operacional para la confección de prendas en tejido de punto.   
     
-    .BorTit.mt-5 #[b Tabla 5.]  Orden operacional de camiseta tipo polo      
+    .BorTit.mb-4 #[b Tabla 5.]  Orden operacional de camiseta tipo polo      
     .tabla-b.color-acento-contenido.my-3.mb-5(data-aos="zoom-in")(alt='La tabla describe el orden operacional para confeccionar un pantalón clásico, enfocándose en la preparación de piezas y el proceso de planillado. Incluye instrucciones para montar cierres y cremalleras, preparar bolsillos de diversos tipos y montar la pretina, destacando la importancia de identificar correctamente cada pieza y su secuencia de ensamblaje.')
       .teb.tabla-b__header
         h4.mb-0  Confección de camiseta tipo polo     
@@ -1611,7 +1611,7 @@
                             span Ir al sitio
                             i.fas.fa-video   
 
-    .BorTit.mt-4 #[b Tabla 6.]  Orden operacional de pantalón sudadera       
+    .BorTit.mb-4 #[b Tabla 6.]  Orden operacional de pantalón sudadera       
     .tabla-b.color-acento-contenido.my-4.mb-5(data-aos="zoom-in")(alt='La tabla describe el orden operacional para confeccionar una camiseta tipo polo, dividida en tres etapas: preparación, ensamblaje y terminados. En la preparación, se trabaja en la pechera, cuello y bolsillos. En el ensamblaje, se unen los hombros, se montan las mangas, se cierran los costados y se dobladilla el ruedo. En los terminados, se realizan operaciones como ojalar, poner botones, revisar, planchar y empaquetar.')
       .tabla-b__header
         h5.mb-0.text-white Confección de pantalón sudadera      
@@ -1628,7 +1628,7 @@
           td Revisar, empacar entre otras.                                              
 
     
-    .mb-4.d-flex.mb-5
+    .mb-0.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confección de pantalones deportivos
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 

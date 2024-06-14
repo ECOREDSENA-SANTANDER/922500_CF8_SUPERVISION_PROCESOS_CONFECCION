@@ -7,7 +7,7 @@
         span 2
       h1(data-aos="zoom-in-right") Normas generales para la confección de prendas de vestir 
 
-    .row.fondo-gr.align-items-center.py-4.py-md-3.mb-5
+    .row.fondo-gr.align-items-center.py-4.py-md-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center(data-aos="fade-down")
     
@@ -17,16 +17,16 @@
             .col-md-10.col-lg-5.col-10
               img.img-t.img-a.mt-4.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
   
-    p.mb-4(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
+    p.mb-0(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
     
     Separador
     #t_2_1.titulo-segundo
       .h2 2.1  Normas generales de seguridad para la labor en la confección de prendas  
 
 
-    p.mt-5(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias como las que puede explorar en el Figura 1.
+    p.mb-4(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias como las que puede explorar en el Figura 1.
     
-    .row.justify-content-center.align-items-center.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-12
         .row.justify-content-center
           .col-lg-6.col-md-10.col-10.mb-4 
@@ -34,7 +34,7 @@
           .col-lg-6.bg-35.mb-3.p-5
             .row.justify-content-center.align-items-center
               .col-lg-12.mt-4
-                .BorTit #[b Figura 1] Molestias más comunes
+                .BorTit #[b Figura 1.] Molestias más comunes
                 .bg34   
                   .row.justify-content-center.align-items-center.mt-4
                     .col-lg-6 
@@ -50,7 +50,7 @@
                     .col-lg-12                        
                       figcaption Nota: Singer (2014) 
     
-    p.mb-5 Por ello para esa misma disposición en esta actividad se deben contemplar:             
+    p.mb-5 Por ello para esa misma disposición en esta actividad se deben contemplar aspectos como:
     
 
     .row.justify-content-center.align-items-center.mb-5
@@ -87,17 +87,17 @@
     
     p.mt-5.mb-4 Por lo anterior, se sugieren las siguientes condiciones iniciales como en la figura 2 para evitar molestias durante la práctica:      
 
-    .bg1.mb-5
+    .bg1.mb-0
       SlyderA
         .row.justify-content-center.align-items-top.p-5
           .col-lg-3.col-md-12.col-12.mb-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 2
+              h5 Figura 2.
               | Postura ideal
             .cajablanca.p-2
               img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen muestra una figura que ilustra la postura ideal para sentarse. Las recomendaciones incluyen mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla; repartir el peso entre la parte inferior de los glúteos; colocar las rodillas en ángulo recto con las caderas; usar un reposapiés si los pies no llegan al suelo; y evitar permanecer demasiado tiempo en la misma posición. ")
             figcaption.segundo Nota. Singer (2014)
-          .col-lg-5.col-md-12.col-12.mb-4 
+          .col-lg-6.col-md-12.col-12.mb-4 
             ul.lista-ul--color
               li.d-flex.mb-0
                 i.fas.fa-car-side.mx-3
@@ -121,12 +121,12 @@
             .row.justify-content-center.align-items-top.my-5
               .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 3
+                  h5 Figura 3.
                   | Postura en máquina
                 .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen muestra recomendaciones para mantener una postura adecuada al trabajar en una máquina. Se aconseja que la silla esté próxima a la mesa de trabajo para evitar inclinarse hacia adelante, y que sea ergonómica con bordes redondeados y asiento acolchonado o con cojín. La altura de la mesa y la silla debe ser acorde a la estatura del operario y a la altura de la mesa. Además, el material para confeccionar debe estar al alcance del operario para evitar estiramientos y desplazamientos innecesarios. En la mesa deben estar solo los elementos necesarios para la labor.")
-                figcaption.segundo.mb-4 Nota. Singer (2014)
-              .col-lg-5.col-md-12.col-12.mb-4    
+                figcaption.segundo.mb-0 Nota. Singer (2014)
+              .col-lg-6.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -150,12 +150,12 @@
             .row.justify-content-center.align-items-top.my-5
               .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
-                  h5.per Figura 4
+                  h5.per Figura 4.
                   | Postura de pie
                 .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img13.svg' alt="La imagen proporciona recomendaciones para mantener una postura correcta al estar de pie. Sugiere mantener un pie en alto apoyándolo sobre un escalón o reposapiés incorporado a la mesa. También se aconseja evitar estar agachado o encorvado, y utilizar calzado ergonómico para mayor comodidad y soporte.")
                 figcaption.segundo.mb-4 Nota. Singer (2014)
-              .col-lg-5.col-md-12.col-12  
+              .col-lg-6.col-md-12.col-12  
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -174,12 +174,12 @@
             .row.justify-content-center.align-items-top.my-5
               .col-lg-3.col-md-12.col-12
                 .titulo-sexto.color-acento-contenido
-                  h5.per Figura 5
+                  h5.per Figura 5.
                   | Carga de elementos
                 .cajablanca.p-2
                   img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen muestra las recomendaciones para levantar objetos de forma segura. Se sugiere flexionar las rodillas en lugar de la espalda y tener los pies firmes y bien apoyados. También se recomienda levantarse utilizando la fuerza de las piernas, no de la espalda, y mantener los objetos cerca del cuerpo. Si el peso es excesivo, es preferible solicitar ayuda para evitar lesiones.")
                 figcaption.segundo.mb-4 Nota. Singer (2014)
-              .col-lg-5.col-md-12.col-12
+              .col-lg-6.col-md-12.col-12
                 ul.lista-ul--color
                   li.d-flex.mb-0
                     i.fas.fa-car-side.mx-3
@@ -195,8 +195,8 @@
     #t_2_2.titulo-segundo
       .h2(data-aos="fade-right") 2.2 Condiciones y espacios en el trabajo  
 
-    p.mt-5 El entorno laboral debe diseñarse prioritariamente para salvaguardar la integridad física y psicológica de los trabajadores, creando condiciones óptimas que promuevan su bienestar. La falta de un ambiente de trabajo adecuado o la ausencia de elementos de protección adecuados puede tener consecuencias negativas, destacando la importancia de priorizar la seguridad y la salud en el trabajo.  Evitando así lo siguiente:
-    .row.justify-content-center.align-items-center.mb-5
+    p.mb-4 El entorno laboral debe diseñarse prioritariamente para salvaguardar la integridad física y psicológica de los trabajadores, creando condiciones óptimas que promuevan su bienestar. La falta de un ambiente de trabajo adecuado o la ausencia de elementos de protección adecuados puede tener consecuencias negativas, destacando la importancia de priorizar la seguridad y la salud en el trabajo.  Evitando así lo siguiente:
+    .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-7.mb-5
         .row.justify-content-center.align-items-center
           .col-lg-2
@@ -241,7 +241,7 @@
       .col-sm-9.col-lg-5.col-9
         img.img-t.img-a.my-2(src='@/assets/ilustraciones/imageen.png', alt='tema2')           
     
-    p.mt-5(data-aos="fade-right") Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.
+    p.mb-4(data-aos="fade-right") Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.
 
 
 
@@ -263,8 +263,8 @@
           .col-lg-11.col-md-12.my-3
             p Generar espacios de trabajo en los que la iluminación es un factor importante es imprescindible, pero esta debe ser adecuada, dado que puede llegar afectar tanto por insuficiente o excesiva, ya que toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Si este factor no es vigilado, puede ocasionar efectos como: irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina.
             p A continuación en la tabla 2, se presentan los mínimos de intensidad recomendada.
-            .BorTit.mt-5 #[b Tabla 2] Mínimos de intensidad recomendada en espacios de trabajo            
-            .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
+            .BorTit.mb-4 #[b Tabla 2.] Mínimos de intensidad recomendada en espacios de trabajo            
+            .tabla-b.color-acento-contenido(data-aos="zoom-in")
               table
                 caption Nota: Biblioteca SENA
                 tr.bg-1

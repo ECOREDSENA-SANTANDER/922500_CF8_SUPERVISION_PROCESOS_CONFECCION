@@ -12,7 +12,7 @@
         .row.justify-content-center.mb-0(data-aos="fade-down")
 
 
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-4
             .col-sm-12.col-lg-8
               p.mb-4 El control de calidad permite realizar un análisis a partir de la reflexión y la observación de actividades y procesos ejecutados en las diferentes áreas de la empresa o taller, estableciendo así, puntos de control en patronaje, corte y trazo, compras de insumos, confección y producto terminado. Esta inspección no solo se encauza en detectar fallas, defectos y problemas de la cadena productiva, su gran finalidad es anticiparse a ellos y así lograr una optimización en los métodos de fabricación, mejoramiento continuo, reducción de costos y posteriormente potencializar la productividad.
                 .col-lg-12
@@ -21,17 +21,18 @@
             .col-md-10.col-lg-4.col-10
               img.img-t.img-a.mb-2(src='@/assets/ilustraciones/img27.png',alt='tema5')
         
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-4
             .col-sm-12.col-lg-8
               .row.justify-content-center
                 .col-lg-7   
-                  p.mb-5 Es importante mencionar los 
+                  p.mb-4 Es importante mencionar los 
                     strong.color principios de la calidad 
                     | para desarrollar el control de esta:
                   ul.lista-ul--color.ets
                     li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
-                      p.mb-0 Mejora
+                      p.mb-0 Mejora continua
+                    li.d-flex.mb-1
                       i.fas.fa-car-side.mb-0
                       p.mb-0 Evitar inspecciones masivas.
                     li.d-flex.mb-1
@@ -120,7 +121,7 @@
     p.mb-0 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.
 
     Separador
-    .row.fondo-huo.align-items-center.py-4.mb-0
+    .row.fondo-huo.align-items-center.py-4.mb-4
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-0(data-aos="fade-down")
     
@@ -164,20 +165,17 @@
                 p.mb-0 #[b c.] Tiempos de entrega. 
 
 
-    .row.justify-content-center.align-items-center.mb-5.mt-5 
+    .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-10
         .row.justify-content-center
-          .col-lg-7
+          .col-lg-7.my-4
             p.mb-4 En lo que respecta al 
               strong.color producto
               |, existen los siguientes tipos de requisitos:
             ul.lista-ul--color.et
               li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                p.mb-1 Función del producto:  según su desempeño, generalmente responde a la pregunta
-              li.d-flex.mb-0
-                i.fas.fa-car-side.mb-0
-                p.mb-1 para qué sirve.
+                p.mb-1 Función del producto:  según su desempeño, generalmente responde a la pregunta ¿para qué sirve?
               li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
                 p.mb-1 Características técnicas: cantidades, peso, tamaño, color, entre otras.
@@ -200,12 +198,12 @@
             img(src='@/assets/ilustraciones/img74.svg',alt='tema5')      
 
 
-    p.mb-0(data-aos="fade-left") Conforme lo mencionado anteriormente también se pueden clasificar los requisitos de acuerdo con las características directas del producto, de la organización o externos como es el cliente y la normatividad. Dado que se presentan variaciones en los productos es preciso permitir tolerancias.
+    p.mb-4(data-aos="fade-left") Conforme lo mencionado anteriormente también se pueden clasificar los requisitos de acuerdo con las características directas del producto, de la organización o externos como es el cliente y la normatividad. Dado que se presentan variaciones en los productos es preciso permitir tolerancias.
 
-    .row.justify-content-center.align-items-center.mt-5       
+    .row.justify-content-center.align-items-center.mb-0      
       .col-lg-5
         .cajon.color-acento-contenido.p-2
-          .row.justify-content-center.align-items-center.p-2.mb-3      
+          .row.justify-content-center.align-items-center.p-2.mb-4      
             .col-lg-12.col-md-10.col-10
               img.img-t.img-a(src='@/assets/ilustraciones/img76.svg',alt='tema5')            
               .row.justify-content-center  
@@ -229,15 +227,15 @@
                       p.mb-1 Mejoras en los procesos.
                     li.d-flex.mb-0
                       i.fas.fa-car-side.mb-0
-                      p.mb-1 Aumento de la productividad.
-      .col-lg-5.mb-5
+                      p.mb-0 Aumento de la productividad.
+      .col-lg-5.mb-4
         .BorTit.mt-5 #[b Figura 16.] Beneficios del control de calidad
         img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img75.svg',alt='La figura presenta un diagrama donde se enuncian los beneficios del control de calidad: costos, precios, cliente, trazabilidad, productividad. ') 
-        figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
+        figcaption.mb-2 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
-    p.mt-5 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
+    p.mb-4 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
 
-    .row.justify-content-center.align-items-center.mt-5.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         .BorTit.mb-4 #[b Figura 17.] Procesos para producir una prenda
         img.img-t.img-a(src='@/assets/ilustraciones/img38.jpg',alt='la figura presenta una diagrama de flujo con los procesos para la producción de una prenda de vestir: proceso de diseño(características físicas del producto, patronaje,materia prima), proceso de extendido, tizado y corte, proceso de confección, proceso de intervención(estampados, bordados, lavadora) y proceso de terminación(limpieza, planchado y empaque.')                        
@@ -276,14 +274,14 @@
                     |, análisis de causas de defectos. 
           .col-md-8.col-lg-6.col-9
             .cojo
-              img.mb-5(src='@/assets/ilustraciones/nuev.svg',alt='tema5') 
+              img.mb-2(src='@/assets/ilustraciones/nuev.svg',alt='tema5') 
     
     .row.justify-content-center.align-items-stretch.mb-2      
       .col-sm-12.col-lg-10
         .cajon.color-secundario.caj.p-4
           p.mb-0 #[b Tipos de auditorías:] las auditorías más importantes son: la auditoría interna, que evalúa y mejora los procesos internos y la gestión de riesgos; la auditoría externa, realizada por auditores independientes para verificar la exactitud financiera y el cumplimiento de normas; la auditoría de cumplimiento, que asegura la adherencia a leyes y políticas; la auditoría operativa, que analiza la eficiencia de las operaciones; la auditoría de sistemas, que examina la seguridad y eficiencia de los sistemas de información; la auditoría de calidad, que verifica el cumplimiento de estándares de calidad; y la auditoría forense, que investiga fraudes y proporciona evidencia legal. Estas auditorías son cruciales para mantener la integridad y eficiencia en las organizaciones.
 
-    .row.fondo-terce.align-items-center.py-4.py-md-3.mb-3
+    .row.fondo-terce.align-items-center.py-4.py-md-3.mb-0
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -296,17 +294,17 @@
             h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Automatización en control de calidad en la industria textil y confección
             img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
         
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-2
           .col-md-8.col-lg-4.col-10.mb-4
             img(src='@/assets/ilustraciones/ellaa.png',alt='tema5') 
-          .col-sm-12.col-lg-8.mb-4
+          .col-sm-12.col-lg-8.mb-4.my-4
             p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de big data, inteligencia artificial, machine learning, deep learning, internet de las cosas.
             p.mb-5 La automatización de procesos mejora la agilidad y aumenta la seguridad de los datos al reducir la incidencia de errores. Además, proporciona un mayor conocimiento sobre cada área de la empresa. 
-            .cajonyy.p-4.mb-4 
+            .cajonyy.p-4.mb-3
               p.mb-2 La implementación inicial implica el uso de #[em software] especializado en herramientas de calidad, tales como #[em SPSS, STATGRAPHICS CENTURION y SAS,] así como tecnologías relacionadas con el Internet de las Cosas, como la geolocalización mediante aplicaciones de códigos #[em QR,] y herramientas de #[em lean manufacturing.]
         
         
-        p.mb-5 La integración y el tratamiento avanzado de datos permiten simular procesos para optimizar la gestión de calidad virtual; este enfoque habilita a los responsables de calidad para realizar sus tareas de manera remota, eliminando la necesidad de estar físicamente presentes en la empresa. Además, esta estrategia facilita la planificación y ejecución de auditorías, contribuyendo significativamente a la mejora en la implementación de las 5’s. 
+        p.mb-3 La integración y el tratamiento avanzado de datos permiten simular procesos para optimizar la gestión de calidad virtual; este enfoque habilita a los responsables de calidad para realizar sus tareas de manera remota, eliminando la necesidad de estar físicamente presentes en la empresa. Además, esta estrategia facilita la planificación y ejecución de auditorías, contribuyendo significativamente a la mejora en la implementación de las 5’s. 
         
         
         .row.justify-content-center.align-items-center
@@ -429,7 +427,7 @@
                 .col-lg-12.p-5
                   .row.justify-content-center.align-items-center
                     .col-lg-12
-                      .BorTit.mb-4 #[b Figura 19] Ciclo #[em Deming]
+                      .BorTit.mb-4 #[b Figura 19.] Ciclo #[em Deming]
                       ImagenInfografica.color-primario(data-aos="zoom-in")
 
                         template(v-slot:imagen)
@@ -541,8 +539,8 @@
                 
     p.mt-5.text-center Los pasos de cada elemento se pueden observar en la tabla 7. 
     
-    .BorTit.mt-5 #[b Tabla 7.] Pasos en la metodología Kaizen     
-    .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")(alt='La tabla detalla los pasos en la metodología Kaizen, divididos en tres fases: Planear, Hacer y Verificar-Actuar. En la fase de Planear, se identifican áreas que requieren mejoras, se forman equipos KAIZEN, se recopilan datos y se analiza la situación actual. Luego, se proponen soluciones y se planifican acciones específicas. En la fase de Hacer, se implementan las mejoras planificadas, documentando el proceso y utilizando herramientas como mapas de flujo de valor y análisis de causa raíz. Finalmente, en la fase de Verificar-Actuar, se evalúan los resultados, se comparan con los objetivos y se estandarizan las prácticas efectivas para asegurar mejoras continuas.')
+    .BorTit.mb-4 #[b Tabla 7.] Pasos en la metodología Kaizen     
+    .tabla-b.color-acento-contenido(data-aos="zoom-in")(alt='La tabla detalla los pasos en la metodología Kaizen, divididos en tres fases: Planear, Hacer y Verificar-Actuar. En la fase de Planear, se identifican áreas que requieren mejoras, se forman equipos KAIZEN, se recopilan datos y se analiza la situación actual. Luego, se proponen soluciones y se planifican acciones específicas. En la fase de Hacer, se implementan las mejoras planificadas, documentando el proceso y utilizando herramientas como mapas de flujo de valor y análisis de causa raíz. Finalmente, en la fase de Verificar-Actuar, se evalúan los resultados, se comparan con los objetivos y se estandarizan las prácticas efectivas para asegurar mejoras continuas.')
       .tabla-b__header
         h5.mb-0 Pasos en la metodología #[em Kaizen]
       table
@@ -625,9 +623,9 @@
 
         .mb-4.d-flex.mb-5.mt-5
           .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Six sigma
+            h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") #[em Six sigma]
             img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
- 
+
 
         p.mt-5 Es un modelo de gestión, se conoce por sus siglas en inglés DMAIC, el objetivo es el mejoramiento de los procesos; cuya traducción es asociada a las siguientes palabras:          
     

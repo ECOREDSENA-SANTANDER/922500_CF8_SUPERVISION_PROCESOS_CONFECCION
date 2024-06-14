@@ -3,7 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 La industria de la confección es una de las más importantes del mundo. Abarca la producción de prendas de vestir, desde la selección de las telas hasta el empaque y la distribución. En este componente, se abordaron conocimientos técnicos en la conceptualización de la industria de la confección. Conocimientos sobre la maquinaria a utilizar en la elaboración de prendas de vestir, incluyendo normatividad, aditamentos y tipos de puntadas. La maquinaria a utilizar en la industria de la confección varía según el tipo de prenda que se desee producir. A continuación, puede revisar un esquema gráfico que explica estos conceptos.
+    p.mb-4 La industria de la confección, una de las más significativas a nivel global, engloba todo el proceso de producción de indumentaria, desde la selección de telas hasta el empaque y distribución de las prendas finalizadas. Este sector se caracteriza por la necesidad de conocimientos técnicos especializados que abarcan desde la conceptualización hasta la maquinaria específica requerida para la fabricación de ropa, incluyendo la normativa aplicable, accesorios y tipos de costura.
+    p.mb-5 La elección de maquinaria en la confección depende directamente del tipo de prenda a elaborar. A continuación, presentamos un esquema gráfico que detalla estos conceptos de manera más visual.
 
     .row.justify-content-center
       .col-lg-10.mb-5

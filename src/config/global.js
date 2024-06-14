@@ -222,7 +222,7 @@ export default {
     {
       termino: 'Alfileres',
       significado:
-        'Elementos utilizados para sostener prendas en el proceso de elaboración de prendas',
+        'Elementos utilizados para sostener prendas en el proceso de elaboración de prendas.',
     },
     {
       termino: 'Atributos del producto',
@@ -247,7 +247,7 @@ export default {
     {
       termino: 'Goma o caucho',
       significado:
-        'actividad creativa orientada a soluciones idóneas a cElemento elástico utilizado para la elaboración de cinturillas o en partes que impliquen el recogido para que sea adaptable al cuerpo.',
+        'Elemento elastico utilizado para la elaboracion de cinturillas o en partes que impliquen el recogido para que sea adaptable al cuerpo.',
     },
     {
       termino: 'Hilvanar',
@@ -462,7 +462,12 @@ export default {
         },
         {
           nombre: 'Pedro Alonso Bolivar González',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

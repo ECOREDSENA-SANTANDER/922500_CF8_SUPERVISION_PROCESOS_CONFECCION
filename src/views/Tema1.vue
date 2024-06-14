@@ -18,7 +18,7 @@
         .cajon.color-secundario.caj.p-4
           p.mb-0 El perfeccionamiento de este proceso evita reprocesos tanto a nivel operativo como administrativo en las plantas; es aquí donde la guía de buenas prácticas en la confección de prendas de vestir resume las normas que se deben tener en cuenta para la fabricación de productos que cumplan con los requisitos elegidos por el cliente, desde la presentación de los prototipos en diseño hasta la entrega final del producto. En definitiva, el proceso implica un seguimiento y medición detallados de cada paso, garantizando así su cumplimiento hacia el cliente.
 
-    .row.fondo-grac.align-items-center.py-4.py-md-3.mb-5
+    .row.fondo-grac.align-items-center.py-4.py-md-3.mb-0
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
     
@@ -30,12 +30,12 @@
                     img(src='@/assets/ilustraciones/img00.svg', alt='')
                   .col-lg-8
                     .bloque-texto-a__texto.p-4
-                      p #[b Norma GTC 230] es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual fue desarrollada a través de un comité técnico de textiles, en el que participaron diversas empresas colombianas, como centros de formación del SENA, universidades, hilanderías, lavanderías, empresas de confección y textilerías.
+                      p #[b La norma GTC 230] es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual fue desarrollada a través de un comité técnico de textiles, en el que participaron diversas empresas colombianas, como centros de formación del SENA, universidades, hilanderías, lavanderías, empresas de confección y textilerías.
 
-        p.mb-4 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, #[em brasier, panty y bóxer;]  identificadas así:
+        p.mb-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, #[em brasier, panty y bóxer;]  identificadas así:
 
 
-        .row.justify-content-center.align-items-center.my-5
+        .row.justify-content-center.align-items-center.mb-4
           .col-sm-12.col-lg-12
             .row.justify-content-center
               .col-lg-7(data-aos="flip-up")    
@@ -56,17 +56,17 @@
                     .col-12
                       p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de las telas utilizadas en la fabricación de calzoncillos masculinos elaborados en tejido plano. 
               .col-md-10.col-lg-5.col-10
-                img.img-t.img-a.mb-5(data-aos="zoom-in")(src='@/assets/ilustraciones/ntc.png', alt='')
+                img.img-t.img-a.mb-0(data-aos="zoom-in")(src='@/assets/ilustraciones/ntc.png', alt='')
     
     
-        .row.justify-content-center.align-items-center.mt-5
+        .row.justify-content-center.align-items-center.mb-2
           .col-sm-12.col-lg-10 
             .row.justify-content-center.align-items-center       
               .col-lg-12.mb-5
                 .cajon.color-acento-contenido.p-4(data-aos="fade-down")
                   p.my-4.mx-3 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA que permitirá identificar las diferentes normas que existen de las prendas de vestir.
                 
-              .col-lg-12.mb-5
+              .col-lg-12.mb-4
                 .fondo21.p-3.mb-2
                   .row.justify-content-around.align-items-center
                     .col-3.col-sm-2.col-lg-2
@@ -87,7 +87,7 @@
           h5 Tabla 1. 
           | Referencias Normativas para materia prima e insumos de confección
 
-        .tabla-b.color-acento-contenido.mt-5(alt='La tabla muestra diversas normas técnicas relacionadas con textiles y confecciones. Incluye la norma NTC 228 para la determinación del ancho de las telas, la NTC 2567 para la clasificación de defectos en telas de tejido plano y de punto, y la NTC 230 para la medición de la masa de las telas. También se incluyen normas para el análisis cuantitativo de fibras (NTC 481), requisitos generales y específicos para telas de tejido plano y de punto (NTC 703-1, NTC 703-2, NTC 703-3), así como normas para cierres de cremallera (NTC 2512), botones de poliéster (NTC 2510), hilos de algodón para coser (NTC 2099), e hilos industriales fabricados a partir de fibras sintéticas (NTC 8872).')(data-aos="zoom-in")
+        .tabla-b.color-acento-contenido.mb-4(alt='La tabla muestra diversas normas técnicas relacionadas con textiles y confecciones. Incluye la norma NTC 228 para la determinación del ancho de las telas, la NTC 2567 para la clasificación de defectos en telas de tejido plano y de punto, y la NTC 230 para la medición de la masa de las telas. También se incluyen normas para el análisis cuantitativo de fibras (NTC 481), requisitos generales y específicos para telas de tejido plano y de punto (NTC 703-1, NTC 703-2, NTC 703-3), así como normas para cierres de cremallera (NTC 2512), botones de poliéster (NTC 2510), hilos de algodón para coser (NTC 2099), e hilos industriales fabricados a partir de fibras sintéticas (NTC 8872).')(data-aos="zoom-in")
           table
             caption Nota: Biblioteca SENA
             tr.bg-1
@@ -95,39 +95,39 @@
               td.text-center.coloy #[b Tipo de Norma]
             tr
               td.tab-bold.br-tabble NTC 228 
-              td Textiles, Determinación del ancho de las telas. 
+              td.izq Textiles, Determinación del ancho de las telas. 
             tr
               td.tab-bold.br-tabble NTC 2567 
-              td Textiles, telas de tejido plano y tejido de punto, clasificación por defectos. 
+              td.izq Textiles, telas de tejido plano y tejido de punto, clasificación por defectos. 
             tr
               td.tab-bold.br-tabble NTC 230 
-              td Textiles, telas de tejido plano. Método para la medición de la masa por unidad de longitud y de la masa por unidad de área.
+              td.izq Textiles, telas de tejido plano. Método para la medición de la masa por unidad de longitud y de la masa por unidad de área.
             tr
               td.tab-bold.br-tabble NTC 481 
-              td Textiles. Análisis cuantitativo de fibras. 
+              td.izq Textiles. Análisis cuantitativo de fibras. 
             tr
               td.tab-bold.br-tabble NTC 703-1 
-              td Textiles, Telas de tejido plano y telas de tejido de punto. Requisitos generales. 
+              td.izq Textiles, Telas de tejido plano y telas de tejido de punto. Requisitos generales. 
             tr
               td.tab-bold.br-tabble NTC 703-2 
-              td Textiles, Telas de tejido plano. Requisitos específicos. 
+              td.izq Textiles, Telas de tejido plano. Requisitos específicos. 
             tr
               td.tab-bold.br-tabble NTC 703-3 
-              td Textiles, Telas de tejido de punto. Requisitos específicos. 
+              td.izq Textiles, Telas de tejido de punto. Requisitos específicos. 
             tr
               td.tab-bold.br-tabble NTC 2512 
-              td Confecciones, Cierres de cremallera. 
+              td.izq Confecciones, Cierres de cremallera. 
             tr
               td.tab-bold.br-tabble NTC 2510
-              td Textiles y confecciones. Botones de poliéster. 
+              td.izq Textiles y confecciones. Botones de poliéster. 
             tr
               td.tab-bold.br-tabble NTC 2089 
-              td Hilos de algodón para coser 
+              td.izq Hilos de algodón para coser 
             tr
               td.tab-bold.br-tabble NTC 5872 
-              td Textiles Hilos de coser industriales fabricados, total o parcialmente, a partir de fibras sintéticas.
+              td.izq Textiles Hilos de coser industriales fabricados, total o parcialmente, a partir de fibras sintéticas.
 
-    p.mt-5(data-aos="fade-left") En definitiva, la norma GTC 230 guía de buenas prácticas en la confección, se constituye en el conjunto de requisitos generales de producción que permiten que cada uno de los procesos o subprocesos de una empresa se ejecuten de manera organizada y completa, para esto se debe tener en cuenta la calidad de las materias primas, insumos y procesos; todo esto con respecto al Instituto Colombiano de Normas Técnicas y Certificación.   
+    p.mb-4(data-aos="fade-left") En definitiva, la norma GTC 230 guía de buenas prácticas en la confección, se constituye en el conjunto de requisitos generales de producción que permiten que cada uno de los procesos o subprocesos de una empresa se ejecuten de manera organizada y completa, para esto se debe tener en cuenta la calidad de las materias primas, insumos y procesos; todo esto con respecto al Instituto Colombiano de Normas Técnicas y Certificación.   
     
     
     
