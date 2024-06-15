@@ -1181,10 +1181,10 @@
               .col-sm-12.col-lg-6
                 .cerrte.p-4.mb-4
                   p.my-4.mx-4 Teniendo en cuenta la distribución de las operaciones según la hoja de ruta, la inspección de calidad en la confección se divide en tres grandes grupos:
-                  p.mb-2.mx-4 #[b 1.] La preparación
-                  p.mb-2.mx-4 #[B 2.] El ensamble            
-                  p.mb-4.mx-4 #[b 3.] La terminación           
-                  p.my-3.mx-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
+                  p.mb-3.mx-4 #[b 1.] La preparación
+                  p.mb-3.mx-4 #[B 2.] El ensamble            
+                  p.mb-3.mx-4 #[b 3.] La terminación           
+                  p.my-3.mx-4.mb-4 Cada operación tiene un método, un tiempo estándar, y una descripción que indica el tipo de maquinaria, pies, guías, fólderes y aditamentos que se deben revisar.   
               .col-md-10.col-lg-6.col-10.mb-4
                 img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
 
