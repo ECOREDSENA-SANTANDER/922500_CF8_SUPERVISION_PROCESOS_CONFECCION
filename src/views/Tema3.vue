@@ -280,7 +280,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 1")
           .col-lg-10 
             p.rojo #[b Paso 1. Alistamiento en la confección de la blusa camisera]           
-            p Para iniciar la confección de la blusa camisera, deberá las partes correspondientes, estas son:
+            p Para iniciar la confección de la blusa camisera, es necesario conocer las partes que se describen a continuación:
               .row.justify-content-center.align-items-center.mb-3
                 .col-lg-6             
                   ol.lista-ol
@@ -320,7 +320,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 2") 
           .col-lg-10                
             p.rojo #[b Paso 2. Preparar cuello]    
-            p Para la preparación del cuello de la blusa camisera, se debe tener en cuenta algunas recomendaciones, que le permitirán un producto con mejores acabados, para esto le invito a ver el siguiente vídeo en donde encontrará de manera detallada todo el procedimiento de la confección del cuello.
+            p Para la preparación del cuello de la blusa camisera, se debe tener en cuenta algunas recomendaciones, que le permitirán un producto con mejores acabados, en el siguiente video encontrará de manera detallada todo el procedimiento de la confección del cuello.
             p En el siguiente vídeo podrá revisar este paso a paso                
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
@@ -363,7 +363,7 @@
           .col-lg-10 
             p.rojo #[b Paso 4. Preparar delantero, coser pinzas y pespuntear pechera]
             p La preparación de los delanteros consiste en marcar previamente las pinzas, posteriormente coser.
-            p La pechera deberá estar previamente prehormada, y de esta forma a proceder a la unión de piezas, tal como se muestra en el paso a paso del siguiente 
+            p La pechera deberá estar previamente prehormada, y de esta forma a proceder a la unión de piezas, tal como se muestra en el siguiente video:
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
                     .fondo21.p-3.mb-4
@@ -383,7 +383,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 5") 
           .col-lg-10 
             p.rojo #[b Paso 5. Preparar posterior, coser pinzas]        
-            p En el posterior las preparaciones del posterior consiste en coser las pinzas, para seguir paso a paso esta confección, te invito a ver el siguiente vídeo:                
+            p La preparación de la parte posterior de la prenda implica principalmente la costura de las pinzas. Para un seguimiento detallado de este proceso, le recomendamos el vídeo que se ofrece a continuación, donde se explica paso a paso cómo realizar esta tarea de manera eficaz.
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10 
                     .fondo21.p-3.mb-4
@@ -424,7 +424,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 7") 
           .col-lg-10 
             p.rojo #[b Paso 7. Pespuntar hombros] 
-            p Se requiere de un pie 1/16 compensador, derecho, según se indica en la firma técnica de este procedimiento.
+            p Se requiere de un pie 1/16 compensador, derecho, según se indica en la ficha técnica de este procedimiento.
             p En el siguiente vídeo podrá revisar este paso a paso:             
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10 
@@ -509,7 +509,7 @@
           .col-lg-10 
             p.rojo #[b Paso 11. Pespuntar mangas]
             p Para iniciar el pespunte de las mangas, se debe tumbar hacia el cuerpo de la blusa, y luego usando el pie compensado derecho, se da inicio al pespunte con remate al inicio y respetando la curva que tiene la manga. 
-            p Es un procedimiento sencillo, y que requiere atención, para una mejor explicación le invitamos a revisar el siguiente paso a paso en el vídeo:
+            p Es un procedimiento sencillo, y que requiere atención, para una mejor explicación le invitamos a revisar el siguiente paso a paso.
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
                     .fondo21.p-3.mb-4
