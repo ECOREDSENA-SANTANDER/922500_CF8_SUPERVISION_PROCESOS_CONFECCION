@@ -7,14 +7,14 @@
         span 4
       h1(data-aos="zoom-in-right") Terminados en las prendas de vestir
     
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-5.col-10
         img.img-t.img-a.mb-4(src='@/assets/ilustraciones/cuatro.png',alt='tema4')             
       .col-sm-12.col-lg-7
         p.mb-4 En los terminados de la prenda vestir se deben contemplar pasos que van unidos a criterios de calidad para que pueda disponerse de un producto el cual cumpla con lo requerido para su distribución.  En este apartado se dará un acercamiento a lo que pasa después de que la prenda sale de la planta de producción en confección.
         p Una vez la prenda es terminada por los operarios, hay personal dispuesto encargado de recoger las prendas y volverlas a organizar por referencia, tipología y tallas por paquetes, de tal manera que puedan apilarse ordenadamente para los siguientes pasos:
 
-    TabsA.color-acento-botones.mt-5(data-aos="flip-up")
+    TabsA.color-acento-botones.mb-4(data-aos="flip-up")
       .tarjeta.color-acento-conte--borde.p-4(titulo="1. Quitar hebras")
         .row.justify-content-center.align-items-center
           .col-lg-11
@@ -73,11 +73,23 @@
                 img.img-t.img-a.my-0(src='@/assets/ilustraciones/img26.png',alt='Después de empacar prenda a prenda, se procede al embalaje  dependiendo el destino a donde deben llegar las prendas.')
                 figcaption Nota. CARVIMSA. (S.F.)
 
-    p.mt-5.text-center A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
-    .video.mt-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/I8adPpXG-n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
-    figcaption Video. Description
-    
+    p.mb-4.text-center A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-sm-12.col-lg-6  
+        .fondo21.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.img-t.img-a(src="@/assets/ilustraciones/videop.svg",alt='tema3')
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0          
+                  p.my-1 Inspeccion producto terminado
+                .col-sm-auto
+                  a.boton.color-acento-botones(href="https://youtu.be/uP1zR8I56gU" target="_blank")
+                    span Ir al sitio
+                    i.fas.fa-video
+
 </template>
 <script>
 export default {

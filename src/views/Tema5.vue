@@ -743,7 +743,7 @@
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2IjwoiNJCDw?si=h0A2jhqLAohT55vq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/dGHK_ZRVx3k?si=dFw5EzaNWXZdb4yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption.mb-5 Video. Description
 
     .row.justify-content-center.align-items-center
@@ -781,7 +781,7 @@
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/HoLZv-WxqyU?si=LmGdbMLd3Cb9GSzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Dg5CADrmEiE?si=HK3lN2e2S1UOHA-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption.mb-5 Video. Description
                 
 
@@ -1037,7 +1037,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/EUH9LPWhh3k?si=m4BDS6iaPTLpWaMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/aZex9L1wlmA?si=7TR_RIE2m90tT6TR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption.mb-5 Video. Description
 
     
@@ -1207,7 +1207,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/xlPFRjssa2Q?si=WPphbdbNB3qcKa1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/nud4f4gxwV4?si=U2ouOicXf_9KtuEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption Video. Description
 
     p.mb-5 En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:

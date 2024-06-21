@@ -182,40 +182,31 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Confección de prendas de vestir',
       referencia:
-        'La costura Diy.  (2020). Confección de camisa Slim Fit para hombre [video]. Youtube.',
+        'La costura Diy. (2020). Confección de camisa Slim Fit para hombre',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?app=desktop&v=xD1u53N8sWQ&ab_channel=LaCosturadiy',
+      link: 'https://youtu.be/xD1u53N8sWQ ',
     },
     {
-      tema: '',
+      tema: 'Orden operacional de confección de camisa ',
       referencia:
-        'Academia confección a la moda. (2019) Camisa de hombre/cómo hacer/paso a paso/confección (Video) Youtube ',
+        'Academia confección a la moda. (2019) Camisa de hombre/cómo hacer/paso a paso/confección ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=DgTaEpPIH1E',
+      link: 'https://youtu.be/DgTaEpPIH1E',
     },
     {
-      tema: '',
-      referencia:
-        'Informativos.  (2012).  Ensamble de camisa. [video]. Youtube.',
+      tema: 'Orden operacional de confección de camisa ',
+      referencia: 'Informativos. (2012). Ensamble de camisa.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=xD1u53N8sWQ&ab_channel=LaCosturadiy',
+      link: 'https://youtu.be/xD1u53N8sWQ',
     },
     {
-      tema: '',
+      tema: 'Orden operacional de confección de camisa ',
       referencia:
-        'Gutiérrez, B.  (2019).  Confección de pantalón para caballero. [video]. Youtube.',
+        'Gutiérrez, B. (2019). Confección de pantalón para caballero.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?app=desktop&v=NHtzg2UrKHs',
-    },
-    {
-      tema: '',
-      referencia: 'ISO, Sistema de Gestión de Calidad 9001:2015',
-      tipo: 'Norma',
-      link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
+      link: 'https://youtu.be/NHtzg2UrKHs',
     },
   ],
   glosario: [
@@ -247,7 +238,7 @@ export default {
     {
       termino: 'Goma o caucho',
       significado:
-        'Elemento elastico utilizado para la elaboracion de cinturillas o en partes que impliquen el recogido para que sea adaptable al cuerpo.',
+        'Elemento elástico utilizado para la elaboración de cinturillas o en partes que impliquen el recogido para que sea adaptable al cuerpo.',
     },
     {
       termino: 'Hilvanar',
@@ -416,17 +407,17 @@ export default {
       autores: [
         {
           nombre: 'Ledy Johana Velásquez Hernández',
-          cargo: 'Diseño y desarrollo curricular',
+          cargo: 'Diseño y Desarrollo curricular',
           centro: 'Regional Antioquía - Diseño, confección y moda. ',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Diseño y desarrollo curricular',
+          cargo: 'Diseño y Desarrollo curricular',
           centro: 'Regional Antioquía - Diseño, confección y moda.',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro: 'Regional Antioquía - Diseño, confección y moda.',
         },
         {
@@ -436,18 +427,18 @@ export default {
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Regional Distrito capital – Centro Gestión Industrial',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñador y evaluador instruccional',
+          cargo: 'Diseñador y Evaluador Instruccional',
           centro:
             'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica. ',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -481,13 +472,8 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
