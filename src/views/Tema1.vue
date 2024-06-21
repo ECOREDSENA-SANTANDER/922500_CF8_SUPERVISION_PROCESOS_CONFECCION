@@ -140,13 +140,15 @@
                 img.img-t.img-a(src="@/assets/ilustraciones/pdf.svg")
               .col
                 .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0.p-3         
-                    h4.my-0 Proceso de diseño y desarrollo del producto
-                    p.mb-0 En el anexo 2,  para ampliar información diríjase al PDF Proceso_de_Disenio_y_desarrollo_del_producto.pdf
+                  .col.mb-3.mb-sm-0         
+                    h4.my-0.mb-2 Proceso de diseño y desarrollo del producto
+                    p.mb-0 En el anexo 2, para ampliar información diríjase al pdf Proceso_de_Disenio_y_desarrollo _del_producto.pdf
                   .col-sm-auto
                     a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
+          
+    
 </template>
 
 <script>
