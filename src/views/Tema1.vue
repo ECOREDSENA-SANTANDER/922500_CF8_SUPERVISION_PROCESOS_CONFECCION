@@ -142,7 +142,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0.p-3         
                     h4.my-0 Proceso de diseño y desarrollo del producto
-                    p.mb-0 En el anexo 2, ubicado en el material complementario podrá consultar la normatividad que regula el proceso de diseño y desarrollo del producto.
+                    p.mb-0 En el anexo 2,  para ampliar información diríjase al PDF Proceso_de_Disenio_y_desarrollo_del_producto.pdf
                   .col-sm-auto
                     a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
                       span Descargar

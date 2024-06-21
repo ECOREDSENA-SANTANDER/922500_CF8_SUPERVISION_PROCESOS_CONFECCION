@@ -208,6 +208,12 @@ export default {
       tipo: 'Video',
       link: 'https://youtu.be/NHtzg2UrKHs',
     },
+    {
+      tema: 'Orden operacional de confección de camisa ',
+      referencia: 'ISO, Sistema de Gestión de Calidad 9001:2015',
+      tipo: 'Pagina',
+      link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
+    },
   ],
   glosario: [
     {
@@ -288,102 +294,77 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Cal y mayor (2021). El ciclo de Deming o ciclo de mejora continua. ',
-      link: 'http://www.calymayor.com.mx/induccionco/calidad_ciclo.html',
+      referencia: 'Calidad Aplicada a la Gestión Empresarial. (2018)',
+      link: 'https://calidadaplicagestionempresarial.blogspot.com/2018/09/',
     },
     {
-      referencia: 'Calidad Aplicada a la Gestión Empresarial. (2018).',
+      referencia: 'CARVIMSA. (S.F). Embalajes para textiles de exportación. ',
       link:
-        'http://calidadaplicagestionempresarial.blogspot.com/2018/11/tema-4-sistemas-de-calidad.html',
-    },
-    {
-      referencia:
-        'CARVIMSA. (S.F). Embalajes para textiles de exportación.    ',
-      link:
-        'http://www.prompex.gob.pe/Miercoles/Portal/MME/descargar.aspx?archivo=E122E9DF-E4D9-4D8E-9591-E497DF3F007B.PDF',
-    },
-    {
-      referencia: 'C.I. JEANS (2012).  Planta.',
-      link:
-        'http://www.cijeans.com.co/instalaciones-procesos.php/es/terminacion/12/1',
+        'https://repositorio.promperu.gob.pe/items/c328f53e-e302-4d3e-8bb2-c9be93a7d959',
     },
     {
       referencia:
-        'Huamán, W. (2003). Ingeniería en la capacitación de operarios para la industria de la confección textil. [Tesis de pregrado, Universidad Nacional Mayor de San Marcos]. ',
+        'Huamán, W. (2003). Ingeniería en la capacitación de operarios para la industria de la confección textil. ',
       link:
-        'https://sisbib.unmsm.edu.pe/bibvirtualdata/Tesis/Ingenie/huaman_ow/Cap4.pdf',
+        'https://sisbib.unmsm.edu.pe/bibvirtual/tesis/ingenie/huaman_ow/contenido.htm',
+    },
+    {
+      referencia:
+        'Knight, L. (2012). Secretos de una buena modista. Editorial Océano Ámbar. ',
+      link:
+        'https://www.casadellibro.com.co/libro-secretos-de-la-buena-modista-guia-completa-sobre-tecnicas-de-cos-tura-de-moda/9788475566030/1610124',
     },
     {
       referencia: 'Lara, V. (2017). Fichas técnicas Freelance. ',
       link:
-        'https://www.behance.net/gallery/50254313/Fichas-tcnicas-Freelance-Spec-Sheets',
+        'https://www.behance.net/gallery/50254313/Fichas-tcnicas-Freelance-Spec-Sheets?locale=cs_CZ',
     },
     {
-      referencia: 'Omegaht (2013). Enfoque de calidad de Ishikawa. ',
-      link:
-        'https://enfoqdecalidad.wordpress.com/2013/05/28/enfoque-de-calidad-de-ishikawa/',
+      referencia: 'Lean solutions. (2020, junio 2). ¿Qué es Six Sigma?',
+      link: 'https://leansolutions.co/que-es-six-sigma/',
     },
     {
-      referencia: 'Pellegrino, A. (2011). Diagrama de operaciones. ',
+      referencia: 'Omegaht (2013). Enfoque de calidad de Ishikawa.',
+      link: 'https://enfoqdecalidad.wordpress.com/author/omegaht/',
+    },
+    {
+      referencia: 'Pellegrino, A. (2011). Diagrama de operaciones.',
       link:
-        'https://ayelenpellegrino.files.wordpress.com/2011/01/13-diagrama-de-operaciones.jpg',
+        'https://ayelenpellegrino.com/2011/01/03/camiseria-secuencia-de-operaciones/',
     },
     {
       referencia: 'Pellegrino, A. (2011). Secuencia de operaciones',
       link:
-        'https://ayelenpellegrino.files.wordpress.com/2011/01/20-secuencia-de-operaciones-1.jpg',
+        'https://ayelenpellegrino.com/2011/01/03/camiseria-secuencia-de-operaciones/',
     },
     {
       referencia:
-        'Sejzer, R. (2018). Industria y Lean 4.0: ¿Estamos realmente frente a una Cuarta Revolución Industrial?',
+        'Sejzer, R. (2018). Industria y Lean 4.0: ¿Estamos realmente frente a una Cuarta Revolución Industrial?  ',
       link:
-        'http://ctcalidad.blogspot.com/2018/09/industria-y-lean-40-estamos-realmente.html',
+        'https://ctcalidad.blogspot.com/2018/09/industria-y-lean-40-estamos-realmente.html',
     },
     {
       referencia:
-        'SENA.  (2020).  Programa Técnico en Patronaje Industrial de Prendas de Vestir. Centro de Manufactura en Textil y Cuero, Distrito Capital.',
-    },
-    {
-      referencia:
-        'SENA.  (2020).  Material de formación. Equipo de desarrollo curricular Técnico en Control Calidad en Confección Industrial.',
-    },
-    {
-      referencia:
-        'SENA.  (2021).  Programa Técnico en Elaboración de Prendas de Vestir sobre medidas.   Centro de Diseño y confección Regional Antioquia',
-    },
-    {
-      referencia:
-        'Knight, L.  (2012).  Secretos de una buena modista. Editorial Océano Ámbar.',
-    },
-    {
-      referencia:
-        'SINGER. (2014). Metodología y técnicas de confección del programa mujeres sustentables. Programa Mujeres sustentables.  ',
+        'SENA. (2020). Programa Técnico en Patronaje Industrial de Prendas de Vestir. ',
       link:
-        'https://issuu.com/mujeresautosustentables/docs/manual_industriales',
+        'https://zajuna.sena.edu.co/pdfs/titulada/tecnico/Patronaje_Industrial_Prendas_Vestir.pdf',
     },
     {
       referencia:
-        'Lean solutions. (2020, junio 2). ¿Qué es Six Sigma? [Web log post].  ',
-      link: 'http://leansolutions.co/conceptos-lean/que-es-six-sigma/',
+        'SENA. (2021). Programa Técnico en Elaboración de Prendas de Vestir sobre medidas. ',
+      link:
+        'https://zajuna.sena.edu.co/pdfs/titulada/tecnico/elaboracion_de_prendas_de_vestir_sobre_medidas.pdf',
+    },
+    {
+      referencia: 'Delta  (2019).Textile Machinery. ',
+      link:
+        'https://deltamaquinastexteis.com.br/es/control-de-calidad-textil-y-preparacion-de-malla/',
     },
     {
       referencia:
-        'SENA. (1973). Programa de control de calidad. Unidad 1.7. Normalización. ',
-      link: 'https://hdl.handle.net/11404/6667',
-    },
-    {
-      referencia:
-        'SENA. (1973). Programa de control de calidad. Unidad 1.9. Aspecto económico de la calidad. ',
-      link: 'https://hdl.handle.net/11404/6669',
-    },
-    {
-      referencia: 'SENA. (1990). Control de calidad en hilos y telas. ',
-      link: 'https://hdl.handle.net/11404/4252',
-    },
-    {
-      referencia: 'Rintex (2012). Packing. ',
-      link: 'http://rintex-en.goplek.com/527/packing.html',
+        'SINGER. (2014). Metodología y técnicas de confección del programa mujeres sustentables. Programa Mujeres sustentables.    ',
+      link:
+        'https://es.scribd.com/document/348328553/Metodologia-y-Tecnicas-de-Confeccion',
     },
   ],
   creditos: [

@@ -1412,7 +1412,7 @@
                         i.fas.fa-file-download
         .row.justify-content-center.align-items-center.mb-5
           .col-md-9.col-9.col-lg-4
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=I8adPpXG-n8&t=30s" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/uP1zR8I56gU" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
