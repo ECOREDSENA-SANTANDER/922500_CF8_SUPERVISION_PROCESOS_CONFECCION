@@ -74,7 +74,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p #[b Enlace web.] Para complementar la información diríjase al siguiente video donde se explica la clasificación y usos:
+                  p #[b Enlace web.] Para complementar la información diríjase al siguiente video donde se explica la clasificación y usos.
         
     
     .row.justify-content-center.align-items-center.mb-4
