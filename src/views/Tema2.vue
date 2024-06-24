@@ -95,7 +95,7 @@
               h5 Figura 2.
               | Postura ideal
             .cajablanca.p-2
-              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen muestra una figura que ilustra la postura ideal para sentarse. Las recomendaciones incluyen mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla; repartir el peso entre la parte inferior de los glúteos; colocar las rodillas en ángulo recto con las caderas; usar un reposapiés si los pies no llegan al suelo; y evitar permanecer demasiado tiempo en la misma posición. ")
+              img.img-a.img-t(src='@/assets/ilustraciones/img5.svg' alt="La imagen presenta una figura que ilustra la postura ideal para sentarse. Las recomendaciones incluyen mantener la espalda erguida y alineada, apoyando la columna contra el respaldo de la silla; repartir el peso entre la parte inferior de los glúteos; colocar las rodillas en ángulo recto con las caderas; usar un reposapiés si los pies no llegan al suelo; y evitar permanecer demasiado tiempo en la misma posición. ")
             figcaption.segundo Nota. Singer (2014)
           .col-lg-6.col-md-12.col-12.mb-4 
             ul.lista-ul--color
@@ -124,7 +124,7 @@
                   h5 Figura 3.
                   | Postura en máquina
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen muestra recomendaciones para mantener una postura adecuada al trabajar en una máquina. Se aconseja que la silla esté próxima a la mesa de trabajo para evitar inclinarse hacia adelante, y que sea ergonómica con bordes redondeados y asiento acolchonado o con cojín. La altura de la mesa y la silla debe ser acorde a la estatura del operario y a la altura de la mesa. Además, el material para confeccionar debe estar al alcance del operario para evitar estiramientos y desplazamientos innecesarios. En la mesa deben estar solo los elementos necesarios para la labor.")
+                  img.img-a.img-t(src='@/assets/ilustraciones/img12.svg' alt="La imagen presenta recomendaciones para mantener una postura adecuada al trabajar en una máquina. Se aconseja que la silla esté próxima a la mesa de trabajo para evitar inclinarse hacia adelante, y que sea ergonómica con bordes redondeados y asiento acolchonado o con cojín. La altura de la mesa y la silla debe ser acorde a la estatura del operario y a la altura de la mesa. Además, el material para confeccionar debe estar al alcance del operario para evitar estiramientos y desplazamientos innecesarios. En la mesa deben estar solo los elementos necesarios para la labor.")
                 figcaption.segundo.mb-0 Nota. Singer (2014)
               .col-lg-6.col-md-12.col-12.mb-4    
                 ul.lista-ul--color
@@ -177,7 +177,7 @@
                   h5.per Figura 5.
                   | Carga de elementos
                 .cajablanca.p-2
-                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen muestra las recomendaciones para levantar objetos de forma segura. Se sugiere flexionar las rodillas en lugar de la espalda y tener los pies firmes y bien apoyados. También se recomienda levantarse utilizando la fuerza de las piernas, no de la espalda, y mantener los objetos cerca del cuerpo. Si el peso es excesivo, es preferible solicitar ayuda para evitar lesiones.")
+                  img.img-a.img-t(src='@/assets/ilustraciones/img14.svg' alt="La imagen presenta las recomendaciones para levantar objetos de forma segura. Se sugiere flexionar las rodillas en lugar de la espalda y tener los pies firmes y bien apoyados. También se recomienda levantarse utilizando la fuerza de las piernas, no de la espalda, y mantener los objetos cerca del cuerpo. Si el peso es excesivo, es preferible solicitar ayuda para evitar lesiones.")
                 figcaption.segundo.mb-4 Nota. Singer (2014)
               .col-lg-6.col-md-12.col-12
                 ul.lista-ul--color

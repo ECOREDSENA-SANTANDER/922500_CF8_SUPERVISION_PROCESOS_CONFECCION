@@ -87,7 +87,7 @@
           h5 Tabla 1. 
           | Referencias Normativas para materia prima e insumos de confección
 
-        .tabla-b.color-acento-contenido.mb-4(alt='La tabla muestra diversas normas técnicas relacionadas con textiles y confecciones. Incluye la norma NTC 228 para la determinación del ancho de las telas, la NTC 2567 para la clasificación de defectos en telas de tejido plano y de punto, y la NTC 230 para la medición de la masa de las telas. También se incluyen normas para el análisis cuantitativo de fibras (NTC 481), requisitos generales y específicos para telas de tejido plano y de punto (NTC 703-1, NTC 703-2, NTC 703-3), así como normas para cierres de cremallera (NTC 2512), botones de poliéster (NTC 2510), hilos de algodón para coser (NTC 2099), e hilos industriales fabricados a partir de fibras sintéticas (NTC 8872).')(data-aos="zoom-in")
+        .tabla-b.color-acento-contenido.mb-4(alt='La tabla presenta diversas normas técnicas relacionadas con textiles y confecciones. Incluye la norma NTC 228 para la determinación del ancho de las telas, la NTC 2567 para la clasificación de defectos en telas de tejido plano y de punto, y la NTC 230 para la medición de la masa de las telas. También se incluyen normas para el análisis cuantitativo de fibras (NTC 481), requisitos generales y específicos para telas de tejido plano y de punto (NTC 703-1, NTC 703-2, NTC 703-3), así como normas para cierres de cremallera (NTC 2512), botones de poliéster (NTC 2510), hilos de algodón para coser (NTC 2099), e hilos industriales fabricados a partir de fibras sintéticas (NTC 8872).')(data-aos="zoom-in")
           table
             caption Nota: Biblioteca SENA
             tr.bg-1
