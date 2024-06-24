@@ -258,7 +258,7 @@
             p Las operaciones mecanizadas y el ruido de las máquinas pueden causar incomodidades debido a sonidos de vibración constante. En fábricas con numerosas máquinas, superando los niveles de decibeles recomendados (50 – 80), se aconseja el uso de protectores auditivos especializados, pues las consecuencias de no atender estas condiciones pueden incluir efectos patológicos, fatiga, confusión y pérdida de audición.
 
       
-      .py-3.py-md-4.bg26.px-3(titulo="Iluminacion")
+      .py-3.py-md-4.bg26.px-3(titulo="Iluminación")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-12.my-3
             p Generar espacios de trabajo en los que la iluminación es un factor importante es imprescindible, pero esta debe ser adecuada, dado que puede llegar afectar tanto por insuficiente o excesiva, ya que toda la actividad es guiada por la vista y en este ejercicio el ojo se contrae y se dilata constantemente.  Si este factor no es vigilado, puede ocasionar efectos como: irritación visual, inseguridad en los movimientos, ardor y resequedad en la retina.

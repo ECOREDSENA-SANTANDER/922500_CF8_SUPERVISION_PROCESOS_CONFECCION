@@ -84,7 +84,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0          
-                  p.my-1 Inspeccion producto terminado
+                  p.my-1 Inspección producto terminado.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/uP1zR8I56gU" target="_blank")
                     span Ir al sitio

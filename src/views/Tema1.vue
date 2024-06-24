@@ -50,7 +50,7 @@
 
                   .row(numero="3" titulo="NTC 2398-1988")
                     .col-12
-                      p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de materiales, empaque, rotulado y normas de muestreo utilizadas en la fabricación de ropa interior femenina de tejido plano, como #[em panty y brasier.]
+                      p Establece los requisitos que deben cumplir los confeccionistas en cuanto a los ensayos de materiales, empaque, rotulado y normas de muestreo utilizadas en la fabricación de ropa interior femenina de tejido plano, como #[em panty] y brasier.
     
                   .row(numero="4" titulo="NTC 2339")
                     .col-12
@@ -81,7 +81,7 @@
                             span Descargar
                             i.fas.fa-file-download
 
-        p.mb-4 Así mismo, existen otras normas como se observa en la tabla 1, que permiten que la materia prima e insumos para la fabricación de prendas de vestir sean de óptima calidad y como resultado permiten ofrecer un producto terminado con criterios de calidad en su confección y entrega al cliente. 
+        p.mb-4 Así mismo, existen otras normas como se presenta en la tabla 1, que permiten que la materia prima e insumos para la fabricación de prendas de vestir sean de óptima calidad y como resultado permiten ofrecer un producto terminado con criterios de calidad en su confección y entrega al cliente. 
         
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1. 
@@ -142,7 +142,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0         
                     h4.my-0.mb-2 Proceso de diseño y desarrollo del producto
-                    p.mb-0 En el anexo 2, para ampliar información diríjase al PDF Proceso de Disenio y desarrollo del producto pdf.
+                    p.mb-0 En el anexo 2, para ampliar información diríjase al PDF proceso de diseño y desarrollo del producto.
                   .col-sm-auto
                     a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
                       span Descargar

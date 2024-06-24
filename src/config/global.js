@@ -388,23 +388,23 @@ export default {
       autores: [
         {
           nombre: 'Ledy Johana Velásquez Hernández',
-          cargo: 'Diseño y Desarrollo curricular',
-          centro: 'Regional Antioquía - Diseño, confección y moda. ',
+          cargo: 'Diseño y Desarrollo Curricular',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda. ',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Diseño y Desarrollo curricular',
-          centro: 'Regional Antioquía - Diseño, confección y moda.',
+          cargo: 'Diseño y Desarrollo Curricular',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda.',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
           cargo: 'Experto Temático',
-          centro: 'Regional Antioquía - Diseño, confección y moda.',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda.',
         },
         {
           nombre: 'María Inés Machado López',
           cargo: 'Diseño Instruccional',
-          centro: 'Regional Cundinamarca – Diseño y metrología',
+          centro: 'Regional Cundinamarca – Diseño y Metrología',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',

@@ -286,7 +286,7 @@
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/yjTzSupLG64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+          iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/pRuqbcXJ1ZY?si=y1-PaqRtpg20a_lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption.mb-5 Video. Description
         
         .mb-4.d-flex.mb-5
@@ -1407,7 +1407,7 @@
                     .col.mb-3.mb-sm-0          
                       p.my-2 Anexo. Formato auditoria calidad.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_16_LIBROSE_RETOS_DE_UNA_BUENA_MODISTA.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_16_Formato Auditoria Calidad.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
         .row.justify-content-center.align-items-center.mb-5
