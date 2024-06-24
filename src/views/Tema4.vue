@@ -49,7 +49,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-11
             h4 4. Etiquetado de prendas
-            p En este paso se dispone a la respectiva colocación de etiquetas de la empresa o cliente al que está destinada la entrega de una producción determinada como se observa en la figura 12.
+            p En este paso se dispone a la respectiva colocación de etiquetas de la empresa o cliente al que está destinada la entrega de una producción determinada como se presenta en la figura 12.
             .row.justify-content-center.align-items-center.mb-0 
               .col-lg-7             
                 .BorTit.mb-4 #[b Figura 12.] Etiquetado de prendas
@@ -62,7 +62,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-11 
             h4 5. Empaque de prendas
-            p Al pasar a bodega es importante destacar que cada empresa determina el empaque para bodega y para entrega, no todas desarrollan los parámetros para este proceso de la misma manera, dado que pueden ser dos pasos que implementen por separado, es decir, que una vez en bodega dependiendo del cliente se despachará la mercancía con indicaciones particulares como se muestra en las figuras 13 y 14. 
+            p Al pasar a bodega es importante destacar que cada empresa determina el empaque para bodega y para entrega, no todas desarrollan los parámetros para este proceso de la misma manera, dado que pueden ser dos pasos que implementen por separado, es decir, que una vez en bodega dependiendo del cliente se despachará la mercancía con indicaciones particulares como se presenta  en las figuras 13 y 14. 
             .row.justify-content-center.align-items-center.mt-5       
               .col-lg-7
                 .BorTit.mb-4 #[b Figura 13.] Empaque de prendas
@@ -73,7 +73,7 @@
                 img.img-t.img-a.my-0(src='@/assets/ilustraciones/img26.png',alt='Después de empacar prenda a prenda, se procede al embalaje  dependiendo el destino a donde deben llegar las prendas.')
                 figcaption Nota. CARVIMSA. (S.F.)
 
-    p.mb-4.text-center A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
+    p.mb-4.text-center A continuación, se presenta un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-sm-12.col-lg-6  

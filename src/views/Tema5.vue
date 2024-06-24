@@ -56,7 +56,7 @@
                 .col-lg-5.col-md-8.col-8     
                   img.mb-4(src='@/assets/ilustraciones/img28.svg',alt='tema5')  
           
-          p.mb-5.text-center Estas acciones se ejecutan con el fin de permutar a la empresa hacia la calidad como se muestra en la figura 15.
+          p.mb-5.text-center Estas acciones se ejecutan con el fin de permutar a la empresa hacia la calidad como se presenta en la figura 15.
         
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-6     
@@ -233,7 +233,7 @@
         img.img-t.img-a.mt-4(src='@/assets/ilustraciones/img75.svg',alt='La figura presenta un diagrama donde se enuncian los beneficios del control de calidad: costos, precios, cliente, trazabilidad, productividad. ') 
         figcaption.mb-2 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
-    p.mb-4 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
+    p.mb-4 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se expone en la figura 17:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
@@ -432,7 +432,7 @@
 
                         template(v-slot:imagen)
                           figure
-                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La imagen muestra el Ciclo Deming, también conocido como PDCA, un modelo de mejora continua de procesos. Este ciclo consta de cuatro etapas: Planificar (Plan), donde se identifican problemas y se desarrollan soluciones; Hacer (Do), que implica implementar las soluciones; Verificar (Check), donde se evalúan los resultados de la implementación; y Actuar (Act), que consiste en estandarizar las soluciones exitosas o comenzar de nuevo si los resultados no fueron los esperados. Este ciclo es fundamental para la gestión de la calidad y la mejora continua en las organizaciones.')
+                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La imagen presenta el Ciclo Deming, también conocido como PDCA, un modelo de mejora continua de procesos. Este ciclo consta de cuatro etapas: Planificar (Plan), donde se identifican problemas y se desarrollan soluciones; Hacer (Do), que implica implementar las soluciones; Verificar (Check), donde se evalúan los resultados de la implementación; y Actuar (Act), que consiste en estandarizar las soluciones exitosas o comenzar de nuevo si los resultados no fueron los esperados. Este ciclo es fundamental para la gestión de la calidad y la mejora continua en las organizaciones.')
 
                         .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
                           p.mb-2 #[b Planificar] (Plan):
@@ -475,7 +475,7 @@
     
                       template(v-slot:imagen)
                         figure
-                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='La imagen muestra el Ciclo PDCA (Planificar, Hacer, Verificar, Actuar) junto con las siete herramientas de calidad destacadas por Ishikawa: histogramas, diagramas de causa y efecto, hojas de revisión, diagramas de Pareto, mapas de control, diagramas de dispersión y gráficos. Estas herramientas son fundamentales para identificar, analizar y mejorar los procesos dentro de una organización, apoyando el ciclo de mejora continua PDCA.')
+                          img.img-a.img-t(src='@/assets/ilustraciones/img46.svg',alt='La imagen presenta el Ciclo PDCA (Planificar, Hacer, Verificar, Actuar) junto con las siete herramientas de calidad destacadas por Ishikawa: histogramas, diagramas de causa y efecto, hojas de revisión, diagramas de Pareto, mapas de control, diagramas de dispersión y gráficos. Estas herramientas son fundamentales para identificar, analizar y mejorar los procesos dentro de una organización, apoyando el ciclo de mejora continua PDCA.')
 
                       .tarjeta.color-acento-botoones.p-3(x="22%" y="15%")
                         p Tomar acciones apropiadas. 
@@ -537,9 +537,9 @@
                   i.fas.fa-car-side.mb-4
                   | Mejoras en los procesos.
                 
-    p.mt-5.text-center Los pasos de cada elemento se pueden observar en la tabla 7. 
+    p.mt-5.text-center Los pasos de cada elemento se presentan en la tabla 6. 
     
-    .BorTit.mb-4 #[b Tabla 7.] Pasos en la metodología Kaizen     
+    .BorTit.mb-4 #[b Tabla 6.] Pasos en la metodología Kaizen     
     .tabla-b.color-acento-contenido(data-aos="zoom-in")(alt='La tabla detalla los pasos en la metodología Kaizen, divididos en tres fases: Planear, Hacer y Verificar-Actuar. En la fase de Planear, se identifican áreas que requieren mejoras, se forman equipos KAIZEN, se recopilan datos y se analiza la situación actual. Luego, se proponen soluciones y se planifican acciones específicas. En la fase de Hacer, se implementan las mejoras planificadas, documentando el proceso y utilizando herramientas como mapas de flujo de valor y análisis de causa raíz. Finalmente, en la fase de Verificar-Actuar, se evalúan los resultados, se comparan con los objetivos y se estandarizan las prácticas efectivas para asegurar mejoras continuas.')
       .tabla-b__header
         h5.mb-0 Pasos en la metodología #[em Kaizen]
@@ -661,7 +661,7 @@
                 img(src='@/assets/ilustraciones/six.svg',alt='tema5')               
     
     
-    p.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es verificable en la figura 21.
+    p.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es constatable en la figura 21.
 
     
     .row.justify-content-center.align-items-center
@@ -789,7 +789,7 @@
       .col-sm-12.col-lg-6.mb-4
         p.mb-0(data-aos="fade-right") En los 
           strong.color elásticos 
-          | es importante realizar pruebas de recuperación de su longitud, teniendo en cuenta el reposo y la tensión ejercida en su elongación. Es importante controlar los desperdicios generados en la producción de los insumos, los cuales inciden en el costo del producto, de allí la importancia del control de los consumos en la planta. El siguiente cuadro muestra pruebas especializadas que se realizan, para evaluar características de algunos insumos:   
+          | es importante realizar pruebas de recuperación de su longitud, teniendo en cuenta el reposo y la tensión ejercida en su elongación. Es importante controlar los desperdicios generados en la producción de los insumos, los cuales inciden en el costo del producto, de allí la importancia del control de los consumos en la planta. El siguiente cuadro presenta pruebas especializadas que se realizan, para evaluar características de algunos insumos:   
       .col-sm-12.col-lg-6.mb-4
         .row.justify-content-center.align-items-center
           .col-sm-12.col-lg-12
@@ -830,7 +830,7 @@
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .BorTit.mt-5 #[b Tabla 8.] Pruebas de calidad en laboratorios para textiles
+        .BorTit.mt-5 #[b Tabla 7.] Pruebas de calidad en laboratorios para textiles
 
         .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")(alt='La tabla presenta diversas pruebas de calidad en laboratorios para textiles, detallando los ensayos específicos y las normas correspondientes. Incluye el análisis cualitativo de fibras (NTC 1213/AATCC 20/ASTMD 276), análisis cuantitativo (NTC 481/ASTMD 629), coeficiente de fricción (ASTMD 3412), determinación de la densidad lineal (NTC 959), determinación de materias extraíbles (NTC 751), determinación de rizos por unidad de longitud (NTC 840), determinación de la resistencia a la tracción y alargamiento de fibras individuales (NTC 959), y la prueba para verificar que está libre de formaldehído (ISO 14184-1).') 
           table

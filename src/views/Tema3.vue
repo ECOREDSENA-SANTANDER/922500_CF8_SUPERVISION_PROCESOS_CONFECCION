@@ -27,7 +27,7 @@
                 | Diseño o propuesta de la prenda.
               li.d-flex
                 i.fas.fa-car-side.mb-0
-                | Fichas técnicas de los geometrales o planos de la prenda con las especificaciones y observaciones suficientes que permitan comprender la prenda con sus acabados como se muestra en la figura 6.
+                | Fichas técnicas de los geometrales o planos de la prenda con las especificaciones y observaciones suficientes que permitan comprender la prenda con sus acabados como se presenta en la figura 6.
               li.d-flex
                 i.fas.fa-car-side.mb-0
                 | Patronaje y escalado de las prendas. 
@@ -58,7 +58,7 @@
               h5 Figura 6. 
               | Ficha técnica de prenda de vestir
             figure
-              img.img-a.img-t(src='@/assets/ilustraciones/img15.jpg', alt='La imagen muestra una ficha técnica detallada para la confección de una chaqueta llamada “Campera Joey” de la marca Complot, correspondiente a la temporada otoño/invierno 2014. El molde está disponible en varias tallas (XS a L) y utiliza una tela base de cuero con forro de poliéster. Las especificaciones incluyen detalles como la ubicación de las costuras laterales, el tipo de cierre, y la construcción de las mangas. También se indican las instrucciones de cuidado, los datos de materia prima (como los botones y cierres), y las cantidades requeridas para cada componente. Además, se proporcionan ilustraciones del diseño frontal y trasero de la chaqueta, y se explica que las mangas se deben armar primero para la correcta colocación de la prenda.')
+              img.img-a.img-t(src='@/assets/ilustraciones/img15.jpg', alt='La imagen presenta una ficha técnica detallada para la confección de una chaqueta llamada “Campera Joey” de la marca Complot, correspondiente a la temporada otoño/invierno 2014. El molde está disponible en varias tallas (XS a L) y utiliza una tela base de cuero con forro de poliéster. Las especificaciones incluyen detalles como la ubicación de las costuras laterales, el tipo de cierre, y la construcción de las mangas. También se indican las instrucciones de cuidado, los datos de materia prima (como los botones y cierres), y las cantidades requeridas para cada componente. Además, se proporcionan ilustraciones del diseño frontal y trasero de la chaqueta, y se explica que las mangas se deben armar primero para la correcta colocación de la prenda.')
               figcaption Nota: Lara (2017).
 
     
@@ -158,7 +158,7 @@
               h5 Figura 7.
               | Orden operacional de camisa
             figure
-              img.img-a.img-t(src='@/assets/ilustraciones/img17.png', alt='La imagen muestra un diagrama del orden operacional para la confección de una camisa de la empresa Hernandez Srl, marca Papillon, línea casual. El modelo es una camisa a cuadros con manga 3/4 y recortes en delantero y trasero. El diagrama detalla cada paso del proceso de confección, desde el trabajo en el cuello y las mangas, pasando por la unión de los diversos componentes del cuerpo de la camisa, hasta los pasos finales como el etiquetado y el empaquetado. Cada operación está numerada y especifica las acciones necesarias, como fusionar, unir, pegar, coser y planchar, junto con los recursos requeridos para cada paso (máquinas, herramientas, etc.). El diagrama también incluye la fecha de creación y la aprobación del proceso.')
+              img.img-a.img-t(src='@/assets/ilustraciones/img17.png', alt='La imagen presenta un diagrama del orden operacional para la confección de una camisa de la empresa Hernandez Srl, marca Papillon, línea casual. El modelo es una camisa a cuadros con manga 3/4 y recortes en delantero y trasero. El diagrama detalla cada paso del proceso de confección, desde el trabajo en el cuello y las mangas, pasando por la unión de los diversos componentes del cuerpo de la camisa, hasta los pasos finales como el etiquetado y el empaquetado. Cada operación está numerada y especifica las acciones necesarias, como fusionar, unir, pegar, coser y planchar, junto con los recursos requeridos para cada paso (máquinas, herramientas, etc.). El diagrama también incluye la fecha de creación y la aprobación del proceso.')
               figcaption Nota. Pellegrino (2011).
 
 
@@ -174,11 +174,11 @@
                   h5 Figura 8.
                   | Orden operacional de blusa
                 figure
-                  img(src='@/assets/ilustraciones/img18.jpg', alt='La imagen muestra una ficha técnica para la confección de una camisa de cuadros con manga 3/4 y recortes en delantero y trasero de la marca Papillon, línea casual. Detalla cada paso del proceso de confección, desde el surfilado de recortes y la unión de costados delanteros y traseros hasta el asentado de costuras, junto con los diagramas visuales correspondientes. Indica el tipo de máquina necesaria para cada operación (O3H, R1A, PL), proporciona ejemplos de cómo debería verse cada paso completado, y especifica la densidad de puntadas requerida, utilizando hilo de poliéster.')
+                  img(src='@/assets/ilustraciones/img18.jpg', alt='La imagen presenta una ficha técnica para la confección de una camisa de cuadros con manga 3/4 y recortes en delantero y trasero de la marca Papillon, línea casual. Detalla cada paso del proceso de confección, desde el surfilado de recortes y la unión de costados delanteros y traseros hasta el asentado de costuras, junto con los diagramas visuales correspondientes. Indica el tipo de máquina necesaria para cada operación (O3H, R1A, PL), proporciona ejemplos de cómo debería verse cada paso completado, y especifica la densidad de puntadas requerida, utilizando hilo de poliéster.')
                   figcaption Nota. Pellegrino (2011). 
 
 
-        p.mb-4 Como se puede observar en las dos figuras anteriores, aunque son fichas distintas comparten las indicaciones en cada proceso a desarrollar dentro de la confección.  Como material para este componente se puede visualizar una ficha de orden operacional que puede ser tenida en cuenta para ejercicios futuros por parte del aprendiz.
+        p.mb-4 Como se puede explorar en las dos figuras anteriores, aunque son fichas distintas comparten las indicaciones en cada proceso a desarrollar dentro de la confección.  Como material para este componente se puede revisar una ficha de orden operacional que puede ser tenida en cuenta para ejercicios futuros por parte del aprendiz.
     
         .row.justify-content-center.align-items-center.mb-3
           .col-sm-12.col-lg-12
@@ -194,7 +194,7 @@
                           .col.mb-3.mb-sm-0          
                             p.my-2 Anexo. Ficha técnica de orden operacional SENA
                           .col-sm-auto
-                            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_FICHA_RUTA_OPERACIONAL_SENA.pdf')" target="_blank")
+                            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_FICHA_RUTA_OPERACIONAL_SENA.docx')" target="_blank")
                               span Descargar
                               i.fas.fa-file-download 
 
@@ -260,7 +260,7 @@
     
     .mb-4.d-flex.mb-5
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confeccion de blusa
+        h3.col.px-4.mb-0.text-white.mx-4(data-aos="fade-right") Confección de blusa
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema3') 
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -363,7 +363,7 @@
           .col-lg-10 
             p.rojo #[b Paso 4. Preparar delantero, coser pinzas y pespuntear pechera]
             p La preparación de los delanteros consiste en marcar previamente las pinzas, posteriormente coser.
-            p La pechera deberá estar previamente prehormada, y de esta forma a proceder a la unión de piezas, tal como se muestra en el siguiente video:
+            p La pechera deberá estar previamente prehormada, y de esta forma a proceder a la unión de piezas, tal como se presenta en el siguiente video:
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
                     .fondo21.p-3.mb-4
@@ -654,7 +654,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 18") 
           .col-lg-10 
             p.rojo #[b Paso 18. Limpiar, revisar y planchar]
-            p La últimas operaciones consisten en pulir y limpiar nuestra prenda, retirando hebras o cortando de raíz aquellas que hayan quedado, posteriormente planchar y empacar.
+            p Las últimas operaciones consisten en pulir y limpiar nuestra prenda, retirando hebras o cortando de raíz aquellas que hayan quedado, posteriormente planchar y empacar.
             p En el siguiente vídeo podrá revisar este paso a paso:               
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
@@ -671,16 +671,6 @@
                               a.boton.color-acento-botones(href="https://youtu.be/bPATLUZk-Rk" target="_blank")
                                 span Ir al sitio
                                 i.fas.fa-video
-
-    .row.justify-content-center.align-items-center.mb-0
-      .col-sm-12.col-lg-12
-        .cajontt.color-acento-contenido.p-3 
-          .row
-            .col-lg-2
-              img.img-t.img-a.mx-5.my-3.d-none.d-lg-block(src='@/assets/ilustraciones/ftr.svg',alt='tema3')       
-            .col-lg-8
-              p.my-5 A continuación, se presentan dos vídeos tutoriales para el ensamble de camisa, en relación a la confección de camisa #[em Slim fit] para hombre, y la confección de una camisa artesanalmente.
-    
 
     Separador
     #t_3_2.titulo-segundo
@@ -703,7 +693,7 @@
                   h5 Figura 9. 
                   |  Falda clásica
                 figure(data-aos="zoom-in-up")
-                  img.img-a.img-t(src='@/assets/ilustraciones/img21.svg' ,alt='La imagen muestra la Figura 9, que presenta una falda clásica. Incluye una fotografía de la falda terminada, la cual es de corte recto y largo hasta la rodilla, junto con dos dibujos técnicos que detallan el diseño del frente y la parte trasera de la prenda. La falda es de color negro y tiene un estilo sencillo y elegante, adecuado para diversas ocasiones formales.')
+                  img.img-a.img-t(src='@/assets/ilustraciones/img21.svg' ,alt='La imagen presenta la Figura 9, que presenta una falda clásica. Incluye una fotografía de la falda terminada, la cual es de corte recto y largo hasta la rodilla, junto con dos dibujos técnicos que detallan el diseño del frente y la parte trasera de la prenda. La falda es de color negro y tiene un estilo sencillo y elegante, adecuado para diversas ocasiones formales.')
                   figcaption Fuente: Moldes Unicosé
     
     
@@ -780,7 +770,7 @@
                     .list__item__number
                         span 3.
                 .list__txt 
-                    span Hilo, e hilaza a base de poliéster
+                    span Hilo, e hilaza a base de poliéster.
             .list.mt-2
                 .list__item
                     .list__item__number
@@ -792,8 +782,8 @@
                     .list__item__number
                         span 5.
                 .list__txt 
-                    span Cremallera en nylon de 15 cm, de largo
-            p.mt-4 Siga el paso a paso en el siguiente vídeo
+                    span Cremallera en nylon de 15 cm, de largo.
+            p.mt-4 Siga el paso a paso en el siguiente vídeo.
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -831,7 +821,7 @@
                 i.fas.fa-car-side
                 p.mb-0 Tiza
 
-            p.mt-3 Una vez doblada la tela, haciendo coincidir sus extremos como lo muestra el vídeo del paso a paso:
+            p.mt-3 Una vez doblada la tela, haciendo coincidir sus extremos como lo indica el vídeo del paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -844,7 +834,7 @@
                           h4 Trazo de la falda básica
                           p Adicionalmente, explore con atención el video. “Trazo de la falda básica”.             
                         .col-sm-auto
-                          a.boton.color-acento-botones(href="https://youtu.be/qzREOmZyt7Y" target="_blank")
+                          a.boton.color-acento-botones(href="https://youtu.be/P8q6GhiEEMA" target="_blank")
                             span Ir al sitio
                             i.fas.fa-video
             p.mt-4 Este instructivo le permitirá confeccionar un producto de calidad.
@@ -956,10 +946,10 @@
                               
         .row.justify-content-center.align-items-top.mb-5(titulo="Paso 8") 
           .col-lg-10 
-            p.rojo #[b Corte de corte de la falda básica]
+            p.rojo #[b Corte de la falda básica]
             p Como ya lo hemos visto en el vídeo anterior, es necesario antes de iniciar el corte, poner pesas sobre la tela, esto con el fin de evitar errores en el corte.
             p Una vez señalizado el patrón sobre la tela, y posterior fijar ésta mediante pesas, se procede a realizar el respectivo corte. A medida que se avanza el corte, se debe ir realizando las marcas con piquete. Todo esto lo hacemos sosteniendo la tela, con el fin de evitar deslizamiento del material, y errores en el corte.
-            p Se debe ser preciso, tanto al marcar como al cortar el patrón signado, por lo que te invito a revisar el pasos a paso de manera detallada en el siguiente vídeo:           
+            p Se debe ser preciso, tanto al marcar como al cortar el patrón signado, por lo que te invito a revisar el paso a paso de manera detallada en el siguiente vídeo:           
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -981,7 +971,7 @@
             p.rojo #[b Piezas cortadas, revisión]
             p Una vez cortadas las piezas, se dispone del delantero, que está en una sola pieza, la parte posterior de la falda, que la encontramos en dos piezas separadas, izquierda y derecha, y por último la pretina.
             p Posteriormente se marcan pinzas, para continuar con la confección de la falda básica.
-            p Con el fin de facilitarle la identificación en el corte las piezas, te invitamos a ver el paso a paso en el siguiente vídeo        
+            p Con el fin de facilitarle la identificación en el corte las piezas, te invitamos a explorar el paso a paso en el siguiente vídeo        
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9 
                 .fondo21.p-3
@@ -1032,7 +1022,7 @@
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
                           h4 Procesos de preparación en ensamble de falda
-                          p Adicionalmente, explore con atención el video. “Procesos de preparación basicá”. 
+                          p Adicionalmente, explore con atención el video. “Procesos de preparación básica”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/bviaefd-4x8" target="_blank")
                             span Ir al sitio
@@ -1110,9 +1100,9 @@
     #t_3_3.titulo-segundo
       .h2 3.3 Orden operacional de confección de pantalón
     
-    p.mb-4 En la siguiente tabla se muestra el proceso de confección de un pantalón.
+    p.mb-4 En la siguiente tabla se presenta el proceso de confección de un pantalón.
 
-    .BorTit.mb-4 #[b Tabla 4.]  Orden operacional de pantalón clásico      
+    .BorTit.mb-4 #[b Tabla 3.]  Orden operacional de pantalón clásico      
     .tabla-b.color-acento-contenido.mb-0(data-aos="zoom-in")
       table.mb-4
         caption Nota: Biblioteca SENA
@@ -1159,9 +1149,9 @@
     #t_3_4.titulo-segundo
       .h2 3.4 Orden operacional de confección de prendas en tejido de punto
     
-    p.mb-4 En la siguiente tabla se muestra el proceso operacional para la confección de prendas en tejido de punto.   
+    p.mb-4 En la siguiente tabla se evidencia el proceso operacional para la confección de prendas en tejido de punto.   
     
-    .BorTit.mb-4 #[b Tabla 5.]  Orden operacional de camiseta tipo polo      
+    .BorTit.mb-4 #[b Tabla 4.]  Orden operacional de camiseta tipo polo      
     .tabla-b.color-acento-contenido.my-3.mb-5(data-aos="zoom-in")(alt='La tabla describe el orden operacional para confeccionar un pantalón clásico, enfocándose en la preparación de piezas y el proceso de planillado. Incluye instrucciones para montar cierres y cremalleras, preparar bolsillos de diversos tipos y montar la pretina, destacando la importancia de identificar correctamente cada pieza y su secuencia de ensamblaje.')
       .teb.tabla-b__header
         h4.mb-0  Confección de camiseta tipo polo     
@@ -1598,7 +1588,7 @@
                             span Ir al sitio
                             i.fas.fa-video   
 
-    .BorTit.mb-4 #[b Tabla 6.]  Orden operacional de pantalón sudadera       
+    .BorTit.mb-4 #[b Tabla 5.]  Orden operacional de pantalón sudadera       
     .tabla-b.color-acento-contenido.my-4.mb-5(data-aos="zoom-in")(alt='La tabla describe el orden operacional para confeccionar una camiseta tipo polo, dividida en tres etapas: preparación, ensamblaje y terminados. En la preparación, se trabaja en la pechera, cuello y bolsillos. En el ensamblaje, se unen los hombros, se montan las mangas, se cierran los costados y se dobladilla el ruedo. En los terminados, se realizan operaciones como ojalar, poner botones, revisar, planchar y empaquetar.')
       .tabla-b__header
         h5.mb-0.text-white Confección de pantalón sudadera      
