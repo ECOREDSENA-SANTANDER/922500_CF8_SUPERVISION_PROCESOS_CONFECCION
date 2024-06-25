@@ -612,7 +612,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 16") 
           .col-lg-10 
             p.rojo #[b Paso 16. Marcar ojales y ojalar]
-            p Las operaciones de terminado se inicia con la marcación de los ojales. Para esto hacemos uso de la plantilla, de esta forma marcar e iniciar el ciclo del ojal.
+            p Las operaciones de terminado de la prensa se inicia con la marcación de los ojales. Para esto hacemos uso de la plantilla, de esta forma marcar e iniciar el ciclo del ojal.
             p En el siguiente vídeo podrá revisar este paso a paso:                
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
@@ -1431,9 +1431,9 @@
 
         .row.justify-content-center.align-items-center(titulo="Paso 11")
           .col-lg-10
-            h5.rojo pespuntar pechera
+            h5.rojo Pespuntar pechera
             p Para iniciar el pespunte de la pechera, retomamos la parte de la pechera que había quedado sin coser, de acuerdo con el paso a pasos anterior.
-            p En el siguiente vídeo podrá explorar este paso a paso:
+            p En el siguiente vídeo podrá revisar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1453,7 +1453,7 @@
           .col-lg-10
             h5.rojo Pegar mangas
             p Las mangas se apegan, teniendo la camiseta al derecho y se coloca la manga de igual forma (al derecho), teniendo en cuenta que el piquete quede en la parte posterior de la tela.
-            p Las indicaciones precisas de esta operación, pueden ser exploradas en el siguiente vídeo:
+            p Las indicaciones precisas de esta operación, pueden ser revisadas en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1617,7 +1617,7 @@
           | son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
         p.mb-3 En Colombia se les conoce como
           strong.color “sudadera o pantalón sudadera”
-          |, en Chile buzo, en Ecuador como #[em calentador] y en Venezuela como mono.
+          |, en Chile buzo, en Ecuador como calentador y en Venezuela como mono.
         p.mb-3 Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
         p ¡Bienvenido!
       .col-md-10.col-lg-5.col-10.mb-5
@@ -1894,7 +1894,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 12")
           .col-lg-10
             h5.rojo Limpiar y revisar prenda
-            p La operaciones de terminado inician al limpiar, revisar y pulir la prenda, se inicia con la parte superior, por el revés, después se revisa el posterior, desde la parte superior a la inferior.
+            p Las operaciones de terminado inician al limpiar, revisar y pulir la prenda, se inicia con la parte superior, por el revés, después se revisa el posterior, desde la parte superior a la inferior.
             p Luego se hace la misma operación por el derecho de la prenda, incluyendo bolsillos y botas.
             p Las indicaciones precisas de esta operación, pueden ser exploradas en el siguiente video:  
             .row.justify-content-center.align-items-center.mt-5

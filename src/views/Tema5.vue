@@ -175,7 +175,7 @@
             ul.lista-ul--color.et
               li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
-                p.mb-1 Función del producto:  según su desempeño, generalmente responde a la pregunta ¿para qué sirve?
+                p.mb-1 Función del producto: según su desempeño, generalmente responde a la pregunta, ¿para qué sirve?.
               li.d-flex.mb-0
                 i.fas.fa-car-side.mb-0
                 p.mb-1 Características técnicas: cantidades, peso, tamaño, color, entre otras.
@@ -298,7 +298,7 @@
           .col-md-8.col-lg-4.col-10.mb-4
             img(src='@/assets/ilustraciones/ellaa.png',alt='tema5') 
           .col-sm-12.col-lg-8.mb-4.my-4
-            p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de big data, inteligencia artificial, machine learning, deep learning, internet de las cosas.
+            p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de #[em big data], inteligencia artificial, #[em machine learning, deep learning,] internet de las cosas.
             p.mb-5 La automatización de procesos mejora la agilidad y aumenta la seguridad de los datos al reducir la incidencia de errores. Además, proporciona un mayor conocimiento sobre cada área de la empresa. 
             .cajonyy.p-4.mb-3
               p.mb-2 La implementación inicial implica el uso de #[em software] especializado en herramientas de calidad, tales como #[em SPSS, STATGRAPHICS CENTURION y SAS,] así como tecnologías relacionadas con el Internet de las Cosas, como la geolocalización mediante aplicaciones de códigos #[em QR,] y herramientas de #[em lean manufacturing.]
