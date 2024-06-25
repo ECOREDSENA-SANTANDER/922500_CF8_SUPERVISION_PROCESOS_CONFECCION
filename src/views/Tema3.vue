@@ -321,7 +321,7 @@
           .col-lg-10                
             p.rojo #[b Paso 2. Preparar cuello]    
             p Para la preparación del cuello de la blusa camisera, se debe tener en cuenta algunas recomendaciones, que le permitirán un producto con mejores acabados, en el siguiente video encontrará de manera detallada todo el procedimiento de la confección del cuello.
-            p En el siguiente vídeo podrá revisar este paso a paso                
+            p En el siguiente vídeo podrá revisar este paso a paso:               
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
                     .fondo21.p-3.mb-4
@@ -383,7 +383,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 5") 
           .col-lg-10 
             p.rojo #[b Paso 5. Preparar posterior, coser pinzas]        
-            p La preparación de la parte posterior de la prenda implica principalmente la costura de las pinzas. Para un seguimiento detallado de este proceso, le recomendamos el vídeo que se ofrece a continuación, donde se explica paso a paso cómo realizar esta tarea de manera eficaz.
+            p La preparación de la parte posterior de la prenda implica principalmente la costura de las pinzas. Para un seguimiento detallado de este proceso, le recomendamos el vídeo que se ofrece a continuación, donde se explica paso a paso cómo realizar esta tarea de manera eficaz:
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10 
                     .fondo21.p-3.mb-4
@@ -487,7 +487,7 @@
         .row.justify-content-center.align-items-top(titulo="Paso 10") 
           .col-lg-10 
             p.rojo #[b Paso 10. Pegar mangas]
-            p La unión de las mangas en la blusa, requiere que se preste especial atención en pegar derecho con derecho de la tela, para esto tenga en cuenta que debe de coincidir la parte del posterior de la manga (portañuela), con el posterior de la blusa
+            p La unión de las mangas en la blusa, requiere que se preste especial atención en pegar derecho con derecho de la tela, para esto tenga en cuenta que debe de coincidir la parte del posterior de la manga (portañuela), con el posterior de la blusa.
             p En el siguiente vídeo podrá revisar este paso a paso:             
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
@@ -509,7 +509,7 @@
           .col-lg-10 
             p.rojo #[b Paso 11. Pespuntar mangas]
             p Para iniciar el pespunte de las mangas, se debe tumbar hacia el cuerpo de la blusa, y luego usando el pie compensado derecho, se da inicio al pespunte con remate al inicio y respetando la curva que tiene la manga. 
-            p Es un procedimiento sencillo, y que requiere atención, para una mejor explicación le invitamos a revisar el siguiente paso a paso.
+            p Es un procedimiento sencillo, y que requiere atención, para una mejor explicación le invitamos a revisar el siguiente paso a paso:
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10  
                     .fondo21.p-3.mb-4
@@ -530,7 +530,7 @@
           .col-lg-10 
             p.rojo #[b Paso 12. Cerrar costados]
             p La unión por costados de la blusa, debe tenerse en cuenta que el derecho filete debe quedar por el delantero, se alinean las piezas y se revisa que coincidan los piquetes de costura. Este paso requiere especial atención a los detalles.
-            p En el siguiente vídeo podrá encontrar una amplia explicación al respecto.
+            p En el siguiente vídeo podrá encontrar una amplia explicación al respecto:
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10 
                     .fondo21.p-3.mb-4
@@ -634,7 +634,7 @@
           .col-lg-10 
             p.rojo #[b Paso 17. Marcar botones y botonar] 
             p Antes de pegar los botones es necesario marcar el lugar exacto en donde irá el botón, para esto es necesario ayudarnos de los ojales, tanto en el cuerpo de la camisa como en los puños de esta.
-            p El vídeo que encuentra a continuación explica de forma clara el paso a paso para pegar los botones.               
+            p El vídeo que encuentra a continuación explica de forma clara el paso a paso para pegar los botones:              
                 .row.justify-content-center.align-items-center.mb-5
                   .col-sm-12.col-lg-10 
                     .fondo21.p-3.mb-4
@@ -783,7 +783,7 @@
                         span 5.
                 .list__txt 
                     span Cremallera en nylon de 15 cm, de largo.
-            p.mt-4 Siga el paso a paso en el siguiente vídeo.
+            p.mt-4 Siga el paso a paso en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -882,7 +882,7 @@
                 i.fas.fa-car-side
                 p.mb-0 Separación de busto: 18 cm
     
-            p.mt-3 Te invito a seguir el paso a paso de este patronaje en el siguiente vídeo
+            p.mt-3 Te invito a seguir el paso a paso de este patronaje en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -926,7 +926,7 @@
         .row.justify-content-center.align-items-top.mb-5(titulo="Paso 7") 
           .col-lg-10 
             p.rojo #[b Corte de pretina en entretela] 
-            p Para llevar a cabo el corte de la entretela, deberá fijarse el respectivo patrón de la pretina, mediante pesos, con el fin de evitar errores de medida en el corte
+            p Para llevar a cabo el corte de la entretela, deberá fijarse el respectivo patrón de la pretina, mediante pesos, con el fin de evitar errores de medida en el corte.
             p El siguiente vídeo explica de manera precisa cómo realizar el proceso:             
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
@@ -971,7 +971,7 @@
             p.rojo #[b Piezas cortadas, revisión]
             p Una vez cortadas las piezas, se dispone del delantero, que está en una sola pieza, la parte posterior de la falda, que la encontramos en dos piezas separadas, izquierda y derecha, y por último la pretina.
             p Posteriormente se marcan pinzas, para continuar con la confección de la falda básica.
-            p Con el fin de facilitarle la identificación en el corte las piezas, te invitamos a explorar el paso a paso en el siguiente vídeo        
+            p Con el fin de facilitarle la identificación en el corte las piezas, te invitamos a explorar el paso a paso en el siguiente vídeo:       
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9 
                 .fondo21.p-3
@@ -1035,7 +1035,7 @@
             p Los piquetes realizados en la prenda, nos servirán de guía en este paso. Una vez cerrados los costados, se procede asentar la costura, usando la plancha, y después se procede a abrir las costuras, para esta acción, nos ayudamos del burro de planchar, teniendo en cuenta que el costado esté sobre el burro. Siempre se debe verificar la calidad del planchado, limpio y sin arrugas.
             p Para colocar la pretina, se debe hacer la marcación tanto al lado derecho, como al izquierdo de la cremallera, para que no quede coja la pretina al momento de pegarla, esta marcación se hace midiendo la cintura hacia abajo 1 cm.
             p Para pegar la pretina, se debe iniciar desde el centro donde está la caja, allí ubicar el orillo de la pretina derecho con derecho.
-            p Una explicación más detallada de este paso a paso, podrá encontrarlo en el siguiente vídeo.
+            p Una explicación más detallada de este paso a paso, podrá encontrarlo en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1070,7 +1070,7 @@
                 i.fas.fa-car-side
                 p.mb-0 Pegar botón, para este paso ubicamos el botón en las  mordazas de la máquina botonadora, teniendo en cuenta que los orificios queden alineados a la aguja, posteriormente ubicamos la pretina por la marcación, y unimos botón y tela. 
 
-            p.mt-3 Una clara explicación de este paso, se encuentra en el vídeo. Esperamos que la confección de su falda básica quede con todas las condiciones de calidad esperadas. 
+            p.mt-3 Una clara explicación de este paso, se encuentra en el vídeo. Esperamos que la confección de su falda básica quede con todas las condiciones de calidad esperadas:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1229,7 +1229,7 @@
                     .list__txt 
                         span Insumos como: hiladillo, botones, tallas y marquillas, puños y cuello tejidos, y por último la hilaza
               
-            p.mt-4 En el siguiente vídeo podrá revisar este paso a paso
+            p.mt-4 En el siguiente vídeo podrá revisar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1239,7 +1239,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 1: Alistamiento para la confección de la camiseta tipo polo ”. 
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 1: Alistamiento para la confección de la camiseta tipo polo”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/GxxciqbSif8" target="_blank")
                             span Ir al sitio
@@ -1249,7 +1249,7 @@
           .col-lg-10
             h5.rojo Prehormar pechera y hacer quiebre en delantero
             p La preparación de este paso inicia haciendo quiebre por el centro frente, en donde se tiene el delantero doblado, esto se hace para ubicar la pechera, la cual debe estar previamente fusionada, con el fin de tener un producto más prolijo, se usa una plantilla, para hacer el quiebre del doblez y así proceder a dobladillar la pechera.
-            p En el siguiente vídeo podrá revisar este paso a paso de forma detallada
+            p En el siguiente vídeo podrá revisar este paso a paso de forma detallada:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1272,7 +1272,7 @@
             p En la parte del patronaje, se indican las piezas de confección, es necesario revisar que estas vengan completas, así como sus medidas, con el fin de verificar tallas.
             p También es necesario contar con la ficha técnica de insumos y confección, en donde se indique todos los requerimientos de hilos e insumos. Y por último algo muy importante, que son las indicaciones de confección con la ruta operacional de la prenda, es decir, el paso a paso.
             p Esta guía técnica, también incluye las condiciones de calidad en cada una de las operaciones de confección.          
-            p En el siguiente vídeo podrá revisar el paso a paso para pegar la pechera
+            p En el siguiente vídeo podrá revisar el paso a paso para pegar la pechera:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1282,7 +1282,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 3: Pegar pechera ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 3: Pegar pechera”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/PmFD-3055Hc" target="_blank")
                             span Ir al sitio
@@ -1292,7 +1292,7 @@
           .col-lg-10
             h5.rojo Unir por hombros
             p La unión de la prenda por hombros, inicia al colocar las piezas de enfrentando derecho con derecho, de tal forma que queden alineadas y se procede a coser por el orillo.
-            p La forma de llevar a cabo este procedimiento podrá ser visualizada en el siguiente vídeo
+            p La forma de llevar a cabo este procedimiento podrá ser visualizada en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1302,7 +1302,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 4: Unir por hombros ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 4: Unir por hombros”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/pXhseaUwEiU" target="_blank")
                             span Ir al sitio
@@ -1313,7 +1313,7 @@
             h5.rojo Pegar puños tejidos a mangas
             p Para realizar la operación de pegar puños tejidos a mangas, debe tenerse en cuenta que se debe alinear la tela, y después de colocar el puño, se ayuda del prensatela para iniciar la costura.
             p Es importante tener cuidado la alineación de las telas, tanto al principio como al final de la manga, evitando así que se corran estas.
-            p En el siguiente vídeo, podrá apreciar el paso a paso de esta operación
+            p En el siguiente vídeo, podrá apreciar el paso a paso de esta operación:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1323,7 +1323,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 5: Pegar puños tejidos a mangas ”. 
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 5: Pegar puños tejidos a mangas”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/4Gaoq4UXS38" target="_blank")
                             span Ir al sitio
@@ -1333,7 +1333,7 @@
           .col-lg-10
             h5.rojo Pespuntar puños de mangas
             p Esta operación se realiza por el lado derecho y con ayuda del pie prensatela especial de ¼ con prensado derecho.
-            p Es un proceso fácil de realizar, y en el siguiente vídeo podrá revisar este paso a paso
+            p Es un proceso fácil de realizar, y en el siguiente vídeo podrá revisar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1343,7 +1343,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 6: Pespuntar puños de mangas ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 6: Pespuntar puños de mangas”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/KGyGr7YWwlc" target="_blank")
                             span Ir al sitio
@@ -1363,7 +1363,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 7: Pespuntar hombros ”. 
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 7: Pespuntar hombros”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/9ROecwywjF8" target="_blank")
                             span Ir al sitio
@@ -1403,7 +1403,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 9: Pegar cuello ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 9: Pegar cuello”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/q5QU4Bjl9Us" target="_blank")
                             span Ir al sitio
@@ -1423,7 +1423,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 10: Pespuntar cuello ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 10: Pespuntar cuello”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/dgra9H5rsNs" target="_blank")
                             span Ir al sitio
@@ -1433,7 +1433,7 @@
           .col-lg-10
             h5.rojo pespuntar pechera
             p Para iniciar el pespunte de la pechera, retomamos la parte de la pechera que había quedado sin coser, de acuerdo con el paso a pasos anterior.
-            p En el siguiente vídeo podrá observar este paso a paso.
+            p En el siguiente vídeo podrá explorar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1452,8 +1452,8 @@
         .row.justify-content-center.align-items-center(titulo="Paso 12")
           .col-lg-10
             h5.rojo Pegar mangas
-            p Las mangas se apegan, teniendo la camiseta al derecho y se coloca la manga de igual forma (al derechos), teniendo en cuenta que el piquete quede en la parte posterior de la tela.
-            p Las indicaciones precisas de esta operación, pueden ser observadas en el siguiente vídeo
+            p Las mangas se apegan, teniendo la camiseta al derecho y se coloca la manga de igual forma (al derecho), teniendo en cuenta que el piquete quede en la parte posterior de la tela.
+            p Las indicaciones precisas de esta operación, pueden ser exploradas en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1472,8 +1472,8 @@
         .row.justify-content-center.align-items-center(titulo="Paso 13")
           .col-lg-10
             h5.rojo Pespuntar mangas
-            p En la operación de pespuntar mangas, se debe tumbar la tela hacia el cuerpo de la camiseta, se recomienda utilizar el pie compensado de ¼ derecho 
-            p En el siguiente vídeo podrá revisar este paso a paso          
+            p En la operación de pespuntar mangas, se debe tumbar la tela hacia el cuerpo de la camiseta, se recomienda utilizar el pie compensado de ¼ derecho.
+            p En el siguiente vídeo podrá revisar este paso a paso:          
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1483,7 +1483,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 13: Pespuntar mangas ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 13: Pespuntar mangas”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/fjqCrEJelIs" target="_blank")
                             span Ir al sitio
@@ -1503,7 +1503,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 14: Unir por costados ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 14: Unir por costados”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/A5nrkUIw9Dc" target="_blank")
                             span Ir al sitio
@@ -1512,7 +1512,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 15")
           .col-lg-10
             h5.rojo Filetear pechera
-            p El filete en la pechera requiere hacer remates, al inicio de la labor, así como trabajar de un lado de la pieza, cada uno de estos pasos están descritos en el siguiente vídeo.            
+            p El filete en la pechera requiere hacer remates, al inicio de la labor, así como trabajar de un lado de la pieza, cada uno de estos pasos están descritos en el siguiente vídeo:            
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1522,7 +1522,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 15: Filetear pechera ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 15: Filetear pechera”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/gJpodU4OigE" target="_blank")
                             span Ir al sitio
@@ -1542,7 +1542,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 16: Dobladillar ruedo ”.  
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 16: Dobladillar ruedo”.  
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/InQ-rwhX5YY" target="_blank")
                             span Ir al sitio
@@ -1551,8 +1551,8 @@
         .row.justify-content-center.align-items-center(titulo="Paso 17")
           .col-lg-10
             h5.rojo Marcar ojales y ojalar
-            p La operaciones de terminado inician con marcar los ojales. Para esto se utiliza una plantilla, y haciendo uso del prensa tela se procede a su confección.
-            p El vídeo que encuentra a continuación explica de forma clara el paso a paso para marcar ojales y ojalar.           
+            p Las operaciones de terminado de la prensa inician con marcar los ojales. Para esto se utiliza una plantilla, y haciendo uso del prensa tela se procede a su confección.
+            p El vídeo que encuentra a continuación explica de forma clara el paso a paso para marcar ojales y ojalar:        
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1562,7 +1562,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 17: Marcar ojales y ojalar ”. 
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 17: Marcar ojales y ojalar”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/xg6aFVMhqB8" target="_blank")
                             span Ir al sitio
@@ -1571,7 +1571,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 18")
           .col-lg-10
             h5.rojo Marcar botones y botonar
-            p Primero se marca en donde van los botones, ayudándose del ojal previamente hecho, una vez marcado se procede a pegar el botón
+            p Primero se marca en donde van los botones, ayudándose del ojal previamente hecho, una vez marcado se procede a pegar el botón.
             p En el siguiente vídeo podrá revisar este paso a paso:            
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
@@ -1582,7 +1582,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0          
-                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 18: Marcar botones y botonar ”. 
+                          p.my-1 Adicionalmente, explore con atención el video. “Confección camiseta tipo polo. Paso 18: Marcar botones y botonar”. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://youtu.be/itZY6iaoWPo" target="_blank")
                             span Ir al sitio
@@ -1615,7 +1615,7 @@
         p.mb-3 Los 
           strong.color pantalones deportivos 
           | son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
-        p.mb-3 En Colombia les conoce como
+        p.mb-3 En Colombia se les conoce como
           strong.color “sudadera o pantalón sudadera”
           |, en Chile buzo, en Ecuador como #[em calentador] y en Venezuela como mono.
         p.mb-3 Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
@@ -1695,7 +1695,7 @@
             p Se inicia con las operaciones de preparación.
             p Se mide el elástico, y posteriormente se corta y se cose, a 1 cm.
             p Una vez realizado esto, se marcan las cuartas partes del elástico, para dar inicio a la confección de la pieza.
-            p En el siguiente vídeo podrá revisar este paso a paso de forma detallada
+            p En el siguiente vídeo podrá revisar este paso a paso de forma detallada:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1715,8 +1715,8 @@
           .col-lg-10
             h5.rojo Coser bolsillos laterales
             p Para iniciar la confección del bolsillo lateral, deberemos ayudarnos de una plantilla lateral, que nos marca éste.
-            p previamente el bolsillo tiene sus piquetes y así se procede a coser, teniendo en cuenta la marcación hecha anteriormente
-            p En el siguiente vídeo podrá revisar el paso a paso para coser bolsillos laterales  
+            p previamente el bolsillo tiene sus piquetes y así se procede a coser, teniendo en cuenta la marcación hecha anteriormente.
+            p En el siguiente vídeo podrá revisar el paso a paso para coser bolsillos laterales:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1736,7 +1736,7 @@
           .col-lg-10
             h5.rojo Filetear bolsillos
             p Para filetear los bolsillos debe cerrarse el fondo del bolsillo, con filete o puntada de seguridad.
-            p El paso a paso de esta operación, se observa en el siguiente vídeo
+            p El paso a paso de esta operación, se explora en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1756,7 +1756,7 @@
           .col-lg-10
             h5.rojo Unir costados incluyendo sesgo
             p Para realizar la operación de unir costados incluyendo sesgo de embone, se hace en la máquina plana, o también se puede utilizar un folder, para colocar el sesgo en la fileteadora.
-            p El respectivo paso a paso se encuentra disponible en el siguiente vídeo 
+            p El respectivo paso a paso se encuentra disponible en el siguiente vídeo: 
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3
@@ -1795,7 +1795,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 7")
           .col-lg-10
             h5.rojo Unir por entrepierna
-            p Para unir la entrepierna, se sigue ensamblando la pierna, con filete de puntada de seguridad, teniendo en cuenta los piquetes que tenga la pieza, para que así coincidan las pieza. 
+            p Para unir la entrepierna, se sigue ensamblando la pierna, con filete de puntada de seguridad, teniendo en cuenta los piquetes que tenga la pieza, para que así coincidan las piezas. 
             p En el siguiente vídeo podrá revisar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
@@ -1835,7 +1835,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 9")
           .col-lg-10
             h5.rojo Fijar elástico
-            p El elástico previamente preparado, se fija por la cintura, teniendo en cuenta la costura de la unión, coincidiendo el orillo de la tela y del elástico
+            p El elástico previamente preparado, se fija por la cintura, teniendo en cuenta la costura de la unión, coincidiendo el orillo de la tela y del elástico.
             p Se explica de forma clara este paso en el siguiente vídeo:
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
@@ -1855,7 +1855,7 @@
         .row.justify-content-center.align-items-center(titulo="Paso 10")
           .col-lg-10
             h5.rojo Dobladillar botas
-            p Para la operación de dobladillar la bota, debe hacerse un dobladillo a 2.5 cm, con ayuda de la guía dobladilladora
+            p Para la operación de dobladillar la bota, debe hacerse un dobladillo a 2.5 cm, con ayuda de la guía dobladilladora.
             p En el siguiente vídeo podrá revisar este paso a paso:  
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
@@ -1896,7 +1896,7 @@
             h5.rojo Limpiar y revisar prenda
             p La operaciones de terminado inician al limpiar, revisar y pulir la prenda, se inicia con la parte superior, por el revés, después se revisa el posterior, desde la parte superior a la inferior.
             p Luego se hace la misma operación por el derecho de la prenda, incluyendo bolsillos y botas.
-            p Las indicaciones precisas de esta operación, pueden ser observadas en el siguiente:  
+            p Las indicaciones precisas de esta operación, pueden ser exploradas en el siguiente video:  
             .row.justify-content-center.align-items-center.mt-5
               .col-sm-12.col-lg-9  
                 .fondo21.p-3

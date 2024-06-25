@@ -14,7 +14,7 @@
 
           .row.justify-content-center.align-items-center.mb-4
             .col-sm-12.col-lg-8
-              p.mb-4 El control de calidad permite realizar un análisis a partir de la reflexión y la observación de actividades y procesos ejecutados en las diferentes áreas de la empresa o taller, estableciendo así, puntos de control en patronaje, corte y trazo, compras de insumos, confección y producto terminado. Esta inspección no solo se encauza en detectar fallas, defectos y problemas de la cadena productiva, su gran finalidad es anticiparse a ellos y así lograr una optimización en los métodos de fabricación, mejoramiento continuo, reducción de costos y posteriormente potencializar la productividad.
+              p.mb-4 El control de calidad permite realizar un análisis a partir de la reflexión y la exploración de actividades y procesos ejecutados en las diferentes áreas de la empresa o taller, estableciendo así, puntos de control en patronaje, corte y trazo, compras de insumos, confección y producto terminado. Esta inspección no solo se encauza en detectar fallas, defectos y problemas de la cadena productiva, su gran finalidad es anticiparse a ellos y así lograr una optimización en los métodos de fabricación, mejoramiento continuo, reducción de costos y posteriormente potencializar la productividad.
                 .col-lg-12
                   .cajoo.p-4.mb-3
                     p En consecuencia, controlar, revisar, medir y registrar la producción, hace que la empresa incremente los estándares de calidad en los productos o artículos manufacturados, haciéndola más competitiva en el mercado.
@@ -419,7 +419,7 @@
                         p.my-2.mx-0 #[b Tener en cuenta:] la comunicación interna también debe estar bien organizada, contar con un sistema de comunicación adecuado para evitar duplicidades de información que afecten negativamente la gestión de la calidad.
 
 
-          p.mb-4(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[em Deming] de la calidad que se puede observar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
+          p.mb-4(data-aos="fade-right") Para reconocer la gestión en los procesos se debe tener en cuenta el ciclo #[em Deming] de la calidad que se puede explorar en la figura 19, sobre el cual se construyen los sistemas de gestión, es también conocido como el plan de mejoramiento continuo.
     
           .row.justify-content-center.align-items-center     
             .col-lg-8
@@ -596,7 +596,7 @@
         tr
           td.br-tabble.tab-boldoo 10
           td.br-tabble Implementar el #[em KAIZEN]
-          td Desarrollar el evento según lo planeado, mejorar métodos, modificar #[em layout], observar comportamientos, realizar cambios   
+          td Desarrollar el evento según lo planeado, mejorar métodos, modificar #[em layout], explorar comportamientos, realizar cambios   
 
 
         tr
@@ -826,7 +826,7 @@
             img.img-a.img-t(src="@/assets/ilustraciones/nqr.svg",alt='tema5')
 
 
-    p.mt-3 En el caso de los textiles, teniendo en cuenta las propiedades asociadas a su composición se realizan las inspecciones en las que pueden ser observables con detenimiento, pero es necesario realizar pruebas de laboratorio que garanticen la calidad para su utilización.                                   
+    p.mt-3 En el caso de los textiles, teniendo en cuenta las propiedades asociadas a su composición se realizan las inspecciones en las que pueden ser exploradas con detenimiento, pero es necesario realizar pruebas de laboratorio que garanticen la calidad para su utilización.                                   
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -910,7 +910,7 @@
             img.img-t.img-a(src="@/assets/ilustraciones/rute.svg",alt='tema5')
         
         
-    p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede observar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.
+    p.mt-5.mb-5(data-aos="fade-right") Es importante revisar el comportamiento del textil al contacto con el agua y las temperaturas. Al lavar la tela se puede identificar la recuperación y formación de arrugas, la solidez del color para que no migre en el caso que se presente combinaciones de colores en las piezas y uso de insumos. También se debe tener en cuenta en las fibras, los efectos del contacto con bacterias y microorganismos, su incidencia en la durabilidad. Así mismo, el contacto con fluidos corporales como sangre, saliva o sudoración.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-6
@@ -980,7 +980,7 @@
         .row.justify-content-center.align-items-center.mt-5.mb-5
           .col-lg-10
             h4(data-aos="fade-right") Medidas 
-            p(data-aos="fade-left") Del patrón con costuras y sin costuras; para comparar medidas con la prenda terminada, corresponda con la talla, además revisar que las medidas de las piezas sean iguales al unir, además de tener simetría, se puede superponer las piezas para observar que estas coincidan en cuanto a sus longitudes.
+            p(data-aos="fade-left") Del patrón con costuras y sin costuras; para comparar medidas con la prenda terminada, corresponda con la talla, además revisar que las medidas de las piezas sean iguales al unir, además de tener simetría, se puede superponer las piezas para explorar que estas coincidan en cuanto a sus longitudes.
             .hr  
 
         .row.justify-content-center.align-items-center.mt-5
@@ -1253,7 +1253,7 @@
         .cajon.color-acento-contenido.p-4
           p(data-aos="fade-down") En estos ensayos o pruebas se analizan las fibras, en cuanto a la cantidad, colorimétrica, peso, composición, cambios dimensionales después del lavado, resistencia a la rotura y al desgarre, elongación y elasticidad de la tela, recuperación a las arrugas, resistencia a la abrasión, solidez al color con el frote, al agua, al planchado, resistencia a la formación de motas (#[i Pilling]), entre otras.
 
-    p.text-center.mb-4 En el siguiente cuadro podemos observar algunos ensayos con la norma relacionada que se puede realizar a la prenda. 
+    p.text-center.mb-4 En el siguiente cuadro podemos explorar algunos ensayos con la norma relacionada que se puede realizar a la prenda. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-6
