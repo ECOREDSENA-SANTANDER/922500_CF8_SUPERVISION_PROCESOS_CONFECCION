@@ -166,12 +166,12 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.pdf',
+        download: 'downloads/CF08_922500_DU.pdf',
       },
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/CF08_922500_DU.zip',
       },
       {
         icono: 'far fa-registered',
@@ -448,7 +448,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

@@ -1110,7 +1110,7 @@
           td.text-center #[b Preparación de las piezas]
           td.text-center #[b Proceso de plantillado fusionado y pre-hormado]
         tr
-          td.tab-bold.br-tabble Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón). 
+          td.tab-bold.br-tabble Montaje de cierre, cremallera, corredera o #[em zipper] (aletilla y aletillón). 
           td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados y los pasos para el ensamble y el desarrollo pueden variar. 
             .col-lg-7
               a(data-aos="zoom-in").anexo.mt-3.mb-lg-0(href="https://www.youtube.com/watch?v=4pMSfzpnmYg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
@@ -1227,7 +1227,7 @@
                         .list__item__number
                             span 6.
                     .list__txt 
-                        span Insumos como: hiladillo, botones, tallas y marquillas, puños y cuello tejidos, y por último la hilaza
+                        span Insumos como: hiladillo, botones, tallas y marquillas, puños y cuello tejidos, y por último la hilaza.
               
             p.mt-4 En el siguiente vídeo podrá revisar este paso a paso:
             .row.justify-content-center.align-items-center.mt-5

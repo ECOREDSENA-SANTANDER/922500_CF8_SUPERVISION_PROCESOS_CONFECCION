@@ -286,7 +286,7 @@
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
         .video
-          iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/pRuqbcXJ1ZY?si=y1-PaqRtpg20a_lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/FU7U5sKAvUM?si=jSutDvlmvf-Ckfc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
         figcaption.mb-5 Video. Description
         
         .mb-4.d-flex.mb-5
@@ -661,7 +661,7 @@
                 img(src='@/assets/ilustraciones/six.svg',alt='tema5')               
     
     
-    p.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo #[em DMAIC] (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es constatable en la figura 21.
+    p.mb-4 El nombre proviene en los casos en que se presenta una menor variación entre los datos y así mismo es la desviación estándar es menor, y por lo tanto mayor va a ser la sigma alcanzando el nivel 6.#[em Six sigma] sigue un modelo llamado ciclo DMAIC (Definir, Medir, Analizar, Mejorar y Controlar) lo cual es constatable en la figura 21.
 
     
     .row.justify-content-center.align-items-center

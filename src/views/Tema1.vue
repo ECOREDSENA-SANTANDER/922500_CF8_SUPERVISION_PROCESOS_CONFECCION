@@ -32,7 +32,7 @@
                     .bloque-texto-a__texto.p-4
                       p #[b La norma GTC 230] es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual fue desarrollada a través de un comité técnico de textiles, en el que participaron diversas empresas colombianas, como centros de formación del SENA, universidades, hilanderías, lavanderías, empresas de confección y textilerías.
 
-        p.mb-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, #[em brasier, panty y bóxer;]  identificadas así:
+        p.mb-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente; es por esto que el Instituto Colombiano de Normas Técnicas y Certificación -ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, brasier, #[em panty y bóxer;]  identificadas así:
 
 
         .row.justify-content-center.align-items-center.mb-4
