@@ -7,11 +7,11 @@
         span 3
       h1(data-aos="zoom-in-right") Confección de prendas de vestir
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-0
       .col-md-10.col-lg-5.col-10
-        img.img-t.img-a.my-2(src='@/assets/ilustraciones/bru.png', alt='tema3')      
+        img.img-t.img-a.mb-3(src='@/assets/ilustraciones/bru.png', alt='tema3')      
       .col-sm-12.col-lg-7
-        p.mb-4.my-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
+        p.mb-4 En el proceso de confección o ensamble de prendas masculinas y femeninas, se identifican necesidades como el manejo y dominio básico de las máquinas de coser y sus aditamentos en el momento de elaborar cualquier tipo de prenda, si bien la destreza en el manejo es importante, tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional como especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo.
 
 
     .row.fondo-pabg.align-items-center.py-4.py-md-3.mb-4
@@ -275,7 +275,7 @@
 
     p.mb-5.text-center Para realizar su confección, a continuación encontrará 18 pasos ilustrados, que le permitirán realizar un buen trabajo. Bienvenido.
     
-    .bg99.p-5.mb-5
+    .bg99.p-5.mb-0
       LineaTiempoC
         .row.justify-content-center.align-items-top(titulo="Paso 1")
           .col-lg-10 

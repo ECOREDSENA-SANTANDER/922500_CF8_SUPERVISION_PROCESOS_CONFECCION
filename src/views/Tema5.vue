@@ -62,7 +62,7 @@
             .col-lg-6     
               .BorTit.mb-4 #[b Figura 15.] Proceso de calidad 
               img.img-t.img-a.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img29.svg',alt='La figura presenta un diagrama que enuncia las características del proceso de calidad: integración total del proceso, satisfacción del cliente, mejora continua, equipo comprometido con la calidad, excelencia en la gestión.')                        
-              figcaption.mb-5 Nota: Calidad Aplicada a la Gestión Empresarial (2018)
+              figcaption.mb-2 Nota: Calidad Aplicada a la Gestión Empresarial (2018)
     
     
     .row.justify-content-center.mb-4
@@ -121,7 +121,7 @@
     p.mb-0 Resumiendo lo planteado, se puede determinar que las palabras satisfacción, cliente, necesidades, mercado, expectativas, son las más comunes cuando se habla de calidad, en efecto, la calidad se comprueba según el nivel de satisfacción del cliente cumpliendo con los requisitos, las necesidades y sus expectativas relacionadas con el producto.
 
     Separador
-    .row.fondo-huo.align-items-center.py-4.mb-4
+    .row.fondo-huo.align-items-center.py-4.mb-2
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-0(data-aos="fade-down")
     
@@ -136,7 +136,7 @@
         
         
         .row.justify-content-center.mb-0
-          .col-lg-3.col-md-4.col-sm-4.my-3.mb-5(data-aos="fade-left")
+          .col-lg-3.col-md-4.col-sm-4.my-3.mb-2(data-aos="fade-left")
             .tarjeta-avatar
               img.img-a.img-t.img-w2.mb-5(src='@/assets/ilustraciones/img70.svg',alt='tema5')
               div.bg15.p-4.pt-5.h-100.shadow
@@ -147,7 +147,7 @@
                 p.mb-0 #[b c.] Entrega oportuna.
                 p.mb-0 #[b d.] Respetar el precio acordado.
                 p.mb-0 #[b e.] Tiempo de duración de vida útil.
-          .col-lg-3.col-md-4.col-sm-4.my-3.mb-5(data-aos="fade-right")
+          .col-lg-3.col-md-4.col-sm-4.my-3.mb-2(data-aos="fade-right")
             .tarjeta-avatar
               img.img-a.img-t.img-w2(src='@/assets/ilustraciones/img71.svg',alt='tema5')
               div.bg15.p-4.pt-5.h-100.shadow
@@ -155,7 +155,7 @@
                 p.mb-0 #[b a.] Darle importancia al cliente.
                 p.mb-0 #[b b.] Trato cordial y amable.
                 p.mb-0 #[b c.] Hacerlo sentir importante.
-          .col-lg-3.col-md-4.col-sm-4.my-3.mb-5(data-aos="fade-left")
+          .col-lg-3.col-md-4.col-sm-4.my-3.mb-2(data-aos="fade-left")
             .tarjeta-avatar
               img.img-a.img-t.img-w2(src='@/assets/ilustraciones/img72.svg',alt='tema5')
               div.bg15.p-4.pt-5.h-100.shadow
@@ -348,7 +348,7 @@
               h3.mb-5.mx-5 Industria 4.0                  
         .row.justify-content-center.align-items-center.mt-2
           .col-lg-12
-            figcaption.mb-5 Nota. Sejzer (2018)     
+            figcaption.mb-0 Nota. Sejzer (2018)     
     
 
     Separador
@@ -616,7 +616,7 @@
           td Responsable del evento realizar seguimiento con programa, presentar resultados y estandarizar, sino da resultado volver a iniciar.                                                 
     
     
-    .row.ert.align-items-center.py-4.py-md-3.mb-5
+    .row.ert.align-items-center.py-4.py-md-3.mb-2
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")
 
@@ -629,7 +629,7 @@
 
         p.mt-5 Es un modelo de gestión, se conoce por sus siglas en inglés DMAIC, el objetivo es el mejoramiento de los procesos; cuya traducción es asociada a las siguientes palabras:          
     
-        .row.justify-content-center.align-items-center.mt-5.mb-5
+        .row.justify-content-center.align-items-center.mt-5
           .col-sm-12.col-lg-10
             .row.justify-content-center.align-items-center
               .col-sm-12.col-lg-6
@@ -692,9 +692,9 @@
           p.mx-4 El lote piloto son las unidades que se confeccionan con el fin de simular la producción de cierta referencia nueva. Es necesario una vez se desarrolla el producto nuevo, realizar simulaciones para prever fallas en la producción, la información proporcionada una vez se realice el lote piloto brinda confianza y señala las estrategias a efectuar en el momento de la producción de la prenda.  
     
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-6
-        .fondo21.p-3.mb-4
+        .fondo21.p-3.mb-0
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img.img-t.img-a(src="@/assets/ilustraciones/pef.svg",alt='tema5')
@@ -725,7 +725,7 @@
           .col-md-10.col-lg-5.col-10
             img.img-t.img-a.mb-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img48.png',alt='tema5') 
 
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-6
             .fondo21.p-3
               .row.justify-content-around.align-items-center
@@ -785,7 +785,7 @@
         figcaption.mb-5 Video. Description
                 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-sm-12.col-lg-6.mb-4
         p.mb-0(data-aos="fade-right") En los 
           strong.color elásticos 
@@ -942,7 +942,7 @@
         img.img-t.img-a.mb-4(src="@/assets/ilustraciones/controll.png",alt='tema5')
             
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-2
       .col-lg-3.col-md-6.col-sm-8.my-3(data-aos="fade-left")
         .tarjeta-avatar
           img.img-a.img-t.img-w22.mb-5(src='@/assets/ilustraciones/exp.svg',alt='tema5')
@@ -975,7 +975,7 @@
   
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-10          
-            p.mb-4 Los requisitos para revisar en patronaje son: 
+            p.mb-2 Los requisitos para revisar en patronaje son: 
 
         .row.justify-content-center.align-items-center.mt-5.mb-5
           .col-lg-10
@@ -1020,7 +1020,7 @@
             p(data-aos="fade-left") Funcionalidad de la plantilla y sus medidas. 
 
 
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-6
             .fondo21.p-3
               .row.justify-content-around.align-items-center
@@ -1034,7 +1034,7 @@
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_13_Hoja_de_Patronaje_y_corte.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/aZex9L1wlmA?si=7TR_RIE2m90tT6TR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
@@ -1047,10 +1047,10 @@
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/ilustraciones/vot.svg' data-aos="fade-left",alt='tema5') 
 
     p.mb-4 En cada una de las actividades que conforman el área de trazo y corte se establecen controles para revisar. Es primordial contar con la trazabilidad de la producción, para ubicar fácilmente cada lote, poder intervenir rápidamente en los productos a corregir y dar respuesta rápida para solucionar el inconveniente. 
-    p.mb-4 Los documentos utilizados en el área para controlar el corte, además de la orden de producción, son las inspecciones divididas en procesos según la actividad a ejecutar. Los requisitos para revisar en cada actividad son los siguientes: 
+    p.mb-2 Los documentos utilizados en el área para controlar el corte, además de la orden de producción, son las inspecciones divididas en procesos según la actividad a ejecutar. Los requisitos para revisar en cada actividad son los siguientes: 
     
     .row(data-aos="zoom-in")
-      .col-lg-4.mb-5(data-aos="fade-left")
+      .col-lg-4.mb-2(data-aos="fade-left")
         figure.d-lg-block.d-none.my-3
           img.my-4(src='@/assets/ilustraciones/345.png',alt='tema5') 
       .col-lg-8.my-3
@@ -1189,7 +1189,7 @@
                 img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img50.png',alt='tema5')   
 
     
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-2
           .col-sm-12.col-lg-6
             .fondo21.p-3
               .row.justify-content-around.align-items-center

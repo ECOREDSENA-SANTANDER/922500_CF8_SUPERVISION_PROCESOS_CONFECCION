@@ -8,9 +8,9 @@
       h1(data-aos="zoom-in-right") Normas técnicas para la confección de prendas de vestir
     
     .row.justify-content-center.align-items-center
-      .col-sm-12.col-lg-7.mb-5
+      .col-sm-12.col-lg-7.mb-4
         p.my-4(data-aos="fade-right") A lo largo de los años, el ensamble de prendas de vestir ha adoptado diversas formas en las empresas, no obstante, existen normas técnicas que facilitan la comprensión de la construcción de las prendas en un ambiente óptimo de fabricación, recursos humanos y materiales e insumos. Este proceso de ensamble, cuando se rige por normas, contribuye a la creación de productos con estándares de calidad y entregas oportunas a los clientes; de esta manera, la programación y la planificación de la producción se combinan con la normatividad, permitiendo a las empresas de confección desarrollar sistemas de producción capaces de competir a nivel nacional e internacional con otras que ofrecen el mismo servicio.
-      .col-md-10.col-lg-5.col-10.mb-5
+      .col-md-10.col-lg-5.col-10.mb-4
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.png', alt='')
     
     .row.justify-content-center.align-items-stretch.mb-5       

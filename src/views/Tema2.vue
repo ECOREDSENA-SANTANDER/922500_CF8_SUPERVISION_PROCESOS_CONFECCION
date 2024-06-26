@@ -7,7 +7,7 @@
         span 2
       h1(data-aos="zoom-in-right") Normas generales para la confección de prendas de vestir 
 
-    .row.fondo-gr.align-items-center.py-4.py-md-3.mb-4
+    .row.fondo-gr.align-items-center.py-4.py-md-3.mb-2
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center(data-aos="fade-down")
     
@@ -15,7 +15,7 @@
             .col-sm-12.col-lg-7
               p Los oficios de la confección de prendas implican varios procesos, desde la manipulación del textil cortado hasta la ejecución a través de maquinaria de acuerdo con cada proceso en particular.   Dichos procesos requieren, por ejemplo, de la manipulación de sujetadores y de arranques en los que el operario, es su principal actor para el funcionamiento de cada una de estas partes.  Al tener presente que es la persona quien está implícita dentro de cada uno de estos procesos es importante identificar las normas de seguridad que permitan considerar el concepto de ergonomía dentro de la labor para que no tenga afectaciones de ningún tipo.
             .col-md-10.col-lg-5.col-10
-              img.img-t.img-a.mt-4.mb-4(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
+              img.img-t.img-a.mb-0(data-aos="zoom-in")(src='@/assets/ilustraciones/aa.png', alt='tema2') 
   
     p.mb-0(data-aos="fade-left") La ergonomía,  incluye especialidades como la industrial y la biomecánica orientadas al ámbito ocupacional, se enfoca en aspectos físicos del trabajo como la fuerza, la postura y la realización de tareas repetitivas por tiempos prolongados. Es crucial considerar estos elementos en cada tarea, siendo responsabilidad del supervisor en procesos de confección asegurar que su equipo cuente con espacios y herramientas que protejan su bienestar. A continuación, se ofrecerán lineamientos para apoyar esta supervisión. 
     
