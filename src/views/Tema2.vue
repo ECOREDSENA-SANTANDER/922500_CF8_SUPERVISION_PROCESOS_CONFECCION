@@ -24,7 +24,7 @@
       .h2 2.1  Normas generales de seguridad para la labor en la confección de prendas  
 
 
-    p.mb-4(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias como las que puede explorar en el Figura 1.
+    p.mb-4(data-aos="fade-right") Antes de iniciar cualquier actividad comprendida en la confección es importante que la persona se disponga físicamente para la labor, por ello se recomiendan algunos estiramientos y contar con la disposición para iniciar, dado que se presentan molestias como las que puede explorar en la Figura 1.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-lg-12
@@ -250,7 +250,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-11.col-md-12.my-3
             p Influye directamente en el bienestar del trabajador, en su rendimiento y seguridad de los operarios, una excesiva temperatura ya sea de frío o calor puede producir fatiga, requiriendo tiempos extendidos de recuperación o descanso, en este caso se vigila la humedad del ambiente.
-            p En espacios con maquinaria industrial, que generan calor durante su operación simultánea, el ambiente de trabajo puede verse afectado. Para mantener un entorno confortable, se recomienda una temperatura de 18°C. 
+            p En espacios con maquinaria industrial, que generan calor durante su operación simultánea, el ambiente de trabajo puede verse afectado. Para mantener un entorno confortable, se recomienda una temperatura de 18 °C. 
       
       .py-3.py-md-4.bg26.px-3(titulo="Ruido")
         .row.align-items-center.justify-content-center

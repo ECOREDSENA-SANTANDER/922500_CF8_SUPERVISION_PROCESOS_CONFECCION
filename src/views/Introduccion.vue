@@ -13,7 +13,7 @@
       .col-sm-12.col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/30VxDeGsd3E?si=dwYS4nyrt_j2iRgy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption.mb-5 Video. Description
+        figcaption.mb-5 Video. Ensamble de prendas de vestir
 </template>
 
 <script>

@@ -287,7 +287,7 @@
 
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/FU7U5sKAvUM?si=jSutDvlmvf-Ckfc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption.mb-5 Video. Description
+        figcaption.mb-5 Video. Tipos de auditorías
         
         .mb-4.d-flex.mb-5
           .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -301,7 +301,7 @@
             p.mb-4 Se denomina calidad 4.0, a todo lo relacionado con la revolución digital, como son las tecnologías de #[em big data], inteligencia artificial, #[em machine learning, deep learning,] internet de las cosas.
             p.mb-5 La automatización de procesos mejora la agilidad y aumenta la seguridad de los datos al reducir la incidencia de errores. Además, proporciona un mayor conocimiento sobre cada área de la empresa. 
             .cajonyy.p-4.mb-3
-              p.mb-2 La implementación inicial implica el uso de #[em software] especializado en herramientas de calidad, tales como #[em SPSS, STATGRAPHICS CENTURION y SAS,] así como tecnologías relacionadas con el Internet de las Cosas, como la geolocalización mediante aplicaciones de códigos #[em QR,] y herramientas de #[em lean manufacturing.]
+              p.mb-2 La implementación inicial implica el uso de #[em software] especializado en herramientas de calidad, tales como SPSS, STATGRAPHICS CENTURION y SAS, así como tecnologías relacionadas con el Internet de las Cosas, como la geolocalización mediante aplicaciones de códigos #[em QR,] y herramientas de #[em lean manufacturing.]
         
         
         p.mb-3 La integración y el tratamiento avanzado de datos permiten simular procesos para optimizar la gestión de calidad virtual; este enfoque habilita a los responsables de calidad para realizar sus tareas de manera remota, eliminando la necesidad de estar físicamente presentes en la empresa. Además, esta estrategia facilita la planificación y ejecución de auditorías, contribuyendo significativamente a la mejora en la implementación de las 5’s. 
@@ -427,28 +427,28 @@
                 .col-lg-12.p-5
                   .row.justify-content-center.align-items-center
                     .col-lg-12
-                      .BorTit.mb-4 #[b Figura 19.] Ciclo #[em Deming]
+                      .BorTit.mb-4 #[b Figura 19.] Ciclo Deming
                       ImagenInfografica.color-primario(data-aos="zoom-in")
 
                         template(v-slot:imagen)
                           figure
-                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/img45.svg',alt='La imagen presenta el Ciclo Deming, también conocido como PDCA, un modelo de mejora continua de procesos. Este ciclo consta de cuatro etapas: Planificar (Plan), donde se identifican problemas y se desarrollan soluciones; Hacer (Do), que implica implementar las soluciones; Verificar (Check), donde se evalúan los resultados de la implementación; y Actuar (Act), que consiste en estandarizar las soluciones exitosas o comenzar de nuevo si los resultados no fueron los esperados. Este ciclo es fundamental para la gestión de la calidad y la mejora continua en las organizaciones.')
+                          img.img-a.img-t.mb-4(src='@/assets/ilustraciones/final.png',alt='La imagen presenta el Ciclo Deming, también conocido como PDCA, un modelo de mejora continua de procesos. Este ciclo consta de cuatro etapas: Planificar (Plan), donde se identifican problemas y se desarrollan soluciones; Hacer (Do), que implica implementar las soluciones; Verificar (Check), donde se evalúan los resultados de la implementación; y Actuar (Act), que consiste en estandarizar las soluciones exitosas o comenzar de nuevo si los resultados no fueron los esperados. Este ciclo es fundamental para la gestión de la calidad y la mejora continua en las organizaciones.')
 
                         .tarjeta.color-acento-botoones.p-3(x="35%" y="14%")
                           p.mb-2 #[b Planificar] (Plan):
                           p ¿Qué hacer? 
                           p ¿Cómo hacerlo?
 
-                        .tarjeta.color-acento-botoones.p-3(x="68%" y="24%")
-                          p.mb-2 #[b Hacer] (Do):
+                        .tarjeta.color-acento-botoones.p-3(x="68%" y="20%")
+                          p.mb-2 #[b Hacer] (#[em Do]):
                           p Realizar lo planeado.
 
-                        .tarjeta.color-acento-botoones.p-3(x="65%" y="85%")
-                          p.mb-2 #[b Verificar] (Check):
+                        .tarjeta.color-acento-botoones.p-3(x="68%" y="80%")
+                          p.mb-2 #[b Verificar] (#[em Check]):
                           p ¿Ocurrieron las cosas según lo planeado?
 
-                        .tarjeta.color-acento-botoones.p-3(x="35%" y="85%")
-                          p.mb-2 #[b Actuar] (Act):
+                        .tarjeta.color-acento-botoones.p-3(x="32%" y="80%")
+                          p.mb-2 #[b Actuar] (#[em Act]):
                           p Cómo mejorar la próxima vez.                    
 
                       figcaption Nota. Cal y mayor (2021) 
@@ -542,7 +542,7 @@
     .BorTit.mb-4 #[b Tabla 6.] Pasos en la metodología Kaizen     
     .tabla-b.color-acento-contenido(data-aos="zoom-in")(alt='La tabla detalla los pasos en la metodología Kaizen, divididos en tres fases: Planear, Hacer y Verificar-Actuar. En la fase de Planear, se identifican áreas que requieren mejoras, se forman equipos KAIZEN, se recopilan datos y se analiza la situación actual. Luego, se proponen soluciones y se planifican acciones específicas. En la fase de Hacer, se implementan las mejoras planificadas, documentando el proceso y utilizando herramientas como mapas de flujo de valor y análisis de causa raíz. Finalmente, en la fase de Verificar-Actuar, se evalúan los resultados, se comparan con los objetivos y se estandarizan las prácticas efectivas para asegurar mejoras continuas.')
       .tabla-b__header
-        h5.mb-0 Pasos en la metodología #[em Kaizen]
+        h5.mb-0 Pasos en la metodología Kaizen
       table
         caption Nota: Biblioteca SENA
         tr.tab-bolddd 
@@ -554,17 +554,17 @@
         
         tr
           td.br-tabble.tab-boldoo 2
-          td.br-tabble Identificar/clarificar el objetivo #[em KAIZEN]
+          td.br-tabble Identificar/clarificar el objetivo KAIZEN
           td Mejorar servicio, reducir defectos, mejorar productividad, entre otros. 
 
         tr
           td.br-tabble.tab-boldoo 3
-          td.br-tabble Identificar a los miembros del equipo #[em KAIZEN]
+          td.br-tabble Identificar a los miembros del equipo KAIZEN
           td Nombrar líder de equipo, miembros de la misma área y de diferente área.   
 
         tr
           td.br-tabble.tab-boldoo 4
-          td.br-tabble Completar hoja de preparación del #[em KAIZEN]
+          td.br-tabble Completar hoja de preparación del KAIZEN
           td Realizar guion del desarrollo del evento, debe ser aprobado por líder de área.    
 
         tr
@@ -575,7 +575,7 @@
         tr
           td.br-tabble.tab-boldoo 6
           td.br-tabble Imaginar situación ideal
-          td Producir al ritmo tackt time, introducir técnica #[em POKA JOKE], eliminar tiempos de espera, analizar movimientos.    
+          td Producir al ritmo #[em tackt time], introducir técnica POKA JOKE, eliminar tiempos de espera, analizar movimientos.    
 
         tr
           td.br-tabble.tab-boldoo 7
@@ -584,18 +584,18 @@
 
         tr
           td.br-tabble.tab-boldoo 8
-          td.br-tabble Desarrollar estrategia #[em KAIZEN]
+          td.br-tabble Desarrollar estrategia KAIZEN
           td Identificar obstáculos, utilizar simulaciones y pruebas.    
 
         tr
           td.br-tabble.tab-boldoo 9
-          td.br-tabble Desarrollar plan de acciones #[em KAIZEN]
+          td.br-tabble Desarrollar plan de acciones KAIZEN
           td Documentar acciones, identificar recursos requeridos, establecer responsabilidades, fechas y tiempos.   
         tr.tab-bolddd 
           <td rowspan="4" style="font-weight: bold; border-right: 1px solid #AFAFAF" >HACER</td>
         tr
           td.br-tabble.tab-boldoo 10
-          td.br-tabble Implementar el #[em KAIZEN]
+          td.br-tabble Implementar el KAIZEN
           td Desarrollar el evento según lo planeado, mejorar métodos, modificar #[em layout], explorar comportamientos, realizar cambios   
 
 
@@ -606,7 +606,7 @@
 
         tr
           td.br-tabble.tab-boldoo 12
-          td.br-tabble Documentar actividades #[em KAIZEN]
+          td.br-tabble Documentar actividades KAIZEN
           td Preparar formatos, registrar información, realizar registros fotográficos    
 
         tr
@@ -744,7 +744,7 @@
       .col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/dGHK_ZRVx3k?si=dFw5EzaNWXZdb4yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption.mb-5 Video. Description
+        figcaption.mb-5 Video. Inspección textiles
 
     .row.justify-content-center.align-items-center
       .col-md-10.col-lg-6.col-10
@@ -782,7 +782,7 @@
       .col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/Dg5CADrmEiE?si=HK3lN2e2S1UOHA-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption.mb-5 Video. Description
+        figcaption.mb-5 Video. Inspección insumos
                 
 
     .row.justify-content-center.align-items-center.mb-0
@@ -1038,7 +1038,7 @@
       .col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/aZex9L1wlmA?si=7TR_RIE2m90tT6TR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption.mb-5 Video. Description
+        figcaption.mb-5 Video. Inspección producto en proceso - Área de patronaje y corte
 
     
     .mb-4.d-flex.mb-5
@@ -1208,7 +1208,7 @@
       .col-lg-12
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/nud4f4gxwV4?si=U2ouOicXf_9KtuEt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)     
-        figcaption Video. Description
+        figcaption Video. Inspección producto en proceso - Puesto de trabajo
 
     p.mb-5 En los puntos de revisión se analizan piezas y prendas terminadas, registrando en los formatos de producto terminado y producto en proceso. Este análisis es directo ya que se relaciona con algo tangible, no menos importante se deben tener presente otros factores indirectos como son:
     

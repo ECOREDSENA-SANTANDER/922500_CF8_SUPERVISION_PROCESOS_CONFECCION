@@ -36,7 +36,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-11.mb-3
             h4 3. Planchado de prendas
-            p Dependiendo de cada prenda y de las bases textiles, se procede a pasar al departamento de plancha para que quede acorde criterios de planchado como en la figura 11.
+            p Dependiendo de cada prenda y de las bases textiles, se procede a pasar al departamento de plancha para que quede acorde a los criterios de planchado como en la figura 11.
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-7             
                 .BorTit.mb-3 #[b Figura 11.] Planchado manual de prendas

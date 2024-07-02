@@ -239,7 +239,7 @@
       .h2 3.1 Orden operacional de confección de camisa
     
     
-    p.my-5(data-aos="fade-right") Para el desarrollo de la ruta operacional en confección de camisa se irán haciendo una serie de ejercicios con diferentes ejemplos trazos, cortes, formas, que al final permitirán el ensamble de la camisa.
+    p.my-5(data-aos="fade-right") Para el desarrollo de la ruta operacional en confección de camisa se irán haciendo una serie de ejercicios con diferentes ejemplos de trazos, cortes, formas, que al final permitirán el ensamble de la camisa.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-8  
@@ -1094,7 +1094,7 @@
 
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/ycttD4aWxtM?si=qI4OlbkBGNeUdxub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-    figcaption Video. Description
+    figcaption Video. Hilos para la confección - Clasificación y usos
 
     Separador
     #t_3_3.titulo-segundo
@@ -1139,7 +1139,7 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
-                        p.my-2 Adicionalmente, explore con atención el video. “Confección pantalón hombre”.
+                        p.my-2 Adicionalmente, explore con atención el video. “Confeccion de Pantalon para Caballero”.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
                           span Ir al sitio

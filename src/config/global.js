@@ -166,12 +166,12 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF08_922500_DU.pdf',
+        download: 'downloads/CF08_922500_DU.zip',
       },
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/CF08_922500_DU.zip',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -326,11 +326,6 @@ export default {
     {
       referencia: 'Omegaht (2013). Enfoque de calidad de Ishikawa.',
       link: 'https://enfoqdecalidad.wordpress.com/author/omegaht/',
-    },
-    {
-      referencia: 'Pellegrino, A. (2011). Diagrama de operaciones.',
-      link:
-        'https://ayelenpellegrino.com/2011/01/03/camiseria-secuencia-de-operaciones/',
     },
     {
       referencia: 'Pellegrino, A. (2011). Secuencia de operaciones',

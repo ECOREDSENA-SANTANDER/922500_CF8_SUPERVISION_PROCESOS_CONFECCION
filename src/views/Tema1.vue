@@ -64,7 +64,7 @@
             .row.justify-content-center.align-items-center       
               .col-lg-12.mb-5
                 .cajon.color-acento-contenido.p-4(data-aos="fade-down")
-                  p.my-4.mx-3 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA que permitirá identificar las diferentes normas que existen de las prendas de vestir.
+                  p.my-4.mx-3 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA, que permitirá identificar las diferentes normas que existen de las prendas de vestir.
                 
               .col-lg-12.mb-4
                 .fondo21.p-3.mb-2
