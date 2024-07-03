@@ -706,8 +706,7 @@
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_8_Tabla_Militar.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-                    
-                    
+  
     .row.npr.align-items-center.py-4.py-md-3.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4(data-aos="fade-down")

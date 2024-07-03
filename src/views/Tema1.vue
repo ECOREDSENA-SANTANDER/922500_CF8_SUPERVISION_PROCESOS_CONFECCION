@@ -34,7 +34,6 @@
 
         p.mb-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente; es por esto que el Instituto Colombiano de Normas Técnicas y Certificación -ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, brasier, #[em panty y bóxer;]  identificadas así:
 
-
         .row.justify-content-center.align-items-center.mb-4
           .col-sm-12.col-lg-12
             .row.justify-content-center
@@ -144,7 +143,7 @@
                     h4.my-0.mb-2 Proceso de diseño y desarrollo del producto
                     p.mb-0 En el anexo 2, para ampliar información diríjase al PDF proceso de diseño y desarrollo del producto.
                   .col-sm-auto
-                    a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
+                    a.boton.color-acento-botones.mx-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Diseño_y_desarrollo_del_producto.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
           

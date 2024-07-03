@@ -1139,7 +1139,7 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0          
-                        p.my-2 Adicionalmente, explore con atención el video. “Confeccion de Pantalon para Caballero”.
+                        p.my-2 Adicionalmente, explore con atención el video. “Confección de Pantalón para Caballero”.
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NHtzg2UrKHs" target="_blank")
                           span Ir al sitio
