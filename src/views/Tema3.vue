@@ -228,7 +228,7 @@
                           .col.mb-3.mb-sm-0          
                             p.my-2 Anexo. Paso a paso en confección de complementos
                           .col-sm-auto
-                            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5._PASO_A_PASO_EN_CONFECCION_DE_COMPLEMENTOS.docx')" target="_blank")
+                            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5._PASO_A_PASO_EN_CONFECCION_DE_COMPLEMENTOS.pdf')" target="_blank")
                               span Descargar
                               i.fas.fa-file-download
     
